@@ -1,0 +1,47 @@
+{
+  "0":{
+    "Start":"1.1.1897",
+    "End":"1.31.1906",
+    "Months":109,
+    "Years":9,
+    "Annualized Return":"10.56%",
+    "Cumulative Return":"148.92%",
+    "Annualized Std. Dev.4":"20.45%"
+  },
+  "1":{
+    "Start":"7.1.1924",
+    "End":"8.30.1929",
+    "Months":62,
+    "Years":5,
+    "Annualized Return":"30.44%",
+    "Cumulative Return":"294.66%",
+    "Annualized Std. Dev.4":"17.30%"
+  },
+  "2":{
+    "Start":"12.1.1954",
+    "End":"1.31.1966",
+    "Months":134,
+    "Years":11,
+    "Annualized Return":"8.72%",
+    "Cumulative Return":"154.29%",
+    "Annualized Std. Dev.4":"11.68%"
+  },
+  "3":{
+    "Start":"11.1.1982",
+    "End":"12.31.1999",
+    "Months":206,
+    "Years":17,
+    "Annualized Return":"15.34%",
+    "Cumulative Return":"1,059.31%",
+    "Annualized Std. Dev.4":"15.02%"
+  },
+  "4":{
+    "Start":"1.1.2011",
+    "End":"12.31.2023",
+    "Months":156,
+    "Years":13,
+    "Annualized Return":"9.05%",
+    "Cumulative Return":"225.54%",
+    "Annualized Std. Dev.4":"14.37%"
+  }
+}

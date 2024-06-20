@@ -1,0 +1,20 @@
+{
+  "0":{
+    "1 Month Price Returns (Daily)":"Upgrade",
+    "Year to Date Price Returns (Daily)":"Upgrade",
+    "52 Week High (Daily)":"Upgrade",
+    "52 Week Low (Daily)":"Upgrade"
+  },
+  "1":{
+    "1 Month Price Returns (Daily)":"Annualized Price Returns Since Inception (Daily)",
+    "Year to Date Price Returns (Daily)":"Max Drawdown (Since Inception)",
+    "52 Week High (Daily)":"50-Day Simple Moving Average",
+    "52 Week Low (Daily)":"200-Day Simple Moving Average"
+  },
+  "2":{
+    "1 Month Price Returns (Daily)":"Upgrade",
+    "Year to Date Price Returns (Daily)":"Upgrade",
+    "52 Week High (Daily)":"Upgrade",
+    "52 Week Low (Daily)":"Upgrade"
+  }
+}

@@ -1,0 +1,965 @@
+{
+  "0":{
+    "Year":1915,
+    "Dow Year Open":74.45,
+    "Dow Year High":54.63,
+    "Dow Jones Year Low":99.21,
+    "Dow Year Close":54.22,
+    "Annual":99.15,
+    "% Change":0.8149
+  },
+  "1":{
+    "Year":1916,
+    "Dow Year Open":95.27,
+    "Dow Year High":98.81,
+    "Dow Jones Year Low":110.15,
+    "Dow Year Close":86.42,
+    "Annual":95.0,
+    "% Change":-0.0419
+  },
+  "2":{
+    "Year":1917,
+    "Dow Year Open":87.87,
+    "Dow Year High":96.15,
+    "Dow Jones Year Low":99.18,
+    "Dow Year Close":65.95,
+    "Annual":74.38,
+    "% Change":-0.2171
+  },
+  "3":{
+    "Year":1918,
+    "Dow Year Open":80.97,
+    "Dow Year High":76.68,
+    "Dow Jones Year Low":89.07,
+    "Dow Year Close":73.38,
+    "Annual":82.2,
+    "% Change":0.1051
+  },
+  "4":{
+    "Year":1919,
+    "Dow Year Open":99.79,
+    "Dow Year High":82.6,
+    "Dow Jones Year Low":119.62,
+    "Dow Year Close":79.35,
+    "Annual":107.23,
+    "% Change":0.3045
+  },
+  "5":{
+    "Year":1920,
+    "Dow Year Open":90.01,
+    "Dow Year High":107.23,
+    "Dow Jones Year Low":108.85,
+    "Dow Year Close":66.75,
+    "Annual":71.95,
+    "% Change":-0.329
+  },
+  "6":{
+    "Year":1921,
+    "Dow Year Open":73.39,
+    "Dow Year High":72.67,
+    "Dow Jones Year Low":81.5,
+    "Dow Year Close":63.9,
+    "Annual":80.8,
+    "% Change":0.123
+  },
+  "7":{
+    "Year":1922,
+    "Dow Year Open":93.24,
+    "Dow Year High":78.91,
+    "Dow Jones Year Low":102.76,
+    "Dow Year Close":78.59,
+    "Annual":98.17,
+    "% Change":0.215
+  },
+  "8":{
+    "Year":1923,
+    "Dow Year Open":94.87,
+    "Dow Year High":98.77,
+    "Dow Jones Year Low":105.38,
+    "Dow Year Close":85.91,
+    "Annual":95.52,
+    "% Change":-0.027
+  },
+  "9":{
+    "Year":1924,
+    "Dow Year Open":99.65,
+    "Dow Year High":95.65,
+    "Dow Jones Year Low":120.51,
+    "Dow Year Close":88.33,
+    "Annual":120.51,
+    "% Change":0.2616
+  },
+  "10":{
+    "Year":1925,
+    "Dow Year Open":134.4,
+    "Dow Year High":121.25,
+    "Dow Jones Year Low":159.39,
+    "Dow Year Close":115.0,
+    "Annual":151.08,
+    "% Change":0.2537
+  },
+  "11":{
+    "Year":1926,
+    "Dow Year Open":153.0,
+    "Dow Year High":151.08,
+    "Dow Jones Year Low":166.14,
+    "Dow Year Close":135.2,
+    "Annual":157.2,
+    "% Change":0.0405
+  },
+  "12":{
+    "Year":1927,
+    "Dow Year Open":176.07,
+    "Dow Year High":155.16,
+    "Dow Jones Year Low":200.93,
+    "Dow Year Close":152.73,
+    "Annual":200.7,
+    "% Change":0.2767
+  },
+  "13":{
+    "Year":1928,
+    "Dow Year Open":226.17,
+    "Dow Year High":203.35,
+    "Dow Jones Year Low":300.0,
+    "Dow Year Close":191.33,
+    "Annual":300.0,
+    "% Change":0.4948
+  },
+  "14":{
+    "Year":1929,
+    "Dow Year Open":313.54,
+    "Dow Year High":307.01,
+    "Dow Jones Year Low":381.17,
+    "Dow Year Close":198.69,
+    "Annual":248.48,
+    "% Change":-0.1717
+  },
+  "15":{
+    "Year":1930,
+    "Dow Year Open":236.04,
+    "Dow Year High":244.2,
+    "Dow Jones Year Low":294.07,
+    "Dow Year Close":157.51,
+    "Annual":164.58,
+    "% Change":-0.3377
+  },
+  "16":{
+    "Year":1931,
+    "Dow Year Open":138.6,
+    "Dow Year High":169.84,
+    "Dow Jones Year Low":194.36,
+    "Dow Year Close":73.79,
+    "Annual":77.9,
+    "% Change":-0.5267
+  },
+  "17":{
+    "Year":1932,
+    "Dow Year Open":64.53,
+    "Dow Year High":74.62,
+    "Dow Jones Year Low":88.78,
+    "Dow Year Close":41.22,
+    "Annual":59.93,
+    "% Change":-0.2307
+  },
+  "18":{
+    "Year":1933,
+    "Dow Year Open":84.5,
+    "Dow Year High":59.29,
+    "Dow Jones Year Low":108.67,
+    "Dow Year Close":50.16,
+    "Annual":99.9,
+    "% Change":0.6669
+  },
+  "19":{
+    "Year":1934,
+    "Dow Year Open":98.16,
+    "Dow Year High":100.36,
+    "Dow Jones Year Low":110.74,
+    "Dow Year Close":85.51,
+    "Annual":104.04,
+    "% Change":0.0414
+  },
+  "20":{
+    "Year":1935,
+    "Dow Year Open":120.35,
+    "Dow Year High":104.51,
+    "Dow Jones Year Low":148.44,
+    "Dow Year Close":96.71,
+    "Annual":144.13,
+    "% Change":0.3853
+  },
+  "21":{
+    "Year":1936,
+    "Dow Year Open":162.07,
+    "Dow Year High":144.13,
+    "Dow Jones Year Low":184.9,
+    "Dow Year Close":143.11,
+    "Annual":179.9,
+    "% Change":0.2482
+  },
+  "22":{
+    "Year":1937,
+    "Dow Year Open":166.45,
+    "Dow Year High":178.52,
+    "Dow Jones Year Low":194.4,
+    "Dow Year Close":113.64,
+    "Annual":120.85,
+    "% Change":-0.3282
+  },
+  "23":{
+    "Year":1938,
+    "Dow Year Open":132.36,
+    "Dow Year High":120.57,
+    "Dow Jones Year Low":158.41,
+    "Dow Year Close":98.95,
+    "Annual":154.76,
+    "% Change":0.2806
+  },
+  "24":{
+    "Year":1939,
+    "Dow Year Open":142.57,
+    "Dow Year High":153.64,
+    "Dow Jones Year Low":155.92,
+    "Dow Year Close":121.44,
+    "Annual":150.24,
+    "% Change":-0.0292
+  },
+  "25":{
+    "Year":1940,
+    "Dow Year Open":134.64,
+    "Dow Year High":151.43,
+    "Dow Jones Year Low":152.8,
+    "Dow Year Close":111.84,
+    "Annual":131.13,
+    "% Change":-0.1272
+  },
+  "26":{
+    "Year":1941,
+    "Dow Year Open":121.93,
+    "Dow Year High":130.57,
+    "Dow Jones Year Low":133.59,
+    "Dow Year Close":106.34,
+    "Annual":110.96,
+    "% Change":-0.1538
+  },
+  "27":{
+    "Year":1942,
+    "Dow Year Open":107.15,
+    "Dow Year High":112.77,
+    "Dow Jones Year Low":119.71,
+    "Dow Year Close":92.92,
+    "Annual":119.4,
+    "% Change":0.0761
+  },
+  "28":{
+    "Year":1943,
+    "Dow Year Open":134.92,
+    "Dow Year High":119.93,
+    "Dow Jones Year Low":145.82,
+    "Dow Year Close":119.26,
+    "Annual":135.89,
+    "% Change":0.1381
+  },
+  "29":{
+    "Year":1944,
+    "Dow Year Open":143.32,
+    "Dow Year High":135.92,
+    "Dow Jones Year Low":152.53,
+    "Dow Year Close":134.22,
+    "Annual":152.32,
+    "% Change":0.1209
+  },
+  "30":{
+    "Year":1945,
+    "Dow Year Open":169.66,
+    "Dow Year High":152.58,
+    "Dow Jones Year Low":195.82,
+    "Dow Year Close":151.35,
+    "Annual":192.91,
+    "% Change":0.2665
+  },
+  "31":{
+    "Year":1946,
+    "Dow Year Open":191.52,
+    "Dow Year High":191.66,
+    "Dow Jones Year Low":212.5,
+    "Dow Year Close":163.12,
+    "Annual":177.2,
+    "% Change":-0.0814
+  },
+  "32":{
+    "Year":1947,
+    "Dow Year Open":177.48,
+    "Dow Year High":176.39,
+    "Dow Jones Year Low":186.85,
+    "Dow Year Close":163.21,
+    "Annual":181.16,
+    "% Change":0.0223
+  },
+  "33":{
+    "Year":1948,
+    "Dow Year Open":179.78,
+    "Dow Year High":181.04,
+    "Dow Jones Year Low":193.16,
+    "Dow Year Close":165.39,
+    "Annual":177.3,
+    "% Change":-0.0213
+  },
+  "34":{
+    "Year":1949,
+    "Dow Year Open":179.67,
+    "Dow Year High":175.03,
+    "Dow Jones Year Low":200.52,
+    "Dow Year Close":161.6,
+    "Annual":200.13,
+    "% Change":0.1288
+  },
+  "35":{
+    "Year":1950,
+    "Dow Year Open":216.28,
+    "Dow Year High":198.89,
+    "Dow Jones Year Low":235.47,
+    "Dow Year Close":196.81,
+    "Annual":235.41,
+    "% Change":0.1763
+  },
+  "36":{
+    "Year":1951,
+    "Dow Year Open":257.41,
+    "Dow Year High":239.92,
+    "Dow Jones Year Low":276.37,
+    "Dow Year Close":238.99,
+    "Annual":269.23,
+    "% Change":0.1437
+  },
+  "37":{
+    "Year":1952,
+    "Dow Year Open":270.35,
+    "Dow Year High":269.86,
+    "Dow Jones Year Low":292.0,
+    "Dow Year Close":256.35,
+    "Annual":291.9,
+    "% Change":0.0842
+  },
+  "38":{
+    "Year":1953,
+    "Dow Year Open":275.84,
+    "Dow Year High":292.14,
+    "Dow Jones Year Low":293.79,
+    "Dow Year Close":255.49,
+    "Annual":280.9,
+    "% Change":-0.0377
+  },
+  "39":{
+    "Year":1954,
+    "Dow Year Open":334.34,
+    "Dow Year High":282.89,
+    "Dow Jones Year Low":404.39,
+    "Dow Year Close":279.87,
+    "Annual":404.39,
+    "% Change":0.4396
+  },
+  "40":{
+    "Year":1955,
+    "Dow Year Open":442.69,
+    "Dow Year High":408.89,
+    "Dow Jones Year Low":488.4,
+    "Dow Year Close":388.2,
+    "Annual":488.4,
+    "% Change":0.2077
+  },
+  "41":{
+    "Year":1956,
+    "Dow Year Open":493.21,
+    "Dow Year High":485.78,
+    "Dow Jones Year Low":521.05,
+    "Dow Year Close":462.35,
+    "Annual":499.47,
+    "% Change":0.0227
+  },
+  "42":{
+    "Year":1957,
+    "Dow Year Open":476.07,
+    "Dow Year High":496.03,
+    "Dow Jones Year Low":520.77,
+    "Dow Year Close":419.79,
+    "Annual":435.69,
+    "% Change":-0.1277
+  },
+  "43":{
+    "Year":1958,
+    "Dow Year Open":491.26,
+    "Dow Year High":439.27,
+    "Dow Jones Year Low":583.65,
+    "Dow Year Close":436.89,
+    "Annual":583.65,
+    "% Change":0.3396
+  },
+  "44":{
+    "Year":1959,
+    "Dow Year Open":632.57,
+    "Dow Year High":587.59,
+    "Dow Jones Year Low":679.36,
+    "Dow Year Close":574.46,
+    "Annual":679.36,
+    "% Change":0.164
+  },
+  "45":{
+    "Year":1960,
+    "Dow Year Open":618.02,
+    "Dow Year High":679.06,
+    "Dow Jones Year Low":685.47,
+    "Dow Year Close":566.05,
+    "Annual":615.89,
+    "% Change":-0.0934
+  },
+  "46":{
+    "Year":1961,
+    "Dow Year Open":691.74,
+    "Dow Year High":610.25,
+    "Dow Jones Year Low":734.91,
+    "Dow Year Close":610.25,
+    "Annual":731.14,
+    "% Change":0.1871
+  },
+  "47":{
+    "Year":1962,
+    "Dow Year Open":639.14,
+    "Dow Year High":724.71,
+    "Dow Jones Year Low":726.01,
+    "Dow Year Close":535.76,
+    "Annual":652.1,
+    "% Change":-0.1081
+  },
+  "48":{
+    "Year":1963,
+    "Dow Year Open":714.69,
+    "Dow Year High":646.79,
+    "Dow Jones Year Low":767.21,
+    "Dow Year Close":646.79,
+    "Annual":762.95,
+    "% Change":0.17
+  },
+  "49":{
+    "Year":1964,
+    "Dow Year Open":834.09,
+    "Dow Year High":766.08,
+    "Dow Jones Year Low":891.71,
+    "Dow Year Close":766.08,
+    "Annual":874.13,
+    "% Change":0.1457
+  },
+  "50":{
+    "Year":1965,
+    "Dow Year Open":910.7,
+    "Dow Year High":869.78,
+    "Dow Jones Year Low":969.26,
+    "Dow Year Close":840.59,
+    "Annual":969.26,
+    "% Change":0.1088
+  },
+  "51":{
+    "Year":1966,
+    "Dow Year Open":872.78,
+    "Dow Year High":968.54,
+    "Dow Jones Year Low":995.15,
+    "Dow Year Close":744.32,
+    "Annual":785.69,
+    "% Change":-0.1894
+  },
+  "52":{
+    "Year":1967,
+    "Dow Year Open":879.48,
+    "Dow Year High":786.41,
+    "Dow Jones Year Low":943.08,
+    "Dow Year Close":786.41,
+    "Annual":905.11,
+    "% Change":0.152
+  },
+  "53":{
+    "Year":1968,
+    "Dow Year Open":903.96,
+    "Dow Year High":906.84,
+    "Dow Jones Year Low":985.21,
+    "Dow Year Close":825.13,
+    "Annual":943.75,
+    "% Change":0.0427
+  },
+  "54":{
+    "Year":1969,
+    "Dow Year Open":875.72,
+    "Dow Year High":947.73,
+    "Dow Jones Year Low":968.85,
+    "Dow Year Close":769.93,
+    "Annual":800.36,
+    "% Change":-0.1519
+  },
+  "55":{
+    "Year":1970,
+    "Dow Year Open":753.12,
+    "Dow Year High":809.2,
+    "Dow Jones Year Low":842.0,
+    "Dow Year Close":631.16,
+    "Annual":838.92,
+    "% Change":0.0482
+  },
+  "56":{
+    "Year":1971,
+    "Dow Year Open":884.87,
+    "Dow Year High":830.57,
+    "Dow Jones Year Low":950.82,
+    "Dow Year Close":797.97,
+    "Annual":890.2,
+    "% Change":0.0611
+  },
+  "57":{
+    "Year":1972,
+    "Dow Year Open":950.08,
+    "Dow Year High":889.3,
+    "Dow Jones Year Low":1036.27,
+    "Dow Year Close":889.15,
+    "Annual":1020.02,
+    "% Change":0.1458
+  },
+  "58":{
+    "Year":1973,
+    "Dow Year Open":924.07,
+    "Dow Year High":1031.68,
+    "Dow Jones Year Low":1051.7,
+    "Dow Year Close":788.31,
+    "Annual":850.86,
+    "% Change":-0.1658
+  },
+  "59":{
+    "Year":1974,
+    "Dow Year Open":759.13,
+    "Dow Year High":855.32,
+    "Dow Jones Year Low":891.66,
+    "Dow Year Close":577.6,
+    "Annual":616.24,
+    "% Change":-0.2757
+  },
+  "60":{
+    "Year":1975,
+    "Dow Year Open":802.89,
+    "Dow Year High":632.04,
+    "Dow Jones Year Low":881.81,
+    "Dow Year Close":632.04,
+    "Annual":852.41,
+    "% Change":0.3832
+  },
+  "61":{
+    "Year":1976,
+    "Dow Year Open":975.2,
+    "Dow Year High":858.71,
+    "Dow Jones Year Low":1014.79,
+    "Dow Year Close":858.71,
+    "Annual":1004.65,
+    "% Change":0.1786
+  },
+  "62":{
+    "Year":1977,
+    "Dow Year Open":894.37,
+    "Dow Year High":999.75,
+    "Dow Jones Year Low":999.75,
+    "Dow Year Close":800.85,
+    "Annual":831.17,
+    "% Change":-0.1727
+  },
+  "63":{
+    "Year":1978,
+    "Dow Year Open":821.13,
+    "Dow Year High":817.74,
+    "Dow Jones Year Low":907.74,
+    "Dow Year Close":742.12,
+    "Annual":805.01,
+    "% Change":-0.0315
+  },
+  "64":{
+    "Year":1979,
+    "Dow Year Open":844.38,
+    "Dow Year High":811.42,
+    "Dow Jones Year Low":897.61,
+    "Dow Year Close":796.67,
+    "Annual":838.74,
+    "% Change":0.0419
+  },
+  "65":{
+    "Year":1980,
+    "Dow Year Open":891.14,
+    "Dow Year High":824.57,
+    "Dow Jones Year Low":1000.17,
+    "Dow Year Close":759.13,
+    "Annual":963.99,
+    "% Change":0.1493
+  },
+  "66":{
+    "Year":1981,
+    "Dow Year Open":932.95,
+    "Dow Year High":972.78,
+    "Dow Jones Year Low":1024.05,
+    "Dow Year Close":824.01,
+    "Annual":875.0,
+    "% Change":-0.0923
+  },
+  "67":{
+    "Year":1982,
+    "Dow Year Open":884.53,
+    "Dow Year High":882.52,
+    "Dow Jones Year Low":1070.55,
+    "Dow Year Close":776.92,
+    "Annual":1046.54,
+    "% Change":0.196
+  },
+  "68":{
+    "Year":1983,
+    "Dow Year Open":1190.78,
+    "Dow Year High":1027.04,
+    "Dow Jones Year Low":1287.2,
+    "Dow Year Close":1027.04,
+    "Annual":1258.64,
+    "% Change":0.2027
+  },
+  "69":{
+    "Year":1984,
+    "Dow Year Open":1178.59,
+    "Dow Year High":1252.74,
+    "Dow Jones Year Low":1286.64,
+    "Dow Year Close":1086.57,
+    "Annual":1211.57,
+    "% Change":-0.0374
+  },
+  "70":{
+    "Year":1985,
+    "Dow Year Open":1327.99,
+    "Dow Year High":1198.87,
+    "Dow Jones Year Low":1553.1,
+    "Dow Year Close":1184.96,
+    "Annual":1546.67,
+    "% Change":0.2766
+  },
+  "71":{
+    "Year":1986,
+    "Dow Year Open":1793.1,
+    "Dow Year High":1537.73,
+    "Dow Jones Year Low":1955.57,
+    "Dow Year Close":1502.29,
+    "Annual":1895.95,
+    "% Change":0.2258
+  },
+  "72":{
+    "Year":1987,
+    "Dow Year Open":2277.53,
+    "Dow Year High":1927.31,
+    "Dow Jones Year Low":2722.42,
+    "Dow Year Close":1738.74,
+    "Annual":1938.83,
+    "% Change":0.0226
+  },
+  "73":{
+    "Year":1988,
+    "Dow Year Open":2061.48,
+    "Dow Year High":2015.25,
+    "Dow Jones Year Low":2183.5,
+    "Dow Year Close":1879.14,
+    "Annual":2168.57,
+    "% Change":0.1185
+  },
+  "74":{
+    "Year":1989,
+    "Dow Year Open":2510.33,
+    "Dow Year High":2144.64,
+    "Dow Jones Year Low":2791.41,
+    "Dow Year Close":2144.64,
+    "Annual":2753.2,
+    "% Change":0.2696
+  },
+  "75":{
+    "Year":1990,
+    "Dow Year Open":2679.45,
+    "Dow Year High":2810.15,
+    "Dow Jones Year Low":2999.75,
+    "Dow Year Close":2365.1,
+    "Annual":2633.66,
+    "% Change":-0.0434
+  },
+  "76":{
+    "Year":1991,
+    "Dow Year Open":2929.04,
+    "Dow Year High":2610.64,
+    "Dow Jones Year Low":3168.83,
+    "Dow Year Close":2470.3,
+    "Annual":3168.83,
+    "% Change":0.2032
+  },
+  "77":{
+    "Year":1992,
+    "Dow Year Open":3284.08,
+    "Dow Year High":3172.4,
+    "Dow Jones Year Low":3413.2,
+    "Dow Year Close":3136.6,
+    "Annual":3301.11,
+    "% Change":0.0417
+  },
+  "78":{
+    "Year":1993,
+    "Dow Year Open":3524.92,
+    "Dow Year High":3309.2,
+    "Dow Jones Year Low":3794.33,
+    "Dow Year Close":3242.0,
+    "Annual":3754.09,
+    "% Change":0.1372
+  },
+  "79":{
+    "Year":1994,
+    "Dow Year Open":3794.22,
+    "Dow Year High":3756.6,
+    "Dow Jones Year Low":3978.36,
+    "Dow Year Close":3593.35,
+    "Annual":3834.44,
+    "% Change":0.0214
+  },
+  "80":{
+    "Year":1995,
+    "Dow Year Open":4494.28,
+    "Dow Year High":3838.48,
+    "Dow Jones Year Low":5216.47,
+    "Dow Year Close":3832.08,
+    "Annual":5117.12,
+    "% Change":0.3345
+  },
+  "81":{
+    "Year":1996,
+    "Dow Year Open":5739.63,
+    "Dow Year High":5177.45,
+    "Dow Jones Year Low":6560.91,
+    "Dow Year Close":5032.94,
+    "Annual":6448.27,
+    "% Change":0.2601
+  },
+  "82":{
+    "Year":1997,
+    "Dow Year Open":7447.01,
+    "Dow Year High":6442.49,
+    "Dow Jones Year Low":8259.3,
+    "Dow Year Close":6391.7,
+    "Annual":7908.3,
+    "% Change":0.2264
+  },
+  "83":{
+    "Year":1998,
+    "Dow Year Open":8630.76,
+    "Dow Year High":7965.0,
+    "Dow Jones Year Low":9374.27,
+    "Dow Year Close":7539.07,
+    "Annual":9181.43,
+    "% Change":0.161
+  },
+  "84":{
+    "Year":1999,
+    "Dow Year Open":10481.56,
+    "Dow Year High":9184.27,
+    "Dow Jones Year Low":11497.12,
+    "Dow Year Close":9120.67,
+    "Annual":11497.12,
+    "% Change":0.2522
+  },
+  "85":{
+    "Year":2000,
+    "Dow Year Open":10729.38,
+    "Dow Year High":11357.51,
+    "Dow Jones Year Low":11722.98,
+    "Dow Year Close":9796.03,
+    "Annual":10787.99,
+    "% Change":-0.0617
+  },
+  "86":{
+    "Year":2001,
+    "Dow Year Open":10199.29,
+    "Dow Year High":10646.15,
+    "Dow Jones Year Low":11337.92,
+    "Dow Year Close":8235.81,
+    "Annual":10021.57,
+    "% Change":-0.071
+  },
+  "87":{
+    "Year":2002,
+    "Dow Year Open":9214.85,
+    "Dow Year High":10073.4,
+    "Dow Jones Year Low":10635.25,
+    "Dow Year Close":7286.27,
+    "Annual":8341.63,
+    "% Change":-0.1676
+  },
+  "88":{
+    "Year":2003,
+    "Dow Year Open":9006.64,
+    "Dow Year High":8607.52,
+    "Dow Jones Year Low":10453.92,
+    "Dow Year Close":7524.06,
+    "Annual":10453.92,
+    "% Change":0.2532
+  },
+  "89":{
+    "Year":2004,
+    "Dow Year Open":10315.51,
+    "Dow Year High":10409.85,
+    "Dow Jones Year Low":10854.54,
+    "Dow Year Close":9749.99,
+    "Annual":10783.01,
+    "% Change":0.0315
+  },
+  "90":{
+    "Year":2005,
+    "Dow Year Open":10546.66,
+    "Dow Year High":10729.43,
+    "Dow Jones Year Low":10940.55,
+    "Dow Year Close":10012.36,
+    "Annual":10717.5,
+    "% Change":-0.0061
+  },
+  "91":{
+    "Year":2006,
+    "Dow Year Open":11409.78,
+    "Dow Year High":10847.41,
+    "Dow Jones Year Low":12510.57,
+    "Dow Year Close":10667.39,
+    "Annual":12463.15,
+    "% Change":0.1629
+  },
+  "92":{
+    "Year":2007,
+    "Dow Year Open":13178.26,
+    "Dow Year High":12474.52,
+    "Dow Jones Year Low":14164.53,
+    "Dow Year Close":12050.41,
+    "Annual":13264.82,
+    "% Change":0.0643
+  },
+  "93":{
+    "Year":2008,
+    "Dow Year Open":11244.06,
+    "Dow Year High":13043.96,
+    "Dow Jones Year Low":13058.2,
+    "Dow Year Close":7552.29,
+    "Annual":8776.39,
+    "% Change":-0.3384
+  },
+  "94":{
+    "Year":2009,
+    "Dow Year Open":8885.65,
+    "Dow Year High":9034.69,
+    "Dow Jones Year Low":10548.51,
+    "Dow Year Close":6547.05,
+    "Annual":10428.05,
+    "% Change":0.1882
+  },
+  "95":{
+    "Year":2010,
+    "Dow Year Open":10668.58,
+    "Dow Year High":10583.96,
+    "Dow Jones Year Low":11585.38,
+    "Dow Year Close":9686.48,
+    "Annual":11577.51,
+    "% Change":0.1102
+  },
+  "96":{
+    "Year":2011,
+    "Dow Year Open":11957.57,
+    "Dow Year High":11670.75,
+    "Dow Jones Year Low":12810.54,
+    "Dow Year Close":10655.3,
+    "Annual":12217.56,
+    "% Change":0.0553
+  },
+  "97":{
+    "Year":2012,
+    "Dow Year Open":12966.44,
+    "Dow Year High":12397.38,
+    "Dow Jones Year Low":13610.15,
+    "Dow Year Close":12101.46,
+    "Annual":13104.14,
+    "% Change":0.0726
+  },
+  "98":{
+    "Year":2013,
+    "Dow Year Open":15009.52,
+    "Dow Year High":13412.55,
+    "Dow Jones Year Low":16576.66,
+    "Dow Year Close":13328.85,
+    "Annual":16576.66,
+    "% Change":0.265
+  },
+  "99":{
+    "Year":2014,
+    "Dow Year Open":16777.69,
+    "Dow Year High":16441.35,
+    "Dow Jones Year Low":18053.71,
+    "Dow Year Close":15372.8,
+    "Annual":17823.07,
+    "% Change":0.0752
+  },
+  "100":{
+    "Year":2015,
+    "Dow Year Open":17587.03,
+    "Dow Year High":17832.99,
+    "Dow Jones Year Low":18312.39,
+    "Dow Year Close":15666.44,
+    "Annual":17425.03,
+    "% Change":-0.0223
+  },
+  "101":{
+    "Year":2016,
+    "Dow Year Open":17927.11,
+    "Dow Year High":17148.94,
+    "Dow Jones Year Low":19974.62,
+    "Dow Year Close":15660.18,
+    "Annual":19762.6,
+    "% Change":0.1342
+  },
+  "102":{
+    "Year":2017,
+    "Dow Year Open":21750.2,
+    "Dow Year High":19881.76,
+    "Dow Jones Year Low":24837.51,
+    "Dow Year Close":19732.4,
+    "Annual":24719.22,
+    "% Change":0.2508
+  },
+  "103":{
+    "Year":2018,
+    "Dow Year Open":25046.86,
+    "Dow Year High":24824.01,
+    "Dow Jones Year Low":26828.39,
+    "Dow Year Close":21792.2,
+    "Annual":23327.46,
+    "% Change":-0.0563
+  },
+  "104":{
+    "Year":2019,
+    "Dow Year Open":26379.55,
+    "Dow Year High":23346.24,
+    "Dow Jones Year Low":28645.26,
+    "Dow Year Close":22686.22,
+    "Annual":28538.44,
+    "% Change":0.2234
+  },
+  "105":{
+    "Year":2020,
+    "Dow Year Open":26890.67,
+    "Dow Year High":28868.8,
+    "Dow Jones Year Low":30606.48,
+    "Dow Year Close":18591.93,
+    "Annual":30606.48,
+    "% Change":0.0725
+  },
+  "106":{
+    "Year":2021,
+    "Dow Year Open":31576.43,
+    "Dow Year High":30223.89,
+    "Dow Jones Year Low":33171.37,
+    "Dow Year Close":29982.62,
+    "Annual":33153.21,
+    "% Change":0.0832
+  }
+}

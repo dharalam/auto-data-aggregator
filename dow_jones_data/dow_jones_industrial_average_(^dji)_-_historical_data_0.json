@@ -1,0 +1,2270 @@
+{
+  "0":{
+    "Date":"Jun 4, 2024",
+    "Open":38518.9,
+    "High":38786.62,
+    "Low":38397.82,
+    "Close Close price adjusted for splits.":38711.29,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38711.29,
+    "Volume":312988578
+  },
+  "1":{
+    "Date":"Jun 3, 2024",
+    "Open":38709.99,
+    "High":38735.61,
+    "Low":38247.22,
+    "Close Close price adjusted for splits.":38571.03,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38571.03,
+    "Volume":314010000
+  },
+  "2":{
+    "Date":"May 31, 2024",
+    "Open":38140.26,
+    "High":38719.43,
+    "Low":38092.27,
+    "Close Close price adjusted for splits.":38686.32,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38686.32,
+    "Volume":618200000
+  },
+  "3":{
+    "Date":"May 30, 2024",
+    "Open":38368.35,
+    "High":38493.6,
+    "Low":38000.96,
+    "Close Close price adjusted for splits.":38111.48,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38111.48,
+    "Volume":360090000
+  },
+  "4":{
+    "Date":"May 29, 2024",
+    "Open":38716.28,
+    "High":38716.28,
+    "Low":38413.67,
+    "Close Close price adjusted for splits.":38441.54,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38441.54,
+    "Volume":292280000
+  },
+  "5":{
+    "Date":"May 28, 2024",
+    "Open":39028.99,
+    "High":39028.99,
+    "Low":38706.14,
+    "Close Close price adjusted for splits.":38852.86,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38852.86,
+    "Volume":303340000
+  },
+  "6":{
+    "Date":"May 24, 2024",
+    "Open":39089.23,
+    "High":39220.31,
+    "Low":39020.29,
+    "Close Close price adjusted for splits.":39069.59,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39069.59,
+    "Volume":249810000
+  },
+  "7":{
+    "Date":"May 23, 2024",
+    "Open":39694.95,
+    "High":39694.95,
+    "Low":39025.51,
+    "Close Close price adjusted for splits.":39065.26,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39065.26,
+    "Volume":335640000
+  },
+  "8":{
+    "Date":"May 22, 2024",
+    "Open":39863.33,
+    "High":39890.91,
+    "Low":39559.09,
+    "Close Close price adjusted for splits.":39671.04,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39671.04,
+    "Volume":258430000
+  },
+  "9":{
+    "Date":"May 21, 2024",
+    "Open":39804.4,
+    "High":39905.8,
+    "Low":39778.73,
+    "Close Close price adjusted for splits.":39872.99,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39872.99,
+    "Volume":314120000
+  },
+  "10":{
+    "Date":"May 20, 2024",
+    "Open":39989.76,
+    "High":40077.4,
+    "Low":39787.09,
+    "Close Close price adjusted for splits.":39806.77,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39806.77,
+    "Volume":272420000
+  },
+  "11":{
+    "Date":"May 17, 2024",
+    "Open":39911.72,
+    "High":40010.88,
+    "Low":39858.86,
+    "Close Close price adjusted for splits.":40003.59,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":40003.59,
+    "Volume":300260000
+  },
+  "12":{
+    "Date":"May 16, 2024",
+    "Open":39912.34,
+    "High":40051.05,
+    "Low":39864.68,
+    "Close Close price adjusted for splits.":39869.38,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39869.38,
+    "Volume":400560000
+  },
+  "13":{
+    "Date":"May 15, 2024",
+    "Open":39615.1,
+    "High":39935.04,
+    "Low":39615.1,
+    "Close Close price adjusted for splits.":39908.0,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39908.0,
+    "Volume":411190000
+  },
+  "14":{
+    "Date":"May 14, 2024",
+    "Open":39466.76,
+    "High":39616.41,
+    "Low":39371.92,
+    "Close Close price adjusted for splits.":39558.11,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39558.11,
+    "Volume":320860000
+  },
+  "15":{
+    "Date":"May 13, 2024",
+    "Open":39591.28,
+    "High":39647.39,
+    "Low":39403.05,
+    "Close Close price adjusted for splits.":39431.51,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39431.51,
+    "Volume":323370000
+  },
+  "16":{
+    "Date":"May 10, 2024",
+    "Open":39466.52,
+    "High":39579.88,
+    "Low":39406.26,
+    "Close Close price adjusted for splits.":39512.84,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39512.84,
+    "Volume":289480000
+  },
+  "17":{
+    "Date":"May 9, 2024",
+    "Open":39064.27,
+    "High":39413.66,
+    "Low":38988.85,
+    "Close Close price adjusted for splits.":39387.76,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39387.76,
+    "Volume":303270000
+  },
+  "18":{
+    "Date":"May 8, 2024",
+    "Open":38818.9,
+    "High":39094.74,
+    "Low":38814.99,
+    "Close Close price adjusted for splits.":39056.39,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39056.39,
+    "Volume":292340000
+  },
+  "19":{
+    "Date":"May 7, 2024",
+    "Open":38858.94,
+    "High":38977.61,
+    "Low":38840.4,
+    "Close Close price adjusted for splits.":38884.26,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38884.26,
+    "Volume":360930000
+  },
+  "20":{
+    "Date":"May 6, 2024",
+    "Open":38762.43,
+    "High":38886.47,
+    "Low":38689.38,
+    "Close Close price adjusted for splits.":38852.27,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38852.27,
+    "Volume":315550000
+  },
+  "21":{
+    "Date":"May 3, 2024",
+    "Open":38709.36,
+    "High":38808.52,
+    "Low":38518.28,
+    "Close Close price adjusted for splits.":38675.68,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38675.68,
+    "Volume":410530000
+  },
+  "22":{
+    "Date":"May 2, 2024",
+    "Open":38075.65,
+    "High":38295.29,
+    "Low":37895.66,
+    "Close Close price adjusted for splits.":38225.66,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38225.66,
+    "Volume":355910000
+  },
+  "23":{
+    "Date":"May 1, 2024",
+    "Open":37845.56,
+    "High":38349.2,
+    "Low":37780.54,
+    "Close Close price adjusted for splits.":37903.29,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37903.29,
+    "Volume":413540000
+  },
+  "24":{
+    "Date":"Apr 30, 2024",
+    "Open":38337.4,
+    "High":38337.4,
+    "Low":37810.12,
+    "Close Close price adjusted for splits.":37815.92,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37815.92,
+    "Volume":448480000
+  },
+  "25":{
+    "Date":"Apr 29, 2024",
+    "Open":38282.16,
+    "High":38406.2,
+    "Low":38215.47,
+    "Close Close price adjusted for splits.":38386.09,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38386.09,
+    "Volume":343630000
+  },
+  "26":{
+    "Date":"Apr 26, 2024",
+    "Open":38114.7,
+    "High":38337.64,
+    "Low":38065.05,
+    "Close Close price adjusted for splits.":38239.66,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38239.66,
+    "Volume":398680000
+  },
+  "27":{
+    "Date":"Apr 25, 2024",
+    "Open":38052.09,
+    "High":38157.22,
+    "Low":37754.38,
+    "Close Close price adjusted for splits.":38085.8,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38085.8,
+    "Volume":408170000
+  },
+  "28":{
+    "Date":"Apr 24, 2024",
+    "Open":38552.79,
+    "High":38552.79,
+    "Low":38310.55,
+    "Close Close price adjusted for splits.":38460.92,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38460.92,
+    "Volume":337230000
+  },
+  "29":{
+    "Date":"Apr 23, 2024",
+    "Open":38356.07,
+    "High":38561.5,
+    "Low":38297.72,
+    "Close Close price adjusted for splits.":38503.69,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38503.69,
+    "Volume":329420000
+  },
+  "30":{
+    "Date":"Apr 22, 2024",
+    "Open":38116.89,
+    "High":38447.16,
+    "Low":37985.07,
+    "Close Close price adjusted for splits.":38239.98,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38239.98,
+    "Volume":351650000
+  },
+  "31":{
+    "Date":"Apr 19, 2024",
+    "Open":37801.98,
+    "High":38102.57,
+    "Low":37781.61,
+    "Close Close price adjusted for splits.":37986.4,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37986.4,
+    "Volume":420460000
+  },
+  "32":{
+    "Date":"Apr 18, 2024",
+    "Open":37847.21,
+    "High":38083.76,
+    "Low":37681.52,
+    "Close Close price adjusted for splits.":37775.38,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37775.38,
+    "Volume":300230000
+  },
+  "33":{
+    "Date":"Apr 17, 2024",
+    "Open":37949.67,
+    "High":38036.7,
+    "Low":37611.56,
+    "Close Close price adjusted for splits.":37753.31,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37753.31,
+    "Volume":314650000
+  },
+  "34":{
+    "Date":"Apr 16, 2024",
+    "Open":37992.22,
+    "High":37992.22,
+    "Low":37713.7,
+    "Close Close price adjusted for splits.":37798.97,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37798.97,
+    "Volume":339480000
+  },
+  "35":{
+    "Date":"Apr 15, 2024",
+    "Open":38075.38,
+    "High":38386.81,
+    "Low":37657.79,
+    "Close Close price adjusted for splits.":37735.11,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37735.11,
+    "Volume":389170000
+  },
+  "36":{
+    "Date":"Apr 12, 2024",
+    "Open":38319.14,
+    "High":38319.14,
+    "Low":37877.3,
+    "Close Close price adjusted for splits.":37983.24,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37983.24,
+    "Volume":440910000
+  },
+  "37":{
+    "Date":"Apr 11, 2024",
+    "Open":38523.26,
+    "High":38598.98,
+    "Low":38197.28,
+    "Close Close price adjusted for splits.":38459.08,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38459.08,
+    "Volume":356640000
+  },
+  "38":{
+    "Date":"Apr 10, 2024",
+    "Open":38662.28,
+    "High":38662.28,
+    "Low":38304.66,
+    "Close Close price adjusted for splits.":38461.51,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38461.51,
+    "Volume":317580000
+  },
+  "39":{
+    "Date":"Apr 9, 2024",
+    "Open":38983.66,
+    "High":38992.89,
+    "Low":38572.09,
+    "Close Close price adjusted for splits.":38883.67,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38883.67,
+    "Volume":328700000
+  },
+  "40":{
+    "Date":"Apr 8, 2024",
+    "Open":38916.42,
+    "High":39013.2,
+    "Low":38857.7,
+    "Close Close price adjusted for splits.":38892.8,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38892.8,
+    "Volume":291460000
+  },
+  "41":{
+    "Date":"Apr 5, 2024",
+    "Open":38664.98,
+    "High":39040.17,
+    "Low":38602.18,
+    "Close Close price adjusted for splits.":38904.04,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38904.04,
+    "Volume":317110000
+  },
+  "42":{
+    "Date":"Apr 4, 2024",
+    "Open":39343.6,
+    "High":39421.35,
+    "Low":38559.42,
+    "Close Close price adjusted for splits.":38596.98,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38596.98,
+    "Volume":356510000
+  },
+  "43":{
+    "Date":"Apr 3, 2024",
+    "Open":39139.59,
+    "High":39305.76,
+    "Low":39017.13,
+    "Close Close price adjusted for splits.":39127.14,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39127.14,
+    "Volume":364180000
+  },
+  "44":{
+    "Date":"Apr 2, 2024",
+    "Open":39256.27,
+    "High":39256.27,
+    "Low":39051.7,
+    "Close Close price adjusted for splits.":39170.24,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39170.24,
+    "Volume":319590000
+  },
+  "45":{
+    "Date":"Apr 1, 2024",
+    "Open":39807.93,
+    "High":39815.0,
+    "Low":39491.22,
+    "Close Close price adjusted for splits.":39566.85,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39566.85,
+    "Volume":269470000
+  },
+  "46":{
+    "Date":"Mar 28, 2024",
+    "Open":39763.74,
+    "High":39868.59,
+    "Low":39717.25,
+    "Close Close price adjusted for splits.":39807.37,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39807.37,
+    "Volume":360970000
+  },
+  "47":{
+    "Date":"Mar 27, 2024",
+    "Open":39461.98,
+    "High":39769.41,
+    "Low":39461.98,
+    "Close Close price adjusted for splits.":39760.08,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39760.08,
+    "Volume":332190000
+  },
+  "48":{
+    "Date":"Mar 26, 2024",
+    "Open":39338.32,
+    "High":39439.44,
+    "Low":39277.19,
+    "Close Close price adjusted for splits.":39282.33,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39282.33,
+    "Volume":306940000
+  },
+  "49":{
+    "Date":"Mar 25, 2024",
+    "Open":39410.54,
+    "High":39430.17,
+    "Low":39296.03,
+    "Close Close price adjusted for splits.":39313.64,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39313.64,
+    "Volume":323670000
+  },
+  "50":{
+    "Date":"Mar 22, 2024",
+    "Open":39774.06,
+    "High":39824.76,
+    "Low":39469.53,
+    "Close Close price adjusted for splits.":39475.9,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39475.9,
+    "Volume":332340000
+  },
+  "51":{
+    "Date":"Mar 21, 2024",
+    "Open":39661.03,
+    "High":39889.05,
+    "Low":39589.23,
+    "Close Close price adjusted for splits.":39781.37,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39781.37,
+    "Volume":408990000
+  },
+  "52":{
+    "Date":"Mar 20, 2024",
+    "Open":39072.05,
+    "High":39529.13,
+    "Low":38988.65,
+    "Close Close price adjusted for splits.":39512.13,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39512.13,
+    "Volume":350050000
+  },
+  "53":{
+    "Date":"Mar 19, 2024",
+    "Open":38819.61,
+    "High":39122.71,
+    "Low":38761.28,
+    "Close Close price adjusted for splits.":39110.76,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39110.76,
+    "Volume":310610000
+  },
+  "54":{
+    "Date":"Mar 18, 2024",
+    "Open":38826.93,
+    "High":38898.41,
+    "Low":38760.79,
+    "Close Close price adjusted for splits.":38790.43,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38790.43,
+    "Volume":327950000
+  },
+  "55":{
+    "Date":"Mar 15, 2024",
+    "Open":38809.65,
+    "High":38928.13,
+    "Low":38618.2,
+    "Close Close price adjusted for splits.":38714.77,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38714.77,
+    "Volume":774360000
+  },
+  "56":{
+    "Date":"Mar 14, 2024",
+    "Open":39122.39,
+    "High":39160.25,
+    "Low":38704.36,
+    "Close Close price adjusted for splits.":38905.66,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38905.66,
+    "Volume":375810000
+  },
+  "57":{
+    "Date":"Mar 13, 2024",
+    "Open":39054.58,
+    "High":39201.94,
+    "Low":38937.92,
+    "Close Close price adjusted for splits.":39043.32,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39043.32,
+    "Volume":330930000
+  },
+  "58":{
+    "Date":"Mar 12, 2024",
+    "Open":38883.32,
+    "High":39071.56,
+    "Low":38711.39,
+    "Close Close price adjusted for splits.":39005.49,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39005.49,
+    "Volume":329090000
+  },
+  "59":{
+    "Date":"Mar 11, 2024",
+    "Open":38667.21,
+    "High":38794.76,
+    "Low":38483.25,
+    "Close Close price adjusted for splits.":38769.66,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38769.66,
+    "Volume":300190000
+  },
+  "60":{
+    "Date":"Mar 8, 2024",
+    "Open":38776.8,
+    "High":38971.15,
+    "Low":38705.03,
+    "Close Close price adjusted for splits.":38722.69,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38722.69,
+    "Volume":342030000
+  },
+  "61":{
+    "Date":"Mar 7, 2024",
+    "Open":38784.3,
+    "High":38910.35,
+    "Low":38730.13,
+    "Close Close price adjusted for splits.":38791.35,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38791.35,
+    "Volume":335580000
+  },
+  "62":{
+    "Date":"Mar 6, 2024",
+    "Open":38721.15,
+    "High":38858.13,
+    "Low":38570.8,
+    "Close Close price adjusted for splits.":38661.05,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38661.05,
+    "Volume":347900000
+  },
+  "63":{
+    "Date":"Mar 5, 2024",
+    "Open":38906.98,
+    "High":38906.98,
+    "Low":38457.83,
+    "Close Close price adjusted for splits.":38585.19,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38585.19,
+    "Volume":393750000
+  },
+  "64":{
+    "Date":"Mar 4, 2024",
+    "Open":38968.77,
+    "High":39087.86,
+    "Low":38913.3,
+    "Close Close price adjusted for splits.":38989.83,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38989.83,
+    "Volume":386290000
+  },
+  "65":{
+    "Date":"Mar 1, 2024",
+    "Open":38989.51,
+    "High":39120.36,
+    "Low":38850.5,
+    "Close Close price adjusted for splits.":39087.38,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39087.38,
+    "Volume":331030000
+  },
+  "66":{
+    "Date":"Feb 29, 2024",
+    "Open":39013.75,
+    "High":39074.13,
+    "Low":38809.28,
+    "Close Close price adjusted for splits.":38996.39,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38996.39,
+    "Volume":519690000
+  },
+  "67":{
+    "Date":"Feb 28, 2024",
+    "Open":38938.08,
+    "High":38956.46,
+    "Low":38741.68,
+    "Close Close price adjusted for splits.":38949.02,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38949.02,
+    "Volume":272560000
+  },
+  "68":{
+    "Date":"Feb 27, 2024",
+    "Open":39087.9,
+    "High":39087.9,
+    "Low":38881.9,
+    "Close Close price adjusted for splits.":38972.41,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38972.41,
+    "Volume":272860000
+  },
+  "69":{
+    "Date":"Feb 26, 2024",
+    "Open":39144.79,
+    "High":39245.89,
+    "Low":39025.8,
+    "Close Close price adjusted for splits.":39069.23,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39069.23,
+    "Volume":296930000
+  },
+  "70":{
+    "Date":"Feb 23, 2024",
+    "Open":39127.97,
+    "High":39282.28,
+    "Low":39094.36,
+    "Close Close price adjusted for splits.":39131.53,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39131.53,
+    "Volume":286910000
+  },
+  "71":{
+    "Date":"Feb 22, 2024",
+    "Open":38845.19,
+    "High":39149.61,
+    "Low":38802.07,
+    "Close Close price adjusted for splits.":39069.11,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":39069.11,
+    "Volume":324630000
+  },
+  "72":{
+    "Date":"Feb 21, 2024",
+    "Open":38483.66,
+    "High":38618.03,
+    "Low":38338.58,
+    "Close Close price adjusted for splits.":38612.24,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38612.24,
+    "Volume":279510000
+  },
+  "73":{
+    "Date":"Feb 20, 2024",
+    "Open":38576.26,
+    "High":38663.09,
+    "Low":38460.2,
+    "Close Close price adjusted for splits.":38563.8,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38563.8,
+    "Volume":335990000
+  },
+  "74":{
+    "Date":"Feb 16, 2024",
+    "Open":38751.71,
+    "High":38825.03,
+    "Low":38583.24,
+    "Close Close price adjusted for splits.":38627.99,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38627.99,
+    "Volume":282210000
+  },
+  "75":{
+    "Date":"Feb 15, 2024",
+    "Open":38397.94,
+    "High":38781.89,
+    "Low":38397.94,
+    "Close Close price adjusted for splits.":38773.12,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38773.12,
+    "Volume":303840000
+  },
+  "76":{
+    "Date":"Feb 14, 2024",
+    "Open":38372.67,
+    "High":38442.56,
+    "Low":38194.62,
+    "Close Close price adjusted for splits.":38424.27,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38424.27,
+    "Volume":274610000
+  },
+  "77":{
+    "Date":"Feb 13, 2024",
+    "Open":38699.17,
+    "High":38699.17,
+    "Low":38039.86,
+    "Close Close price adjusted for splits.":38272.75,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38272.75,
+    "Volume":318390000
+  },
+  "78":{
+    "Date":"Feb 12, 2024",
+    "Open":38656.76,
+    "High":38927.08,
+    "Low":38628.92,
+    "Close Close price adjusted for splits.":38797.38,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38797.38,
+    "Volume":273020000
+  },
+  "79":{
+    "Date":"Feb 9, 2024",
+    "Open":38731.97,
+    "High":38734.28,
+    "Low":38567.9,
+    "Close Close price adjusted for splits.":38671.69,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38671.69,
+    "Volume":299970000
+  },
+  "80":{
+    "Date":"Feb 8, 2024",
+    "Open":38702.11,
+    "High":38755.68,
+    "Low":38544.36,
+    "Close Close price adjusted for splits.":38726.33,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38726.33,
+    "Volume":315510000
+  },
+  "81":{
+    "Date":"Feb 7, 2024",
+    "Open":38613.89,
+    "High":38748.11,
+    "Low":38571.01,
+    "Close Close price adjusted for splits.":38677.36,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38677.36,
+    "Volume":302210000
+  },
+  "82":{
+    "Date":"Feb 6, 2024",
+    "Open":38392.9,
+    "High":38545.28,
+    "Low":38350.46,
+    "Close Close price adjusted for splits.":38521.36,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38521.36,
+    "Volume":276140000
+  },
+  "83":{
+    "Date":"Feb 5, 2024",
+    "Open":38546.77,
+    "High":38633.88,
+    "Low":38220.4,
+    "Close Close price adjusted for splits.":38380.12,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38380.12,
+    "Volume":322290000
+  },
+  "84":{
+    "Date":"Feb 2, 2024",
+    "Open":38448.1,
+    "High":38783.62,
+    "Low":38336.57,
+    "Close Close price adjusted for splits.":38654.42,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38654.42,
+    "Volume":379760000
+  },
+  "85":{
+    "Date":"Feb 1, 2024",
+    "Open":38175.34,
+    "High":38522.5,
+    "Low":38106.84,
+    "Close Close price adjusted for splits.":38519.84,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38519.84,
+    "Volume":321830000
+  },
+  "86":{
+    "Date":"Jan 31, 2024",
+    "Open":38426.78,
+    "High":38588.86,
+    "Low":38139.66,
+    "Close Close price adjusted for splits.":38150.3,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38150.3,
+    "Volume":453250000
+  },
+  "87":{
+    "Date":"Jan 30, 2024",
+    "Open":38298.23,
+    "High":38497.39,
+    "Low":38257.8,
+    "Close Close price adjusted for splits.":38467.31,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38467.31,
+    "Volume":326640000
+  },
+  "88":{
+    "Date":"Jan 29, 2024",
+    "Open":38115.83,
+    "High":38343.93,
+    "Low":38061.17,
+    "Close Close price adjusted for splits.":38333.45,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38333.45,
+    "Volume":312480000
+  },
+  "89":{
+    "Date":"Jan 26, 2024",
+    "Open":38006.68,
+    "High":38215.31,
+    "Low":37997.77,
+    "Close Close price adjusted for splits.":38109.43,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38109.43,
+    "Volume":387000000
+  },
+  "90":{
+    "Date":"Jan 25, 2024",
+    "Open":37862.57,
+    "High":38057.53,
+    "Low":37796.47,
+    "Close Close price adjusted for splits.":38049.13,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38049.13,
+    "Volume":402970000
+  },
+  "91":{
+    "Date":"Jan 24, 2024",
+    "Open":37975.37,
+    "High":38064.22,
+    "Low":37795.71,
+    "Close Close price adjusted for splits.":37806.39,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37806.39,
+    "Volume":336090000
+  },
+  "92":{
+    "Date":"Jan 23, 2024",
+    "Open":37959.79,
+    "High":37980.73,
+    "Low":37804.99,
+    "Close Close price adjusted for splits.":37905.45,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37905.45,
+    "Volume":334110000
+  },
+  "93":{
+    "Date":"Jan 22, 2024",
+    "Open":37919.55,
+    "High":38109.2,
+    "Low":37911.61,
+    "Close Close price adjusted for splits.":38001.81,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":38001.81,
+    "Volume":339560000
+  },
+  "94":{
+    "Date":"Jan 19, 2024",
+    "Open":37572.5,
+    "High":37933.73,
+    "Low":37451.71,
+    "Close Close price adjusted for splits.":37863.8,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37863.8,
+    "Volume":377650000
+  },
+  "95":{
+    "Date":"Jan 18, 2024",
+    "Open":37300.81,
+    "High":37522.29,
+    "Low":37122.95,
+    "Close Close price adjusted for splits.":37468.61,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37468.61,
+    "Volume":340620000
+  },
+  "96":{
+    "Date":"Jan 17, 2024",
+    "Open":37281.86,
+    "High":37371.66,
+    "Low":37132.89,
+    "Close Close price adjusted for splits.":37266.67,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37266.67,
+    "Volume":290880000
+  },
+  "97":{
+    "Date":"Jan 16, 2024",
+    "Open":37493.54,
+    "High":37543.18,
+    "Low":37201.39,
+    "Close Close price adjusted for splits.":37361.12,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37361.12,
+    "Volume":378280000
+  },
+  "98":{
+    "Date":"Jan 12, 2024",
+    "Open":37818.05,
+    "High":37825.27,
+    "Low":37470.19,
+    "Close Close price adjusted for splits.":37592.98,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37592.98,
+    "Volume":279250000
+  },
+  "99":{
+    "Date":"Jan 11, 2024",
+    "Open":37747.14,
+    "High":37801.9,
+    "Low":37424.28,
+    "Close Close price adjusted for splits.":37711.02,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37711.02,
+    "Volume":299540000
+  },
+  "100":{
+    "Date":"Jan 10, 2024",
+    "Open":37552.91,
+    "High":37740.77,
+    "Low":37524.4,
+    "Close Close price adjusted for splits.":37695.73,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37695.73,
+    "Volume":279540000
+  },
+  "101":{
+    "Date":"Jan 9, 2024",
+    "Open":37523.55,
+    "High":37552.38,
+    "Low":37373.3,
+    "Close Close price adjusted for splits.":37525.16,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37525.16,
+    "Volume":289860000
+  },
+  "102":{
+    "Date":"Jan 8, 2024",
+    "Open":37327.37,
+    "High":37692.92,
+    "Low":37249.24,
+    "Close Close price adjusted for splits.":37683.01,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37683.01,
+    "Volume":362200000
+  },
+  "103":{
+    "Date":"Jan 5, 2024",
+    "Open":37455.46,
+    "High":37623.62,
+    "Low":37323.82,
+    "Close Close price adjusted for splits.":37466.11,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37466.11,
+    "Volume":299480000
+  },
+  "104":{
+    "Date":"Jan 4, 2024",
+    "Open":37425.28,
+    "High":37716.41,
+    "Low":37425.28,
+    "Close Close price adjusted for splits.":37440.34,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37440.34,
+    "Volume":380220000
+  },
+  "105":{
+    "Date":"Jan 3, 2024",
+    "Open":37629.23,
+    "High":37629.23,
+    "Low":37401.85,
+    "Close Close price adjusted for splits.":37430.19,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37430.19,
+    "Volume":322010000
+  },
+  "106":{
+    "Date":"Jan 2, 2024",
+    "Open":37566.22,
+    "High":37790.08,
+    "Low":37495.91,
+    "Close Close price adjusted for splits.":37715.04,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37715.04,
+    "Volume":350280000
+  },
+  "107":{
+    "Date":"Dec 29, 2023",
+    "Open":37701.63,
+    "High":37759.43,
+    "Low":37538.8,
+    "Close Close price adjusted for splits.":37689.54,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37689.54,
+    "Volume":234570000
+  },
+  "108":{
+    "Date":"Dec 28, 2023",
+    "Open":37661.52,
+    "High":37778.85,
+    "Low":37650.98,
+    "Close Close price adjusted for splits.":37710.1,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37710.1,
+    "Volume":199550000
+  },
+  "109":{
+    "Date":"Dec 27, 2023",
+    "Open":37518.62,
+    "High":37683.7,
+    "Low":37488.6,
+    "Close Close price adjusted for splits.":37656.52,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37656.52,
+    "Volume":245530000
+  },
+  "110":{
+    "Date":"Dec 26, 2023",
+    "Open":37405.9,
+    "High":37617.99,
+    "Low":37371.83,
+    "Close Close price adjusted for splits.":37545.33,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37545.33,
+    "Volume":212420000
+  },
+  "111":{
+    "Date":"Dec 22, 2023",
+    "Open":37349.27,
+    "High":37534.52,
+    "Low":37268.88,
+    "Close Close price adjusted for splits.":37385.97,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37385.97,
+    "Volume":252970000
+  },
+  "112":{
+    "Date":"Dec 21, 2023",
+    "Open":37225.32,
+    "High":37418.76,
+    "Low":37127.05,
+    "Close Close price adjusted for splits.":37404.35,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37404.35,
+    "Volume":253120000
+  },
+  "113":{
+    "Date":"Dec 20, 2023",
+    "Open":37520.13,
+    "High":37641.3,
+    "Low":37073.04,
+    "Close Close price adjusted for splits.":37082.0,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37082.0,
+    "Volume":303450000
+  },
+  "114":{
+    "Date":"Dec 19, 2023",
+    "Open":37311.82,
+    "High":37562.83,
+    "Low":37311.82,
+    "Close Close price adjusted for splits.":37557.92,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37557.92,
+    "Volume":272740000
+  },
+  "115":{
+    "Date":"Dec 18, 2023",
+    "Open":37330.14,
+    "High":37393.45,
+    "Low":37284.85,
+    "Close Close price adjusted for splits.":37306.02,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37306.02,
+    "Volume":292120000
+  },
+  "116":{
+    "Date":"Dec 15, 2023",
+    "Open":37194.5,
+    "High":37347.6,
+    "Low":37092.02,
+    "Close Close price adjusted for splits.":37305.16,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37305.16,
+    "Volume":788160000
+  },
+  "117":{
+    "Date":"Dec 14, 2023",
+    "Open":37115.63,
+    "High":37287.5,
+    "Low":37051.52,
+    "Close Close price adjusted for splits.":37248.35,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37248.35,
+    "Volume":455820000
+  },
+  "118":{
+    "Date":"Dec 13, 2023",
+    "Open":36601.8,
+    "High":37094.85,
+    "Low":36523.59,
+    "Close Close price adjusted for splits.":37090.24,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":37090.24,
+    "Volume":354790000
+  },
+  "119":{
+    "Date":"Dec 12, 2023",
+    "Open":36442.1,
+    "High":36596.11,
+    "Low":36373.22,
+    "Close Close price adjusted for splits.":36577.94,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":36577.94,
+    "Volume":292770000
+  },
+  "120":{
+    "Date":"Dec 11, 2023",
+    "Open":36254.33,
+    "High":36416.18,
+    "Low":36231.19,
+    "Close Close price adjusted for splits.":36404.93,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":36404.93,
+    "Volume":342490000
+  },
+  "121":{
+    "Date":"Dec 8, 2023",
+    "Open":36084.82,
+    "High":36296.2,
+    "Low":36061.64,
+    "Close Close price adjusted for splits.":36247.87,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":36247.87,
+    "Volume":295180000
+  },
+  "122":{
+    "Date":"Dec 7, 2023",
+    "Open":36124.17,
+    "High":36164.17,
+    "Low":36021.95,
+    "Close Close price adjusted for splits.":36117.38,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":36117.38,
+    "Volume":287280000
+  },
+  "123":{
+    "Date":"Dec 6, 2023",
+    "Open":36183.73,
+    "High":36292.58,
+    "Low":36024.25,
+    "Close Close price adjusted for splits.":36054.43,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":36054.43,
+    "Volume":283240000
+  },
+  "124":{
+    "Date":"Dec 5, 2023",
+    "Open":36135.65,
+    "High":36164.68,
+    "Low":36010.85,
+    "Close Close price adjusted for splits.":36124.56,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":36124.56,
+    "Volume":309250000
+  },
+  "125":{
+    "Date":"Dec 4, 2023",
+    "Open":36089.38,
+    "High":36238.18,
+    "Low":36029.69,
+    "Close Close price adjusted for splits.":36204.44,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":36204.44,
+    "Volume":329450000
+  },
+  "126":{
+    "Date":"Dec 1, 2023",
+    "Open":35914.45,
+    "High":36264.85,
+    "Low":35914.45,
+    "Close Close price adjusted for splits.":36245.5,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":36245.5,
+    "Volume":321840000
+  },
+  "127":{
+    "Date":"Nov 30, 2023",
+    "Open":35596.57,
+    "High":35970.7,
+    "Low":35592.22,
+    "Close Close price adjusted for splits.":35950.89,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35950.89,
+    "Volume":435540000
+  },
+  "128":{
+    "Date":"Nov 29, 2023",
+    "Open":35436.8,
+    "High":35579.13,
+    "Low":35405.89,
+    "Close Close price adjusted for splits.":35430.42,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35430.42,
+    "Volume":299330000
+  },
+  "129":{
+    "Date":"Nov 28, 2023",
+    "Open":35332.13,
+    "High":35518.67,
+    "Low":35307.73,
+    "Close Close price adjusted for splits.":35416.98,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35416.98,
+    "Volume":256210000
+  },
+  "130":{
+    "Date":"Nov 27, 2023",
+    "Open":35376.44,
+    "High":35410.37,
+    "Low":35280.57,
+    "Close Close price adjusted for splits.":35333.47,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35333.47,
+    "Volume":258340000
+  },
+  "131":{
+    "Date":"Nov 24, 2023",
+    "Open":35299.9,
+    "High":35399.44,
+    "Low":35299.9,
+    "Close Close price adjusted for splits.":35390.15,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35390.15,
+    "Volume":117040000
+  },
+  "132":{
+    "Date":"Nov 22, 2023",
+    "Open":35189.33,
+    "High":35315.2,
+    "Low":35155.8,
+    "Close Close price adjusted for splits.":35273.03,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35273.03,
+    "Volume":237290000
+  },
+  "133":{
+    "Date":"Nov 21, 2023",
+    "Open":35104.84,
+    "High":35118.04,
+    "Low":35038.44,
+    "Close Close price adjusted for splits.":35088.29,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35088.29,
+    "Volume":271120000
+  },
+  "134":{
+    "Date":"Nov 20, 2023",
+    "Open":34932.49,
+    "High":35227.48,
+    "Low":34907.98,
+    "Close Close price adjusted for splits.":35151.04,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35151.04,
+    "Volume":331050000
+  },
+  "135":{
+    "Date":"Nov 17, 2023",
+    "Open":34964.82,
+    "High":35028.22,
+    "Low":34882.82,
+    "Close Close price adjusted for splits.":34947.28,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34947.28,
+    "Volume":334820000
+  },
+  "136":{
+    "Date":"Nov 16, 2023",
+    "Open":34868.03,
+    "High":35022.46,
+    "Low":34818.03,
+    "Close Close price adjusted for splits.":34945.47,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34945.47,
+    "Volume":435540000
+  },
+  "137":{
+    "Date":"Nov 15, 2023",
+    "Open":34906.72,
+    "High":35051.1,
+    "Low":34868.48,
+    "Close Close price adjusted for splits.":34991.21,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34991.21,
+    "Volume":347790000
+  },
+  "138":{
+    "Date":"Nov 14, 2023",
+    "Open":34581.2,
+    "High":34931.01,
+    "Low":34581.2,
+    "Close Close price adjusted for splits.":34827.7,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34827.7,
+    "Volume":328050000
+  },
+  "139":{
+    "Date":"Nov 13, 2023",
+    "Open":34259.25,
+    "High":34405.84,
+    "Low":34205.81,
+    "Close Close price adjusted for splits.":34337.87,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34337.87,
+    "Volume":245090000
+  },
+  "140":{
+    "Date":"Nov 10, 2023",
+    "Open":34020.82,
+    "High":34310.36,
+    "Low":33905.62,
+    "Close Close price adjusted for splits.":34283.1,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34283.1,
+    "Volume":302460000
+  },
+  "141":{
+    "Date":"Nov 9, 2023",
+    "Open":34163.71,
+    "High":34167.54,
+    "Low":33859.77,
+    "Close Close price adjusted for splits.":33891.94,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33891.94,
+    "Volume":325400000
+  },
+  "142":{
+    "Date":"Nov 8, 2023",
+    "Open":34185.92,
+    "High":34252.75,
+    "Low":33996.2,
+    "Close Close price adjusted for splits.":34112.27,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34112.27,
+    "Volume":280330000
+  },
+  "143":{
+    "Date":"Nov 7, 2023",
+    "Open":34075.65,
+    "High":34206.98,
+    "Low":34026.72,
+    "Close Close price adjusted for splits.":34152.6,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34152.6,
+    "Volume":281790000
+  },
+  "144":{
+    "Date":"Nov 6, 2023",
+    "Open":34092.61,
+    "High":34167.26,
+    "Low":33989.72,
+    "Close Close price adjusted for splits.":34095.86,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34095.86,
+    "Volume":265570000
+  },
+  "145":{
+    "Date":"Nov 3, 2023",
+    "Open":33988.83,
+    "High":34163.63,
+    "Low":33946.6,
+    "Close Close price adjusted for splits.":34061.32,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34061.32,
+    "Volume":311000000
+  },
+  "146":{
+    "Date":"Nov 2, 2023",
+    "Open":33457.82,
+    "High":33852.96,
+    "Low":33450.03,
+    "Close Close price adjusted for splits.":33839.08,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33839.08,
+    "Volume":304350000
+  },
+  "147":{
+    "Date":"Nov 1, 2023",
+    "Open":33081.87,
+    "High":33337.15,
+    "Low":33010.85,
+    "Close Close price adjusted for splits.":33274.58,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33274.58,
+    "Volume":307570000
+  },
+  "148":{
+    "Date":"Oct 31, 2023",
+    "Open":33029.11,
+    "High":33070.28,
+    "Low":32787.12,
+    "Close Close price adjusted for splits.":33052.87,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33052.87,
+    "Volume":306950000
+  },
+  "149":{
+    "Date":"Oct 30, 2023",
+    "Open":32537.54,
+    "High":33002.97,
+    "Low":32537.54,
+    "Close Close price adjusted for splits.":32928.96,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":32928.96,
+    "Volume":298640000
+  },
+  "150":{
+    "Date":"Oct 27, 2023",
+    "Open":32782.4,
+    "High":32787.56,
+    "Low":32327.2,
+    "Close Close price adjusted for splits.":32417.59,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":32417.59,
+    "Volume":376970000
+  },
+  "151":{
+    "Date":"Oct 26, 2023",
+    "Open":33017.17,
+    "High":33105.03,
+    "Low":32743.99,
+    "Close Close price adjusted for splits.":32784.3,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":32784.3,
+    "Volume":379880000
+  },
+  "152":{
+    "Date":"Oct 25, 2023",
+    "Open":33203.53,
+    "High":33267.91,
+    "Low":32989.72,
+    "Close Close price adjusted for splits.":33035.93,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33035.93,
+    "Volume":355690000
+  },
+  "153":{
+    "Date":"Oct 24, 2023",
+    "Open":33089.64,
+    "High":33272.19,
+    "Low":32988.43,
+    "Close Close price adjusted for splits.":33141.38,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33141.38,
+    "Volume":359230000
+  },
+  "154":{
+    "Date":"Oct 23, 2023",
+    "Open":32993.02,
+    "High":33234.85,
+    "Low":32892.19,
+    "Close Close price adjusted for splits.":32936.41,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":32936.41,
+    "Volume":342500000
+  },
+  "155":{
+    "Date":"Oct 20, 2023",
+    "Open":33365.27,
+    "High":33425.77,
+    "Low":33118.12,
+    "Close Close price adjusted for splits.":33127.28,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33127.28,
+    "Volume":325530000
+  },
+  "156":{
+    "Date":"Oct 19, 2023",
+    "Open":33669.52,
+    "High":33852.39,
+    "Low":33368.58,
+    "Close Close price adjusted for splits.":33414.17,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33414.17,
+    "Volume":304320000
+  },
+  "157":{
+    "Date":"Oct 18, 2023",
+    "Open":33960.25,
+    "High":33991.51,
+    "Low":33598.64,
+    "Close Close price adjusted for splits.":33665.08,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33665.08,
+    "Volume":285410000
+  },
+  "158":{
+    "Date":"Oct 17, 2023",
+    "Open":33869.84,
+    "High":34147.63,
+    "Low":33854.7,
+    "Close Close price adjusted for splits.":33997.65,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33997.65,
+    "Volume":281010000
+  },
+  "159":{
+    "Date":"Oct 16, 2023",
+    "Open":33832.42,
+    "High":34088.98,
+    "Low":33832.42,
+    "Close Close price adjusted for splits.":33984.54,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33984.54,
+    "Volume":270060000
+  },
+  "160":{
+    "Date":"Oct 13, 2023",
+    "Open":33733.34,
+    "High":33957.72,
+    "Low":33551.58,
+    "Close Close price adjusted for splits.":33670.29,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33670.29,
+    "Volume":306340000
+  },
+  "161":{
+    "Date":"Oct 12, 2023",
+    "Open":33845.65,
+    "High":33863.8,
+    "Low":33455.6,
+    "Close Close price adjusted for splits.":33631.14,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33631.14,
+    "Volume":289160000
+  },
+  "162":{
+    "Date":"Oct 11, 2023",
+    "Open":33822.2,
+    "High":33882.55,
+    "Low":33612.25,
+    "Close Close price adjusted for splits.":33804.87,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33804.87,
+    "Volume":256560000
+  },
+  "163":{
+    "Date":"Oct 10, 2023",
+    "Open":33683.41,
+    "High":33898.22,
+    "Low":33604.32,
+    "Close Close price adjusted for splits.":33739.3,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33739.3,
+    "Volume":255640000
+  },
+  "164":{
+    "Date":"Oct 9, 2023",
+    "Open":33259.84,
+    "High":33631.81,
+    "Low":33253.69,
+    "Close Close price adjusted for splits.":33604.65,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33604.65,
+    "Volume":228760000
+  },
+  "165":{
+    "Date":"Oct 6, 2023",
+    "Open":33040.7,
+    "High":33557.69,
+    "Low":32846.94,
+    "Close Close price adjusted for splits.":33407.58,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33407.58,
+    "Volume":332990000
+  },
+  "166":{
+    "Date":"Oct 5, 2023",
+    "Open":33099.23,
+    "High":33174.38,
+    "Low":32941.56,
+    "Close Close price adjusted for splits.":33119.57,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33119.57,
+    "Volume":277250000
+  },
+  "167":{
+    "Date":"Oct 4, 2023",
+    "Open":33034.18,
+    "High":33156.45,
+    "Low":32873.23,
+    "Close Close price adjusted for splits.":33129.55,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33129.55,
+    "Volume":287030000
+  },
+  "168":{
+    "Date":"Oct 3, 2023",
+    "Open":33318.84,
+    "High":33398.54,
+    "Low":32916.2,
+    "Close Close price adjusted for splits.":33002.38,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33002.38,
+    "Volume":293450000
+  },
+  "169":{
+    "Date":"Oct 2, 2023",
+    "Open":33455.5,
+    "High":33511.91,
+    "Low":33219.56,
+    "Close Close price adjusted for splits.":33433.35,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33433.35,
+    "Volume":275630000
+  },
+  "170":{
+    "Date":"Sep 29, 2023",
+    "Open":33882.61,
+    "High":33893.68,
+    "Low":33407.45,
+    "Close Close price adjusted for splits.":33507.5,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33507.5,
+    "Volume":319830000
+  },
+  "171":{
+    "Date":"Sep 28, 2023",
+    "Open":33519.44,
+    "High":33777.9,
+    "Low":33473.5,
+    "Close Close price adjusted for splits.":33666.34,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33666.34,
+    "Volume":275610000
+  },
+  "172":{
+    "Date":"Sep 27, 2023",
+    "Open":33682.81,
+    "High":33731.65,
+    "Low":33306.3,
+    "Close Close price adjusted for splits.":33550.27,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33550.27,
+    "Volume":300330000
+  },
+  "173":{
+    "Date":"Sep 26, 2023",
+    "Open":33862.68,
+    "High":33879.93,
+    "Low":33569.6,
+    "Close Close price adjusted for splits.":33618.88,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33618.88,
+    "Volume":280100000
+  },
+  "174":{
+    "Date":"Sep 25, 2023",
+    "Open":33907.59,
+    "High":34017.53,
+    "Low":33780.67,
+    "Close Close price adjusted for splits.":34006.88,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34006.88,
+    "Volume":229450000
+  },
+  "175":{
+    "Date":"Sep 22, 2023",
+    "Open":34077.08,
+    "High":34156.15,
+    "Low":33947.24,
+    "Close Close price adjusted for splits.":33963.84,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33963.84,
+    "Volume":268760000
+  },
+  "176":{
+    "Date":"Sep 21, 2023",
+    "Open":34332.23,
+    "High":34378.3,
+    "Low":34058.72,
+    "Close Close price adjusted for splits.":34070.42,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34070.42,
+    "Volume":331930000
+  },
+  "177":{
+    "Date":"Sep 20, 2023",
+    "Open":34575.5,
+    "High":34776.28,
+    "Low":34434.29,
+    "Close Close price adjusted for splits.":34440.88,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34440.88,
+    "Volume":291650000
+  },
+  "178":{
+    "Date":"Sep 19, 2023",
+    "Open":34571.84,
+    "High":34597.56,
+    "Low":34311.69,
+    "Close Close price adjusted for splits.":34517.73,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34517.73,
+    "Volume":282830000
+  },
+  "179":{
+    "Date":"Sep 18, 2023",
+    "Open":34612.29,
+    "High":34725.06,
+    "Low":34545.35,
+    "Close Close price adjusted for splits.":34624.3,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34624.3,
+    "Volume":252700000
+  },
+  "180":{
+    "Date":"Sep 15, 2023",
+    "Open":34902.04,
+    "High":34902.04,
+    "Low":34572.27,
+    "Close Close price adjusted for splits.":34618.24,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34618.24,
+    "Volume":582160000
+  },
+  "181":{
+    "Date":"Sep 14, 2023",
+    "Open":34687.5,
+    "High":34977.97,
+    "Low":34687.5,
+    "Close Close price adjusted for splits.":34907.11,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34907.11,
+    "Volume":305180000
+  },
+  "182":{
+    "Date":"Sep 13, 2023",
+    "Open":34667.28,
+    "High":34767.11,
+    "Low":34509.95,
+    "Close Close price adjusted for splits.":34575.53,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34575.53,
+    "Volume":295480000
+  },
+  "183":{
+    "Date":"Sep 12, 2023",
+    "Open":34620.02,
+    "High":34852.61,
+    "Low":34560.55,
+    "Close Close price adjusted for splits.":34645.99,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34645.99,
+    "Volume":318670000
+  },
+  "184":{
+    "Date":"Sep 11, 2023",
+    "Open":34650.01,
+    "High":34784.52,
+    "Low":34578.59,
+    "Close Close price adjusted for splits.":34663.72,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34663.72,
+    "Volume":291720000
+  },
+  "185":{
+    "Date":"Sep 8, 2023",
+    "Open":34487.41,
+    "High":34627.85,
+    "Low":34473.57,
+    "Close Close price adjusted for splits.":34576.59,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34576.59,
+    "Volume":293990000
+  },
+  "186":{
+    "Date":"Sep 7, 2023",
+    "Open":34351.18,
+    "High":34560.86,
+    "Low":34351.18,
+    "Close Close price adjusted for splits.":34500.73,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34500.73,
+    "Volume":386980000
+  },
+  "187":{
+    "Date":"Sep 6, 2023",
+    "Open":34611.68,
+    "High":34611.68,
+    "Low":34291.56,
+    "Close Close price adjusted for splits.":34443.19,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34443.19,
+    "Volume":308900000
+  },
+  "188":{
+    "Date":"Sep 5, 2023",
+    "Open":34843.22,
+    "High":34871.26,
+    "Low":34635.63,
+    "Close Close price adjusted for splits.":34641.97,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34641.97,
+    "Volume":283540000
+  },
+  "189":{
+    "Date":"Sep 1, 2023",
+    "Open":34876.24,
+    "High":34979.18,
+    "Low":34720.7,
+    "Close Close price adjusted for splits.":34837.71,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34837.71,
+    "Volume":286370000
+  },
+  "190":{
+    "Date":"Aug 31, 2023",
+    "Open":34909.09,
+    "High":35070.21,
+    "Low":34719.77,
+    "Close Close price adjusted for splits.":34721.91,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34721.91,
+    "Volume":341900000
+  },
+  "191":{
+    "Date":"Aug 30, 2023",
+    "Open":34847.8,
+    "High":35025.57,
+    "Low":34811.74,
+    "Close Close price adjusted for splits.":34890.24,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34890.24,
+    "Volume":236070000
+  },
+  "192":{
+    "Date":"Aug 29, 2023",
+    "Open":34531.12,
+    "High":34864.42,
+    "Low":34531.12,
+    "Close Close price adjusted for splits.":34852.67,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34852.67,
+    "Volume":262550000
+  },
+  "193":{
+    "Date":"Aug 28, 2023",
+    "Open":34441.64,
+    "High":34652.91,
+    "Low":34441.64,
+    "Close Close price adjusted for splits.":34559.98,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34559.98,
+    "Volume":224640000
+  },
+  "194":{
+    "Date":"Aug 25, 2023",
+    "Open":34217.06,
+    "High":34441.91,
+    "Low":34029.22,
+    "Close Close price adjusted for splits.":34346.9,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34346.9,
+    "Volume":257440000
+  },
+  "195":{
+    "Date":"Aug 24, 2023",
+    "Open":34439.83,
+    "High":34694.68,
+    "Low":34093.65,
+    "Close Close price adjusted for splits.":34099.42,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34099.42,
+    "Volume":342520000
+  },
+  "196":{
+    "Date":"Aug 23, 2023",
+    "Open":34338.59,
+    "High":34534.72,
+    "Low":34321.0,
+    "Close Close price adjusted for splits.":34472.98,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34472.98,
+    "Volume":360610000
+  },
+  "197":{
+    "Date":"Aug 22, 2023",
+    "Open":34494.17,
+    "High":34514.04,
+    "Low":34256.84,
+    "Close Close price adjusted for splits.":34288.83,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34288.83,
+    "Volume":279200000
+  },
+  "198":{
+    "Date":"Aug 21, 2023",
+    "Open":34531.28,
+    "High":34570.96,
+    "Low":34248.46,
+    "Close Close price adjusted for splits.":34463.69,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34463.69,
+    "Volume":396490000
+  },
+  "199":{
+    "Date":"Aug 18, 2023",
+    "Open":34368.36,
+    "High":34587.07,
+    "Low":34263.19,
+    "Close Close price adjusted for splits.":34500.66,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34500.66,
+    "Volume":320680000
+  },
+  "200":{
+    "Date":"Aug 17, 2023",
+    "Open":34829.61,
+    "High":34888.48,
+    "Low":34440.73,
+    "Close Close price adjusted for splits.":34474.83,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34474.83,
+    "Volume":392850000
+  },
+  "201":{
+    "Date":"Aug 16, 2023",
+    "Open":34914.96,
+    "High":35133.56,
+    "Low":34757.37,
+    "Close Close price adjusted for splits.":34765.74,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34765.74,
+    "Volume":332310000
+  },
+  "202":{
+    "Date":"Aug 15, 2023",
+    "Open":35219.37,
+    "High":35219.37,
+    "Low":34908.5,
+    "Close Close price adjusted for splits.":34946.39,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34946.39,
+    "Volume":323920000
+  },
+  "203":{
+    "Date":"Aug 14, 2023",
+    "Open":35273.89,
+    "High":35335.45,
+    "Low":35169.97,
+    "Close Close price adjusted for splits.":35307.63,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35307.63,
+    "Volume":300250000
+  },
+  "204":{
+    "Date":"Aug 11, 2023",
+    "Open":35111.36,
+    "High":35354.6,
+    "Low":35059.99,
+    "Close Close price adjusted for splits.":35281.4,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35281.4,
+    "Volume":277840000
+  },
+  "205":{
+    "Date":"Aug 10, 2023",
+    "Open":35231.54,
+    "High":35578.58,
+    "Low":35107.6,
+    "Close Close price adjusted for splits.":35176.15,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35176.15,
+    "Volume":337110000
+  },
+  "206":{
+    "Date":"Aug 9, 2023",
+    "Open":35324.28,
+    "High":35370.89,
+    "Low":35058.73,
+    "Close Close price adjusted for splits.":35123.36,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35123.36,
+    "Volume":306680000
+  },
+  "207":{
+    "Date":"Aug 8, 2023",
+    "Open":35345.4,
+    "High":35346.64,
+    "Low":35007.41,
+    "Close Close price adjusted for splits.":35314.49,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35314.49,
+    "Volume":303840000
+  },
+  "208":{
+    "Date":"Aug 7, 2023",
+    "Open":35125.6,
+    "High":35497.38,
+    "Low":35125.6,
+    "Close Close price adjusted for splits.":35473.13,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35473.13,
+    "Volume":300150000
+  },
+  "209":{
+    "Date":"Aug 4, 2023",
+    "Open":35230.13,
+    "High":35506.88,
+    "Low":35033.76,
+    "Close Close price adjusted for splits.":35065.62,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35065.62,
+    "Volume":338290000
+  },
+  "210":{
+    "Date":"Aug 3, 2023",
+    "Open":35194.56,
+    "High":35348.2,
+    "Low":35122.32,
+    "Close Close price adjusted for splits.":35215.89,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35215.89,
+    "Volume":254960000
+  },
+  "211":{
+    "Date":"Aug 2, 2023",
+    "Open":35551.92,
+    "High":35551.92,
+    "Low":35226.26,
+    "Close Close price adjusted for splits.":35282.52,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35282.52,
+    "Volume":298570000
+  },
+  "212":{
+    "Date":"Aug 1, 2023",
+    "Open":35585.99,
+    "High":35679.13,
+    "Low":35526.61,
+    "Close Close price adjusted for splits.":35630.68,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35630.68,
+    "Volume":259490000
+  },
+  "213":{
+    "Date":"Jul 31, 2023",
+    "Open":35465.97,
+    "High":35566.95,
+    "Low":35430.22,
+    "Close Close price adjusted for splits.":35559.53,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35559.53,
+    "Volume":327410000
+  },
+  "214":{
+    "Date":"Jul 28, 2023",
+    "Open":35443.49,
+    "High":35565.51,
+    "Low":35355.15,
+    "Close Close price adjusted for splits.":35459.29,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35459.29,
+    "Volume":369000000
+  },
+  "215":{
+    "Date":"Jul 27, 2023",
+    "Open":35558.79,
+    "High":35645.35,
+    "Low":35216.58,
+    "Close Close price adjusted for splits.":35282.72,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35282.72,
+    "Volume":352230000
+  },
+  "216":{
+    "Date":"Jul 26, 2023",
+    "Open":35345.99,
+    "High":35633.61,
+    "Low":35306.27,
+    "Close Close price adjusted for splits.":35520.12,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35520.12,
+    "Volume":346240000
+  },
+  "217":{
+    "Date":"Jul 25, 2023",
+    "Open":35421.49,
+    "High":35527.57,
+    "Low":35365.26,
+    "Close Close price adjusted for splits.":35438.07,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35438.07,
+    "Volume":299530000
+  },
+  "218":{
+    "Date":"Jul 24, 2023",
+    "Open":35230.79,
+    "High":35463.97,
+    "Low":35230.79,
+    "Close Close price adjusted for splits.":35411.24,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35411.24,
+    "Volume":284460000
+  },
+  "219":{
+    "Date":"Jul 21, 2023",
+    "Open":35274.32,
+    "High":35340.66,
+    "Low":35186.05,
+    "Close Close price adjusted for splits.":35227.69,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35227.69,
+    "Volume":465270000
+  },
+  "220":{
+    "Date":"Jul 20, 2023",
+    "Open":35091.98,
+    "High":35372.77,
+    "Low":35091.98,
+    "Close Close price adjusted for splits.":35225.18,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35225.18,
+    "Volume":340880000
+  },
+  "221":{
+    "Date":"Jul 19, 2023",
+    "Open":34991.21,
+    "High":35234.05,
+    "Low":34991.21,
+    "Close Close price adjusted for splits.":35061.21,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":35061.21,
+    "Volume":365130000
+  },
+  "222":{
+    "Date":"Jul 18, 2023",
+    "Open":34597.08,
+    "High":34986.36,
+    "Low":34530.61,
+    "Close Close price adjusted for splits.":34951.93,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34951.93,
+    "Volume":385940000
+  },
+  "223":{
+    "Date":"Jul 17, 2023",
+    "Open":34499.74,
+    "High":34665.15,
+    "Low":34418.72,
+    "Close Close price adjusted for splits.":34585.35,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34585.35,
+    "Volume":359780000
+  },
+  "224":{
+    "Date":"Jul 14, 2023",
+    "Open":34425.33,
+    "High":34592.26,
+    "Low":34425.33,
+    "Close Close price adjusted for splits.":34509.03,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34509.03,
+    "Volume":293540000
+  },
+  "225":{
+    "Date":"Jul 13, 2023",
+    "Open":34412.31,
+    "High":34482.26,
+    "Low":34365.33,
+    "Close Close price adjusted for splits.":34395.14,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34395.14,
+    "Volume":267180000
+  },
+  "226":{
+    "Date":"Jul 12, 2023",
+    "Open":34395.28,
+    "High":34586.94,
+    "Low":34308.78,
+    "Close Close price adjusted for splits.":34347.43,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34347.43,
+    "Volume":331410000
+  },
+  "227":{
+    "Date":"Jul 11, 2023",
+    "Open":34056.94,
+    "High":34288.87,
+    "Low":33993.01,
+    "Close Close price adjusted for splits.":34261.42,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34261.42,
+    "Volume":278940000
+  },
+  "228":{
+    "Date":"Jul 10, 2023",
+    "Open":33705.68,
+    "High":33958.36,
+    "Low":33705.68,
+    "Close Close price adjusted for splits.":33944.4,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33944.4,
+    "Volume":299200000
+  },
+  "229":{
+    "Date":"Jul 7, 2023",
+    "Open":33837.07,
+    "High":34036.38,
+    "Low":33716.75,
+    "Close Close price adjusted for splits.":33734.88,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33734.88,
+    "Volume":272730000
+  },
+  "230":{
+    "Date":"Jul 6, 2023",
+    "Open":34171.39,
+    "High":34171.39,
+    "Low":33771.47,
+    "Close Close price adjusted for splits.":33922.26,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33922.26,
+    "Volume":293840000
+  },
+  "231":{
+    "Date":"Jul 5, 2023",
+    "Open":34344.72,
+    "High":34376.11,
+    "Low":34226.98,
+    "Close Close price adjusted for splits.":34288.64,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34288.64,
+    "Volume":274570000
+  },
+  "232":{
+    "Date":"Jul 3, 2023",
+    "Open":34369.78,
+    "High":34465.6,
+    "Low":34286.54,
+    "Close Close price adjusted for splits.":34418.47,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34418.47,
+    "Volume":157590000
+  },
+  "233":{
+    "Date":"Jun 30, 2023",
+    "Open":34269.92,
+    "High":34467.35,
+    "Low":34269.92,
+    "Close Close price adjusted for splits.":34407.6,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34407.6,
+    "Volume":351060000
+  },
+  "234":{
+    "Date":"Jun 29, 2023",
+    "Open":33854.57,
+    "High":34147.68,
+    "Low":33828.63,
+    "Close Close price adjusted for splits.":34122.42,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34122.42,
+    "Volume":279940000
+  },
+  "235":{
+    "Date":"Jun 28, 2023",
+    "Open":33881.38,
+    "High":33903.76,
+    "Low":33755.92,
+    "Close Close price adjusted for splits.":33852.66,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33852.66,
+    "Volume":268050000
+  },
+  "236":{
+    "Date":"Jun 27, 2023",
+    "Open":33739.03,
+    "High":33975.65,
+    "Low":33730.39,
+    "Close Close price adjusted for splits.":33926.74,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33926.74,
+    "Volume":293210000
+  },
+  "237":{
+    "Date":"Jun 26, 2023",
+    "Open":33730.79,
+    "High":33819.49,
+    "Low":33610.32,
+    "Close Close price adjusted for splits.":33714.71,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33714.71,
+    "Volume":265330000
+  },
+  "238":{
+    "Date":"Jun 23, 2023",
+    "Open":33835.66,
+    "High":33835.66,
+    "Low":33646.49,
+    "Close Close price adjusted for splits.":33727.43,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33727.43,
+    "Volume":379800000
+  },
+  "239":{
+    "Date":"Jun 22, 2023",
+    "Open":33900.47,
+    "High":34003.56,
+    "Low":33835.39,
+    "Close Close price adjusted for splits.":33946.71,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33946.71,
+    "Volume":275600000
+  },
+  "240":{
+    "Date":"Jun 21, 2023",
+    "Open":33990.56,
+    "High":34097.93,
+    "Low":33876.17,
+    "Close Close price adjusted for splits.":33951.52,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33951.52,
+    "Volume":323690000
+  },
+  "241":{
+    "Date":"Jun 20, 2023",
+    "Open":34206.66,
+    "High":34206.66,
+    "Low":33915.93,
+    "Close Close price adjusted for splits.":34053.87,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34053.87,
+    "Volume":334810000
+  },
+  "242":{
+    "Date":"Jun 16, 2023",
+    "Open":34464.02,
+    "High":34588.68,
+    "Low":34285.69,
+    "Close Close price adjusted for splits.":34299.12,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34299.12,
+    "Volume":595230000
+  },
+  "243":{
+    "Date":"Jun 15, 2023",
+    "Open":33945.98,
+    "High":34488.98,
+    "Low":33945.98,
+    "Close Close price adjusted for splits.":34408.06,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34408.06,
+    "Volume":361400000
+  },
+  "244":{
+    "Date":"Jun 14, 2023",
+    "Open":34044.7,
+    "High":34151.42,
+    "Low":33783.55,
+    "Close Close price adjusted for splits.":33979.33,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33979.33,
+    "Volume":354910000
+  },
+  "245":{
+    "Date":"Jun 13, 2023",
+    "Open":34111.08,
+    "High":34310.28,
+    "Low":34107.98,
+    "Close Close price adjusted for splits.":34212.12,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34212.12,
+    "Volume":308790000
+  },
+  "246":{
+    "Date":"Jun 12, 2023",
+    "Open":33906.8,
+    "High":34077.84,
+    "Low":33878.46,
+    "Close Close price adjusted for splits.":34066.33,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":34066.33,
+    "Volume":308130000
+  },
+  "247":{
+    "Date":"Jun 9, 2023",
+    "Open":33852.44,
+    "High":33975.32,
+    "Low":33787.16,
+    "Close Close price adjusted for splits.":33876.78,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33876.78,
+    "Volume":262310000
+  },
+  "248":{
+    "Date":"Jun 8, 2023",
+    "Open":33656.98,
+    "High":33873.81,
+    "Low":33630.04,
+    "Close Close price adjusted for splits.":33833.61,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33833.61,
+    "Volume":269160000
+  },
+  "249":{
+    "Date":"Jun 7, 2023",
+    "Open":33562.47,
+    "High":33708.78,
+    "Low":33546.11,
+    "Close Close price adjusted for splits.":33665.02,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33665.02,
+    "Volume":347400000
+  },
+  "250":{
+    "Date":"Jun 6, 2023",
+    "Open":33547.67,
+    "High":33631.25,
+    "Low":33399.69,
+    "Close Close price adjusted for splits.":33573.28,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33573.28,
+    "Volume":294070000
+  },
+  "251":{
+    "Date":"Jun 5, 2023",
+    "Open":33771.13,
+    "High":33804.22,
+    "Low":33552.79,
+    "Close Close price adjusted for splits.":33562.86,
+    "Adj Close Adjusted close price adjusted for splits and dividend and\/or capital gain distributions.":33562.86,
+    "Volume":367170000
+  }
+}

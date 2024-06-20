@@ -1,0 +1,42 @@
+{
+  "0":{
+    "Symbol":"AAPL",
+    "Company Name":"Apple, Inc."
+  },
+  "1":{
+    "Symbol":"SBUX",
+    "Company Name":"Starbucks, Inc."
+  },
+  "2":{
+    "Symbol":"MSFT",
+    "Company Name":"Microsoft, Inc."
+  },
+  "3":{
+    "Symbol":"CSCO",
+    "Company Name":"Cisco Systems, Inc."
+  },
+  "4":{
+    "Symbol":"QCOM",
+    "Company Name":"QUALCOMM Incorporated"
+  },
+  "5":{
+    "Symbol":"META",
+    "Company Name":"Meta, Inc."
+  },
+  "6":{
+    "Symbol":"AMZN",
+    "Company Name":"Amazon.com, Inc."
+  },
+  "7":{
+    "Symbol":"TSLA",
+    "Company Name":"Tesla, Inc."
+  },
+  "8":{
+    "Symbol":"AMD",
+    "Company Name":"Advanced Micro Devices, Inc."
+  },
+  "9":{
+    "Symbol":"NFLX",
+    "Company Name":"NFLX Inc."
+  }
+}

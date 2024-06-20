@@ -1,0 +1,44 @@
+{
+  "0":{
+    "INDEX":"Dow Jones Industrial Average",
+    "CLOSE":"38686",
+    "WEEK":"-1.0%",
+    "YTD":"2.6%"
+  },
+  "1":{
+    "INDEX":"S&P 500 Index",
+    "CLOSE":"5278",
+    "WEEK":"-0.5%",
+    "YTD":"10.6%"
+  },
+  "2":{
+    "INDEX":"NASDAQ",
+    "CLOSE":"16735",
+    "WEEK":"-1.1%",
+    "YTD":"11.5%"
+  },
+  "3":{
+    "INDEX":"MSCI EAFE*",
+    "CLOSE":"2355.67",
+    "WEEK":"-0.1%",
+    "YTD":"5.3%"
+  },
+  "4":{
+    "INDEX":"10-yr Treasury Yield",
+    "CLOSE":"4.50%",
+    "WEEK":"0.0%",
+    "YTD":"0.6%"
+  },
+  "5":{
+    "INDEX":"Oil ($\/bbl)",
+    "CLOSE":"$77.19",
+    "WEEK":"-0.7%",
+    "YTD":"7.7%"
+  },
+  "6":{
+    "INDEX":"Bonds",
+    "CLOSE":"$96.56",
+    "WEEK":"0.0%",
+    "YTD":"-1.9%"
+  }
+}

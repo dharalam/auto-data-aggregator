@@ -1,0 +1,992 @@
+{
+  "0":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2024,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":38620.83,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":37715.04,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":40003.59,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":37266.67,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":38571.03,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"2.34%"
+  },
+  "1":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2023,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":34121.54,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":33136.37,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":37710.1,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":31819.14,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":37689.54,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"13.70%"
+  },
+  "2":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2022,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":32898.34,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":36585.06,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":36799.65,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":28725.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":33147.25,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-8.78%"
+  },
+  "3":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2021,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":34055.29,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":30223.89,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":36488.63,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":29982.62,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":36338.3,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"18.73%"
+  },
+  "4":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2020,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":26890.67,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":28868.8,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":30606.48,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":18591.93,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":30606.48,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"7.25%"
+  },
+  "5":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2019,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":26379.59,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":23346.24,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":28645.26,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":22686.22,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":28538.44,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"22.34%"
+  },
+  "6":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2018,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":25046.86,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":24824.01,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":26828.39,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":21792.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":23327.46,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-5.63%"
+  },
+  "7":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2017,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":21750.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":19881.76,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":24837.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":19732.4,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":24719.22,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"25.08%"
+  },
+  "8":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2016,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":17927.11,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":17148.94,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":19974.62,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":15660.18,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":19762.6,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"13.42%"
+  },
+  "9":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2015,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":17587.03,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":17832.99,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":18312.39,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":15666.44,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":17425.03,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-2.23%"
+  },
+  "10":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2014,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":16777.69,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":16441.35,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":18053.71,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":15372.8,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":17823.07,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"7.52%"
+  },
+  "11":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2013,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":15009.52,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":13412.55,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":16576.66,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":13328.85,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":16576.66,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"26.50%"
+  },
+  "12":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2012,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":12966.44,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":12397.38,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":13610.15,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":12101.46,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":13104.14,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"7.26%"
+  },
+  "13":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2011,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":11957.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":11670.75,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":12810.54,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":10655.3,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":12217.56,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"5.53%"
+  },
+  "14":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2010,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":10668.58,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":10583.96,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":11585.38,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":9686.48,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":11577.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"11.02%"
+  },
+  "15":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2009,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":8885.65,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":9034.69,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":10548.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":6547.05,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":10428.05,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"18.82%"
+  },
+  "16":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2008,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":11244.06,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":13043.96,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":13058.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":7552.29,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":8776.39,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-33.84%"
+  },
+  "17":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2007,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":13178.26,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":12474.52,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":14164.53,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":12050.41,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":13264.82,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"6.43%"
+  },
+  "18":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2006,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":11409.78,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":10847.41,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":12510.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":10667.39,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":12463.15,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"16.29%"
+  },
+  "19":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2005,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":10546.66,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":10729.43,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":10940.55,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":10012.36,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":10717.5,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-0.61%"
+  },
+  "20":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2004,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":10315.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":10409.85,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":10854.54,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":9749.99,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":10783.01,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"3.15%"
+  },
+  "21":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2003,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":9006.64,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":8607.52,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":10453.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":7524.06,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":10453.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"25.32%"
+  },
+  "22":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2002,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":9214.85,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":10073.4,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":10635.25,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":7286.27,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":8341.63,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-16.76%"
+  },
+  "23":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2001,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":10199.29,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":10646.15,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":11337.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":8235.81,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":10021.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-7.10%"
+  },
+  "24":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":2000,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":10729.38,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":11357.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":11722.98,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":9796.03,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":10787.99,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-6.17%"
+  },
+  "25":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1999,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":10481.56,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":9184.27,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":11497.12,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":9120.67,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":11497.12,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"25.22%"
+  },
+  "26":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1998,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":8630.76,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":7965.0,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":9374.27,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":7539.07,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":9181.43,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"16.10%"
+  },
+  "27":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1997,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":7447.01,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":6442.49,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":8259.3,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":6391.7,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":7908.3,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"22.64%"
+  },
+  "28":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1996,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":5739.63,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":5177.45,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":6560.91,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":5032.94,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":6448.27,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"26.01%"
+  },
+  "29":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1995,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":4494.28,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":3838.48,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":5216.47,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":3832.08,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":5117.12,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"33.45%"
+  },
+  "30":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1994,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":3794.22,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":3756.6,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":3978.36,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":3593.35,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":3834.44,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"2.14%"
+  },
+  "31":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1993,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":3524.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":3309.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":3794.33,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":3242.0,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":3754.09,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"13.72%"
+  },
+  "32":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1992,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":3284.08,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":3172.4,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":3413.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":3136.6,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":3301.11,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"4.17%"
+  },
+  "33":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1991,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":2929.04,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":2610.64,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":3168.83,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":2470.3,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":3168.83,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"20.32%"
+  },
+  "34":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1990,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":2679.45,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":2810.15,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":2999.75,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":2365.1,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":2633.66,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-4.34%"
+  },
+  "35":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1989,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":2510.33,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":2144.64,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":2791.41,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":2144.64,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":2753.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"26.96%"
+  },
+  "36":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1988,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":2061.48,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":2015.25,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":2183.5,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":1879.14,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":2168.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"11.85%"
+  },
+  "37":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1987,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":2277.53,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":1927.31,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":2722.42,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":1738.74,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":1938.83,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"2.26%"
+  },
+  "38":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1986,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":1793.1,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":1537.73,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":1955.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":1502.29,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":1895.95,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"22.58%"
+  },
+  "39":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1985,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":1327.99,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":1198.87,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":1553.1,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":1184.96,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":1546.67,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"27.66%"
+  },
+  "40":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1984,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":1178.59,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":1252.74,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":1286.64,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":1086.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":1211.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-3.74%"
+  },
+  "41":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1983,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":1190.78,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":1027.04,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":1287.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":1027.04,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":1258.64,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"20.27%"
+  },
+  "42":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1982,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":884.53,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":882.52,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":1070.55,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":776.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":1046.54,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"19.60%"
+  },
+  "43":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1981,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":932.95,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":972.78,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":1024.05,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":824.01,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":875.0,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-9.23%"
+  },
+  "44":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1980,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":891.14,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":824.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":1000.17,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":759.13,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":963.99,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"14.93%"
+  },
+  "45":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1979,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":844.38,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":811.42,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":897.61,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":796.67,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":838.74,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"4.19%"
+  },
+  "46":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1978,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":821.13,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":817.74,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":907.74,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":742.12,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":805.01,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-3.15%"
+  },
+  "47":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1977,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":894.37,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":999.75,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":999.75,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":800.85,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":831.17,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-17.27%"
+  },
+  "48":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1976,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":975.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":858.71,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":1014.79,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":858.71,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":1004.65,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"17.86%"
+  },
+  "49":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1975,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":802.89,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":632.04,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":881.81,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":632.04,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":852.41,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"38.32%"
+  },
+  "50":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1974,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":759.13,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":855.32,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":891.66,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":577.6,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":616.24,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-27.57%"
+  },
+  "51":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1973,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":924.07,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":1031.68,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":1051.7,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":788.31,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":850.86,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-16.58%"
+  },
+  "52":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1972,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":950.08,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":889.3,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":1036.27,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":889.15,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":1020.02,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"14.58%"
+  },
+  "53":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1971,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":884.87,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":830.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":950.82,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":797.97,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":890.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"6.11%"
+  },
+  "54":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1970,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":753.12,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":809.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":842.0,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":631.16,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":838.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"4.82%"
+  },
+  "55":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1969,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":875.72,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":947.73,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":968.85,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":769.93,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":800.36,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-15.19%"
+  },
+  "56":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1968,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":903.96,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":906.84,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":985.21,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":825.13,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":943.75,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"4.27%"
+  },
+  "57":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1967,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":879.48,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":786.41,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":943.08,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":786.41,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":905.11,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"15.20%"
+  },
+  "58":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1966,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":872.78,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":968.54,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":995.15,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":744.32,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":785.69,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-18.94%"
+  },
+  "59":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1965,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":910.7,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":869.78,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":969.26,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":840.59,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":969.26,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"10.88%"
+  },
+  "60":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1964,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":834.09,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":766.08,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":891.71,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":766.08,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":874.13,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"14.57%"
+  },
+  "61":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1963,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":714.69,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":646.79,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":767.21,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":646.79,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":762.95,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"17.00%"
+  },
+  "62":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1962,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":639.14,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":724.71,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":726.01,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":535.76,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":652.1,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-10.81%"
+  },
+  "63":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1961,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":691.74,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":610.25,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":734.91,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":610.25,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":731.14,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"18.71%"
+  },
+  "64":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1960,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":618.02,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":679.06,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":685.47,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":566.05,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":615.89,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-9.34%"
+  },
+  "65":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1959,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":632.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":587.59,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":679.36,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":574.46,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":679.36,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"16.40%"
+  },
+  "66":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1958,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":491.26,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":439.27,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":583.65,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":436.89,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":583.65,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"33.96%"
+  },
+  "67":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1957,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":476.07,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":496.03,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":520.77,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":419.79,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":435.69,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-12.77%"
+  },
+  "68":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1956,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":493.21,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":485.78,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":521.05,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":462.35,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":499.47,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"2.27%"
+  },
+  "69":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1955,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":442.69,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":408.89,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":488.4,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":388.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":488.4,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"20.77%"
+  },
+  "70":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1954,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":334.34,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":282.89,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":404.39,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":279.87,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":404.39,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"43.96%"
+  },
+  "71":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1953,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":275.84,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":292.14,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":293.79,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":255.49,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":280.9,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-3.77%"
+  },
+  "72":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1952,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":270.35,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":269.86,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":292.0,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":256.35,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":291.9,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"8.42%"
+  },
+  "73":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1951,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":257.41,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":239.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":276.37,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":238.99,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":269.23,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"14.37%"
+  },
+  "74":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1950,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":216.28,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":198.89,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":235.47,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":196.81,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":235.41,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"17.63%"
+  },
+  "75":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1949,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":179.67,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":175.03,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":200.52,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":161.6,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":200.13,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"12.88%"
+  },
+  "76":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1948,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":179.78,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":181.04,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":193.16,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":165.39,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":177.3,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-2.13%"
+  },
+  "77":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1947,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":177.48,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":176.39,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":186.85,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":163.21,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":181.16,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"2.23%"
+  },
+  "78":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1946,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":191.52,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":191.66,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":212.5,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":163.12,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":177.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-8.14%"
+  },
+  "79":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1945,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":169.66,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":152.58,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":195.82,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":151.35,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":192.91,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"26.65%"
+  },
+  "80":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1944,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":143.32,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":135.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":152.53,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":134.22,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":152.32,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"12.09%"
+  },
+  "81":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1943,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":134.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":119.93,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":145.82,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":119.26,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":135.89,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"13.81%"
+  },
+  "82":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1942,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":107.15,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":112.77,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":119.71,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":92.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":119.4,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"7.61%"
+  },
+  "83":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1941,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":121.93,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":130.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":133.59,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":106.34,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":110.96,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-15.38%"
+  },
+  "84":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1940,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":134.64,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":151.43,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":152.8,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":111.84,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":131.13,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-12.72%"
+  },
+  "85":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1939,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":142.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":153.64,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":155.92,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":121.44,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":150.24,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-2.92%"
+  },
+  "86":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1938,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":132.36,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":120.57,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":158.41,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":98.95,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":154.76,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"28.06%"
+  },
+  "87":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1937,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":166.45,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":178.52,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":194.4,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":113.64,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":120.85,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-32.82%"
+  },
+  "88":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1936,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":162.07,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":144.13,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":184.9,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":143.11,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":179.9,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"24.82%"
+  },
+  "89":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1935,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":120.35,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":104.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":148.44,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":96.71,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":144.13,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"38.53%"
+  },
+  "90":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1934,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":98.16,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":100.36,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":110.74,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":85.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":104.04,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"4.14%"
+  },
+  "91":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1933,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":84.5,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":59.29,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":108.67,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":50.16,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":99.9,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"66.69%"
+  },
+  "92":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1932,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":64.53,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":74.62,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":88.78,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":41.22,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":59.93,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-23.07%"
+  },
+  "93":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1931,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":138.6,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":169.84,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":194.36,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":73.79,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":77.9,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-52.67%"
+  },
+  "94":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1930,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":236.04,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":244.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":294.07,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":157.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":164.58,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-33.77%"
+  },
+  "95":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1929,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":313.54,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":307.01,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":381.17,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":198.69,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":248.48,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-17.17%"
+  },
+  "96":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1928,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":226.17,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":203.35,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":300.0,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":191.33,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":300.0,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"49.48%"
+  },
+  "97":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1927,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":176.07,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":155.16,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":200.93,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":152.73,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":200.7,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"27.67%"
+  },
+  "98":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1926,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":153.0,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":151.08,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":166.14,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":135.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":157.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"4.05%"
+  },
+  "99":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1925,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":134.4,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":121.25,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":159.39,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":115.0,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":151.08,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"25.37%"
+  },
+  "100":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1924,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":99.65,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":95.65,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":120.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":88.33,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":120.51,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"26.16%"
+  },
+  "101":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1923,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":94.87,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":98.77,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":105.38,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":85.91,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":95.52,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-2.70%"
+  },
+  "102":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1922,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":93.24,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":78.91,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":102.76,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":78.59,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":98.17,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"21.50%"
+  },
+  "103":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1921,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":73.39,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":72.67,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":81.5,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":63.9,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":80.8,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"12.30%"
+  },
+  "104":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1920,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":90.01,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":107.23,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":108.85,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":66.75,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":71.95,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-32.90%"
+  },
+  "105":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1919,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":99.79,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":82.6,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":119.62,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":79.35,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":107.23,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"30.45%"
+  },
+  "106":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1918,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":80.97,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":76.68,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":89.07,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":73.38,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":82.2,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"10.51%"
+  },
+  "107":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1917,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":87.87,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":96.15,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":99.18,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":65.95,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":74.38,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-21.71%"
+  },
+  "108":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1916,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":95.27,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":98.81,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":110.15,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":86.42,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":95.0,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"-4.19%"
+  },
+  "109":{
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year')":1915,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Average Closing Price')":74.45,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Open')":54.63,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year High')":99.21,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Low')":54.22,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Year Close')":99.15,
+    "('Dow Jones Industrial Average - Historical Annual Data', 'Annual % Change')":"81.49%"
+  }
+}

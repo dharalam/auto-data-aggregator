@@ -1,0 +1,182 @@
+{
+  "0":{
+    "#":1,
+    "Company":"AMERICAN EXPRESS CO",
+    "Symbol":"AXP",
+    "YTD Return":"26.44%"
+  },
+  "1":{
+    "#":2,
+    "Company":"WALMART INC",
+    "Symbol":"WMT",
+    "YTD Return":"25.25%"
+  },
+  "2":{
+    "#":3,
+    "Company":"JPMORGAN CHASE + CO",
+    "Symbol":"JPM",
+    "YTD Return":"18.65%"
+  },
+  "3":{
+    "#":4,
+    "Company":"GOLDMAN SACHS GROUP INC",
+    "Symbol":"GS",
+    "YTD Return":"17.94%"
+  },
+  "4":{
+    "#":5,
+    "Company":"MERCK + CO. INC.",
+    "Symbol":"MRK",
+    "YTD Return":"17.79%"
+  },
+  "5":{
+    "#":6,
+    "Company":"AMAZON.COM INC",
+    "Symbol":"AMZN",
+    "YTD Return":"17.38%"
+  },
+  "6":{
+    "#":7,
+    "Company":"WALT DISNEY CO\/THE",
+    "Symbol":"DIS",
+    "YTD Return":"13.82%"
+  },
+  "7":{
+    "#":8,
+    "Company":"PROCTER + GAMBLE CO\/THE",
+    "Symbol":"PG",
+    "YTD Return":"12.36%"
+  },
+  "8":{
+    "#":9,
+    "Company":"CATERPILLAR INC",
+    "Symbol":"CAT",
+    "YTD Return":"12.07%"
+  },
+  "9":{
+    "#":10,
+    "Company":"TRAVELERS COS INC\/THE",
+    "Symbol":"TRV",
+    "YTD Return":"10.42%"
+  },
+  "10":{
+    "#":11,
+    "Company":"MICROSOFT CORP",
+    "Symbol":"MSFT",
+    "YTD Return":"9.97%"
+  },
+  "11":{
+    "#":12,
+    "Company":"VERIZON COMMUNICATIONS INC",
+    "Symbol":"VZ",
+    "YTD Return":"8.70%"
+  },
+  "12":{
+    "#":13,
+    "Company":"COCA COLA CO\/THE",
+    "Symbol":"KO",
+    "YTD Return":"6.79%"
+  },
+  "13":{
+    "#":14,
+    "Company":"AMGEN INC",
+    "Symbol":"AMGN",
+    "YTD Return":"6.74%"
+  },
+  "14":{
+    "#":15,
+    "Company":"CHEVRON CORP",
+    "Symbol":"CVX",
+    "YTD Return":"5.56%"
+  },
+  "15":{
+    "#":16,
+    "Company":"VISA INC CLASS A SHARES",
+    "Symbol":"V",
+    "YTD Return":"3.85%"
+  },
+  "16":{
+    "#":17,
+    "Company":"DOW INC",
+    "Symbol":"DOW",
+    "YTD Return":"2.24%"
+  },
+  "17":{
+    "#":18,
+    "Company":"INTL BUSINESS MACHINES CORP",
+    "Symbol":"IBM",
+    "YTD Return":"1.06%"
+  },
+  "18":{
+    "#":19,
+    "Company":"APPLE INC",
+    "Symbol":"AAPL",
+    "YTD Return":"0.78%"
+  },
+  "19":{
+    "#":20,
+    "Company":"HONEYWELL INTERNATIONAL INC",
+    "Symbol":"HON",
+    "YTD Return":"-3.46%"
+  },
+  "20":{
+    "#":21,
+    "Company":"HOME DEPOT INC",
+    "Symbol":"HD",
+    "YTD Return":"-5.35%"
+  },
+  "21":{
+    "#":22,
+    "Company":"UNITEDHEALTH GROUP INC",
+    "Symbol":"UNH",
+    "YTD Return":"-5.51%"
+  },
+  "22":{
+    "#":23,
+    "Company":"JOHNSON + JOHNSON",
+    "Symbol":"JNJ",
+    "YTD Return":"-5.74%"
+  },
+  "23":{
+    "#":24,
+    "Company":"CISCO SYSTEMS INC",
+    "Symbol":"CSCO",
+    "YTD Return":"-7.66%"
+  },
+  "24":{
+    "#":25,
+    "Company":"3M CO",
+    "Symbol":"MMM",
+    "YTD Return":"-8.74%"
+  },
+  "25":{
+    "#":26,
+    "Company":"SALESFORCE INC",
+    "Symbol":"CRM",
+    "YTD Return":"-10.08%"
+  },
+  "26":{
+    "#":27,
+    "Company":"MCDONALD S CORP",
+    "Symbol":"MCD",
+    "YTD Return":"-12.40%"
+  },
+  "27":{
+    "#":28,
+    "Company":"NIKE INC CL B",
+    "Symbol":"NKE",
+    "YTD Return":"-13.05%"
+  },
+  "28":{
+    "#":29,
+    "Company":"BOEING CO\/THE",
+    "Symbol":"BA",
+    "YTD Return":"-29.19%"
+  },
+  "29":{
+    "#":30,
+    "Company":"INTEL CORP",
+    "Symbol":"INTC",
+    "YTD Return":"-39.72%"
+  }
+}

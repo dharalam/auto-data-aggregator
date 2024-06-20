@@ -1,0 +1,4982 @@
+{
+  "0":{
+    "Components":"Microsoft",
+    "Price":416.19,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.11,
+    "Day":"0.75%",
+    "Year":"23.89%",
+    "MCap":"3.06T",
+    "Date":"Jun\/04"
+  },
+  "1":{
+    "Components":"Apple",
+    "Price":194.41,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.64,
+    "Day":"0.33%",
+    "Year":"8.26%",
+    "MCap":"3T",
+    "Date":"Jun\/04"
+  },
+  "2":{
+    "Components":"Nvidia",
+    "Price":1164.22,
+    "Unnamed: 2":null,
+    "Unnamed: 3":15.27,
+    "Day":"1.33%",
+    "Year":"197.21%",
+    "MCap":"2.86T",
+    "Date":"Jun\/04"
+  },
+  "3":{
+    "Components":"Amazon",
+    "Price":179.39,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.19,
+    "Day":"0.67%",
+    "Year":"43.17%",
+    "MCap":"1.85T",
+    "Date":"Jun\/04"
+  },
+  "4":{
+    "Components":"Meta",
+    "Price":477.02,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.17,
+    "Day":"0.04%",
+    "Year":"75.77%",
+    "MCap":"1.21T",
+    "Date":"Jun\/04"
+  },
+  "5":{
+    "Components":"Alphabet",
+    "Price":175.18,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.88,
+    "Day":"0.51%",
+    "Year":"38.34%",
+    "MCap":"988.12B",
+    "Date":"Jun\/04"
+  },
+  "6":{
+    "Components":"Eli Lilly",
+    "Price":832.2,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.77,
+    "Day":"0.45%",
+    "Year":"87.32%",
+    "MCap":"790.08B",
+    "Date":"Jun\/04"
+  },
+  "7":{
+    "Components":"Broadcom",
+    "Price":1331.39,
+    "Unnamed: 2":null,
+    "Unnamed: 3":9.84,
+    "Day":"0.75%",
+    "Year":"65.95%",
+    "MCap":"608.1B",
+    "Date":"Jun\/04"
+  },
+  "8":{
+    "Components":"JPMorgan",
+    "Price":199.18,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.45,
+    "Day":"-1.22%",
+    "Year":"43.20%",
+    "MCap":"573.3B",
+    "Date":"Jun\/04"
+  },
+  "9":{
+    "Components":"Tesla",
+    "Price":174.96,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.23,
+    "Day":"-0.70%",
+    "Year":"-19.60%",
+    "MCap":"559.98B",
+    "Date":"Jun\/04"
+  },
+  "10":{
+    "Components":"Visa",
+    "Price":272.4,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.94,
+    "Day":"0.72%",
+    "Year":"20.12%",
+    "MCap":"545.78B",
+    "Date":"Jun\/04"
+  },
+  "11":{
+    "Components":"Berkshire Hathaway",
+    "Price":409.48,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-5.11,
+    "Day":"-1.23%",
+    "Year":"24.62%",
+    "MCap":"535.88B",
+    "Date":"Jun\/04"
+  },
+  "12":{
+    "Components":"Walmart",
+    "Price":66.43,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.82,
+    "Day":"1.25%",
+    "Year":"33.04%",
+    "MCap":"532.48B",
+    "Date":"Jun\/04"
+  },
+  "13":{
+    "Components":"UnitedHealth",
+    "Price":505.49,
+    "Unnamed: 2":null,
+    "Unnamed: 3":8.78,
+    "Day":"1.77%",
+    "Year":"1.47%",
+    "MCap":"463.42B",
+    "Date":"Jun\/04"
+  },
+  "14":{
+    "Components":"Exxon Mobil",
+    "Price":112.78,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.65,
+    "Day":"-1.44%",
+    "Year":"7.11%",
+    "MCap":"443.01B",
+    "Date":"Jun\/04"
+  },
+  "15":{
+    "Components":"Mastercard",
+    "Price":444.77,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.76,
+    "Day":"0.40%",
+    "Year":"20.04%",
+    "MCap":"413.35B",
+    "Date":"Jun\/04"
+  },
+  "16":{
+    "Components":"P&G",
+    "Price":167.01,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.44,
+    "Day":"1.48%",
+    "Year":"14.44%",
+    "MCap":"391B",
+    "Date":"Jun\/04"
+  },
+  "17":{
+    "Components":"Costco Wholesale",
+    "Price":827.0,
+    "Unnamed: 2":null,
+    "Unnamed: 3":13.02,
+    "Day":"1.60%",
+    "Year":"59.58%",
+    "MCap":"364.46B",
+    "Date":"Jun\/04"
+  },
+  "18":{
+    "Components":"J&J",
+    "Price":147.84,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.08,
+    "Day":"0.05%",
+    "Year":"-6.62%",
+    "MCap":"354.38B",
+    "Date":"Jun\/04"
+  },
+  "19":{
+    "Components":"Oracle",
+    "Price":120.05,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.02,
+    "Day":"0.86%",
+    "Year":"12.27%",
+    "MCap":"326.5B",
+    "Date":"Jun\/04"
+  },
+  "20":{
+    "Components":"Merck",
+    "Price":128.78,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.15,
+    "Day":"0.12%",
+    "Year":"13.85%",
+    "MCap":"326.13B",
+    "Date":"Jun\/04"
+  },
+  "21":{
+    "Components":"Home Depot",
+    "Price":328.24,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.34,
+    "Day":"-0.10%",
+    "Year":"11.99%",
+    "MCap":"325.31B",
+    "Date":"Jun\/04"
+  },
+  "22":{
+    "Components":"Bank Of America",
+    "Price":39.75,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.2,
+    "Day":"-0.50%",
+    "Year":"39.28%",
+    "MCap":"312.63B",
+    "Date":"Jun\/04"
+  },
+  "23":{
+    "Components":"Chevron",
+    "Price":156.13,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.22,
+    "Day":"-0.77%",
+    "Year":"0.40%",
+    "MCap":"288.36B",
+    "Date":"Jun\/04"
+  },
+  "24":{
+    "Components":"AbbVie",
+    "Price":162.12,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.02,
+    "Day":"1.26%",
+    "Year":"18.46%",
+    "MCap":"287B",
+    "Date":"Jun\/04"
+  },
+  "25":{
+    "Components":"Netflix",
+    "Price":632.0,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.35,
+    "Day":"-0.21%",
+    "Year":"56.61%",
+    "MCap":"280.78B",
+    "Date":"Jun\/04"
+  },
+  "26":{
+    "Components":"Coca-Cola",
+    "Price":63.91,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.99,
+    "Day":"1.57%",
+    "Year":"5.20%",
+    "MCap":"273.46B",
+    "Date":"Jun\/04"
+  },
+  "27":{
+    "Components":"Advanced Micro Devices",
+    "Price":159.88,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.27,
+    "Day":"-2.00%",
+    "Year":"35.57%",
+    "MCap":"261.49B",
+    "Date":"Jun\/04"
+  },
+  "28":{
+    "Components":"PepsiCo",
+    "Price":173.9,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.75,
+    "Day":"1.61%",
+    "Year":"-5.59%",
+    "MCap":"237.63B",
+    "Date":"Jun\/04"
+  },
+  "29":{
+    "Components":"Salesforce",
+    "Price":234.88,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.12,
+    "Day":"-0.89%",
+    "Year":"11.92%",
+    "MCap":"227.33B",
+    "Date":"Jun\/04"
+  },
+  "30":{
+    "Components":"Qualcomm",
+    "Price":204.4,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.2,
+    "Day":"-0.58%",
+    "Year":"81.32%",
+    "MCap":"226.83B",
+    "Date":"Jun\/04"
+  },
+  "31":{
+    "Components":"Thermo Fisher Scientific",
+    "Price":572.57,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.0,
+    "Day":"0.35%",
+    "Year":"10.41%",
+    "MCap":"217.52B",
+    "Date":"Jun\/04"
+  },
+  "32":{
+    "Components":"T-Mobile Us",
+    "Price":177.91,
+    "Unnamed: 2":null,
+    "Unnamed: 3":4.9,
+    "Day":"2.83%",
+    "Year":"34.56%",
+    "MCap":"208.34B",
+    "Date":"Jun\/04"
+  },
+  "33":{
+    "Components":"Linde",
+    "Price":430.86,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.41,
+    "Day":"-0.78%",
+    "Year":"18.76%",
+    "MCap":"207.49B",
+    "Date":"Jun\/04"
+  },
+  "34":{
+    "Components":"Wells Fargo",
+    "Price":58.71,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.65,
+    "Day":"-1.10%",
+    "Year":"45.14%",
+    "MCap":"207.18B",
+    "Date":"Jun\/04"
+  },
+  "35":{
+    "Components":"Adobe Systems",
+    "Price":447.99,
+    "Unnamed: 2":null,
+    "Unnamed: 3":9.75,
+    "Day":"2.22%",
+    "Year":"3.18%",
+    "MCap":"199.8B",
+    "Date":"Jun\/04"
+  },
+  "36":{
+    "Components":"Danaher",
+    "Price":263.33,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.36,
+    "Day":"0.90%",
+    "Year":"12.96%",
+    "MCap":"194.09B",
+    "Date":"Jun\/04"
+  },
+  "37":{
+    "Components":"Accenture",
+    "Price":288.42,
+    "Unnamed: 2":null,
+    "Unnamed: 3":6.42,
+    "Day":"2.28%",
+    "Year":"-5.27%",
+    "MCap":"191.17B",
+    "Date":"Jun\/04"
+  },
+  "38":{
+    "Components":"Cisco Systems",
+    "Price":47.42,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.81,
+    "Day":"1.74%",
+    "Year":"-5.56%",
+    "MCap":"189.42B",
+    "Date":"Jun\/04"
+  },
+  "39":{
+    "Components":"Walt Disney",
+    "Price":103.32,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.51,
+    "Day":"0.50%",
+    "Year":"13.54%",
+    "MCap":"188.09B",
+    "Date":"Jun\/04"
+  },
+  "40":{
+    "Components":"McDonalds",
+    "Price":262.88,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.03,
+    "Day":"1.17%",
+    "Year":"-8.86%",
+    "MCap":"187.94B",
+    "Date":"Jun\/04"
+  },
+  "41":{
+    "Components":"Abbott",
+    "Price":103.16,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.54,
+    "Day":"0.53%",
+    "Year":"-0.58%",
+    "MCap":"178.86B",
+    "Date":"Jun\/04"
+  },
+  "42":{
+    "Components":"Texas Instruments",
+    "Price":193.3,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.1,
+    "Day":"-0.05%",
+    "Year":"13.53%",
+    "MCap":"175.5B",
+    "Date":"Jun\/04"
+  },
+  "43":{
+    "Components":"Applied Materials",
+    "Price":212.05,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.48,
+    "Day":"-0.69%",
+    "Year":"58.57%",
+    "MCap":"174.5B",
+    "Date":"Jun\/04"
+  },
+  "44":{
+    "Components":"General Electric",
+    "Price":161.04,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.1,
+    "Day":"0.06%",
+    "Year":"54.70%",
+    "MCap":"173.51B",
+    "Date":"Jun\/04"
+  },
+  "45":{
+    "Components":"Verizon",
+    "Price":41.55,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.57,
+    "Day":"1.39%",
+    "Year":"20.57%",
+    "MCap":"172.88B",
+    "Date":"Jun\/04"
+  },
+  "46":{
+    "Components":"American Express",
+    "Price":237.25,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.02,
+    "Day":"0.01%",
+    "Year":"41.70%",
+    "MCap":"171.77B",
+    "Date":"Jun\/04"
+  },
+  "47":{
+    "Components":"Pfizer",
+    "Price":29.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.17,
+    "Day":"0.58%",
+    "Year":"-23.67%",
+    "MCap":"166.48B",
+    "Date":"Jun\/04"
+  },
+  "48":{
+    "Components":"Amgen",
+    "Price":307.39,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.41,
+    "Day":"0.13%",
+    "Year":"38.54%",
+    "MCap":"165.07B",
+    "Date":"Jun\/04"
+  },
+  "49":{
+    "Components":"Caterpillar",
+    "Price":327.37,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.8,
+    "Day":"-1.15%",
+    "Year":"47.15%",
+    "MCap":"163.26B",
+    "Date":"Jun\/04"
+  },
+  "50":{
+    "Components":"Philip Morris International",
+    "Price":103.69,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.85,
+    "Day":"0.83%",
+    "Year":"15.15%",
+    "MCap":"160.76B",
+    "Date":"Jun\/04"
+  },
+  "51":{
+    "Components":"Intuit",
+    "Price":571.31,
+    "Unnamed: 2":null,
+    "Unnamed: 3":5.75,
+    "Day":"1.02%",
+    "Year":"29.01%",
+    "MCap":"159.54B",
+    "Date":"Jun\/04"
+  },
+  "52":{
+    "Components":"Morgan Stanley",
+    "Price":96.58,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.69,
+    "Day":"-0.71%",
+    "Year":"15.33%",
+    "MCap":"158.21B",
+    "Date":"Jun\/04"
+  },
+  "53":{
+    "Components":"NextEra Energy",
+    "Price":77.19,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.48,
+    "Day":"-0.62%",
+    "Year":"4.89%",
+    "MCap":"157.71B",
+    "Date":"Jun\/04"
+  },
+  "54":{
+    "Components":"Comcast",
+    "Price":39.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.04,
+    "Day":"0.10%",
+    "Year":"-0.73%",
+    "MCap":"156.73B",
+    "Date":"Jun\/04"
+  },
+  "55":{
+    "Components":"IBM",
+    "Price":165.81,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.69,
+    "Day":"0.42%",
+    "Year":"25.01%",
+    "MCap":"151.66B",
+    "Date":"Jun\/04"
+  },
+  "56":{
+    "Components":"Goldman Sachs",
+    "Price":455.41,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.73,
+    "Day":"0.16%",
+    "Year":"41.52%",
+    "MCap":"147.54B",
+    "Date":"Jun\/04"
+  },
+  "57":{
+    "Components":"Blackstone",
+    "Price":119.15,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.01,
+    "Day":"0.01%",
+    "Year":"39.32%",
+    "MCap":"145.67B",
+    "Date":"Jun\/04"
+  },
+  "58":{
+    "Components":"Intuitive Surgical",
+    "Price":406.61,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.19,
+    "Day":"0.79%",
+    "Year":"28.07%",
+    "MCap":"143.51B",
+    "Date":"Jun\/04"
+  },
+  "59":{
+    "Components":"Raytheon Technologies",
+    "Price":107.83,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.48,
+    "Day":"0.44%",
+    "Year":"12.61%",
+    "MCap":"143.37B",
+    "Date":"Jun\/04"
+  },
+  "60":{
+    "Components":"Nike",
+    "Price":94.74,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.25,
+    "Day":"0.26%",
+    "Year":"-9.94%",
+    "MCap":"143.04B",
+    "Date":"Jun\/04"
+  },
+  "61":{
+    "Components":"Micron Technology",
+    "Price":126.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.23,
+    "Day":"-0.96%",
+    "Year":"86.66%",
+    "MCap":"139.4B",
+    "Date":"Jun\/04"
+  },
+  "62":{
+    "Components":"Union Pacific",
+    "Price":227.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.01,
+    "Day":"-0.44%",
+    "Year":"14.48%",
+    "MCap":"139.14B",
+    "Date":"Jun\/04"
+  },
+  "63":{
+    "Components":"S&P Global",
+    "Price":431.01,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.79,
+    "Day":"0.42%",
+    "Year":"13.99%",
+    "MCap":"138.03B",
+    "Date":"Jun\/04"
+  },
+  "64":{
+    "Components":"ServiceNow",
+    "Price":671.0,
+    "Unnamed: 2":null,
+    "Unnamed: 3":14.21,
+    "Day":"2.16%",
+    "Year":"20.53%",
+    "MCap":"136.13B",
+    "Date":"Jun\/04"
+  },
+  "65":{
+    "Components":"Honeywell International",
+    "Price":207.28,
+    "Unnamed: 2":null,
+    "Unnamed: 3":4.99,
+    "Day":"2.46%",
+    "Year":"5.12%",
+    "MCap":"134.04B",
+    "Date":"Jun\/04"
+  },
+  "66":{
+    "Components":"ConocoPhillips",
+    "Price":112.06,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.65,
+    "Day":"-1.45%",
+    "Year":"9.79%",
+    "MCap":"131.95B",
+    "Date":"Jun\/04"
+  },
+  "67":{
+    "Components":"Stryker",
+    "Price":342.0,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.28,
+    "Day":"0.67%",
+    "Year":"23.04%",
+    "MCap":"130.23B",
+    "Date":"Jun\/04"
+  },
+  "68":{
+    "Components":"AT&T",
+    "Price":18.33,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.33,
+    "Day":"1.83%",
+    "Year":"19.10%",
+    "MCap":"129.68B",
+    "Date":"Jun\/04"
+  },
+  "69":{
+    "Components":"Booking Holdings",
+    "Price":3792.33,
+    "Unnamed: 2":null,
+    "Unnamed: 3":28.04,
+    "Day":"0.74%",
+    "Year":"41.99%",
+    "MCap":"129.59B",
+    "Date":"Jun\/04"
+  },
+  "70":{
+    "Components":"Intel",
+    "Price":30.03,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.24,
+    "Day":"-0.79%",
+    "Year":"0.57%",
+    "MCap":"128.52B",
+    "Date":"Jun\/04"
+  },
+  "71":{
+    "Components":"Charles Schwab",
+    "Price":71.94,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.38,
+    "Day":"-0.53%",
+    "Year":"32.22%",
+    "MCap":"127.55B",
+    "Date":"Jun\/04"
+  },
+  "72":{
+    "Components":"Eaton",
+    "Price":315.85,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-8.19,
+    "Day":"-2.53%",
+    "Year":"72.04%",
+    "MCap":"125.66B",
+    "Date":"Jun\/04"
+  },
+  "73":{
+    "Components":"Elevance Health",
+    "Price":540.42,
+    "Unnamed: 2":null,
+    "Unnamed: 3":32.54,
+    "Day":"6.41%",
+    "Year":"16.36%",
+    "MCap":"125.46B",
+    "Date":"Jun\/04"
+  },
+  "74":{
+    "Components":"Lowe's Companies",
+    "Price":217.0,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.06,
+    "Day":"-0.03%",
+    "Year":"4.94%",
+    "MCap":"124.59B",
+    "Date":"Jun\/04"
+  },
+  "75":{
+    "Components":"Progressive",
+    "Price":211.97,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.65,
+    "Day":"1.27%",
+    "Year":"64.28%",
+    "MCap":"123.18B",
+    "Date":"Jun\/04"
+  },
+  "76":{
+    "Components":"Vertex Pharmaceuticals",
+    "Price":474.95,
+    "Unnamed: 2":null,
+    "Unnamed: 3":4.89,
+    "Day":"1.04%",
+    "Year":"42.02%",
+    "MCap":"121.03B",
+    "Date":"Jun\/04"
+  },
+  "77":{
+    "Components":"Lam Research",
+    "Price":922.73,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-11.13,
+    "Day":"-1.19%",
+    "Year":"52.36%",
+    "MCap":"120.37B",
+    "Date":"Jun\/04"
+  },
+  "78":{
+    "Components":"TJX Companies",
+    "Price":105.68,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.49,
+    "Day":"0.47%",
+    "Year":"34.01%",
+    "MCap":"119.15B",
+    "Date":"Jun\/04"
+  },
+  "79":{
+    "Components":"United Parcel Service",
+    "Price":136.15,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.81,
+    "Day":"-2.03%",
+    "Year":"-18.89%",
+    "MCap":"117.35B",
+    "Date":"Jun\/04"
+  },
+  "80":{
+    "Components":"Citigroup",
+    "Price":61.0,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.84,
+    "Day":"-1.36%",
+    "Year":"31.92%",
+    "MCap":"116.96B",
+    "Date":"Jun\/04"
+  },
+  "81":{
+    "Components":"BlackRock",
+    "Price":786.26,
+    "Unnamed: 2":null,
+    "Unnamed: 3":9.71,
+    "Day":"1.25%",
+    "Year":"16.23%",
+    "MCap":"116.15B",
+    "Date":"Jun\/04"
+  },
+  "82":{
+    "Components":"Analog Devices",
+    "Price":230.63,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.16,
+    "Day":"-0.50%",
+    "Year":"31.80%",
+    "MCap":"114.32B",
+    "Date":"Jun\/04"
+  },
+  "83":{
+    "Components":"Boeing",
+    "Price":188.36,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.69,
+    "Day":"2.00%",
+    "Year":"-9.78%",
+    "MCap":"113.44B",
+    "Date":"Jun\/04"
+  },
+  "84":{
+    "Components":"Lockheed Martin",
+    "Price":468.89,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.89,
+    "Day":"0.40%",
+    "Year":"3.12%",
+    "MCap":"112.51B",
+    "Date":"Jun\/04"
+  },
+  "85":{
+    "Components":"Boston Scientific",
+    "Price":75.9,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.48,
+    "Day":"0.64%",
+    "Year":"47.67%",
+    "MCap":"110.98B",
+    "Date":"Jun\/04"
+  },
+  "86":{
+    "Components":"Medtronic",
+    "Price":83.0,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.18,
+    "Day":"1.44%",
+    "Year":"-0.87%",
+    "MCap":"109.76B",
+    "Date":"Jun\/04"
+  },
+  "87":{
+    "Components":"Regeneron Pharmaceuticals",
+    "Price":993.29,
+    "Unnamed: 2":null,
+    "Unnamed: 3":5.21,
+    "Day":"0.53%",
+    "Year":"32.39%",
+    "MCap":"109.37B",
+    "Date":"Jun\/04"
+  },
+  "88":{
+    "Components":"Chubb",
+    "Price":264.81,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.82,
+    "Day":"-0.68%",
+    "Year":"38.41%",
+    "MCap":"107.06B",
+    "Date":"Jun\/04"
+  },
+  "89":{
+    "Components":"Marsh & McLennan Companies",
+    "Price":208.49,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.2,
+    "Day":"1.07%",
+    "Year":"17.68%",
+    "MCap":"102.28B",
+    "Date":"Jun\/04"
+  },
+  "90":{
+    "Components":"Deere & Company",
+    "Price":369.49,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.76,
+    "Day":"0.48%",
+    "Year":"1.61%",
+    "MCap":"101.75B",
+    "Date":"Jun\/04"
+  },
+  "91":{
+    "Components":"ADP",
+    "Price":245.65,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.06,
+    "Day":"0.85%",
+    "Year":"13.60%",
+    "MCap":"100.86B",
+    "Date":"Jun\/04"
+  },
+  "92":{
+    "Components":"KLA-Tencor",
+    "Price":750.96,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.69,
+    "Day":"-0.22%",
+    "Year":"63.95%",
+    "MCap":"100.76B",
+    "Date":"Jun\/04"
+  },
+  "93":{
+    "Components":"ProLogis",
+    "Price":108.55,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.26,
+    "Day":"1.17%",
+    "Year":"-12.90%",
+    "MCap":"100.11B",
+    "Date":"Jun\/04"
+  },
+  "94":{
+    "Components":"Cigna",
+    "Price":337.06,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-4.47,
+    "Day":"-1.31%",
+    "Year":"28.29%",
+    "MCap":"97.21B",
+    "Date":"Jun\/04"
+  },
+  "95":{
+    "Components":"Airbnb",
+    "Price":147.1,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.01,
+    "Day":"0.69%",
+    "Year":"27.15%",
+    "MCap":"95.28B",
+    "Date":"Jun\/04"
+  },
+  "96":{
+    "Components":"Palo Alto Networks",
+    "Price":290.21,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.89,
+    "Day":"-1.32%",
+    "Year":"27.97%",
+    "MCap":"94.6B",
+    "Date":"Jun\/04"
+  },
+  "97":{
+    "Components":"Starbucks",
+    "Price":82.6,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.83,
+    "Day":"1.01%",
+    "Year":"-17.34%",
+    "MCap":"93.51B",
+    "Date":"Jun\/04"
+  },
+  "98":{
+    "Components":"American Tower",
+    "Price":200.41,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.65,
+    "Day":"1.85%",
+    "Year":"6.24%",
+    "MCap":"92.71B",
+    "Date":"Jun\/04"
+  },
+  "99":{
+    "Components":"Arista Networks",
+    "Price":293.24,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.8,
+    "Day":"-0.95%",
+    "Year":"80.31%",
+    "MCap":"91.59B",
+    "Date":"Jun\/04"
+  },
+  "100":{
+    "Components":"Mondelez International",
+    "Price":68.07,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.76,
+    "Day":"1.13%",
+    "Year":"-8.37%",
+    "MCap":"91.02B",
+    "Date":"Jun\/04"
+  },
+  "101":{
+    "Components":"Fiserv",
+    "Price":150.86,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.46,
+    "Day":"-0.31%",
+    "Year":"34.42%",
+    "MCap":"87.27B",
+    "Date":"Jun\/04"
+  },
+  "102":{
+    "Components":"HCA",
+    "Price":331.94,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.72,
+    "Day":"-0.81%",
+    "Year":"23.92%",
+    "MCap":"87.22B",
+    "Date":"Jun\/04"
+  },
+  "103":{
+    "Components":"Southern",
+    "Price":80.71,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.35,
+    "Day":"0.44%",
+    "Year":"15.81%",
+    "MCap":"87.22B",
+    "Date":"Jun\/04"
+  },
+  "104":{
+    "Components":"Bristol-Myers Squibb",
+    "Price":41.83,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.02,
+    "Day":"-0.05%",
+    "Year":"-36.60%",
+    "MCap":"84.72B",
+    "Date":"Jun\/04"
+  },
+  "105":{
+    "Components":"Synopsys",
+    "Price":561.99,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.78,
+    "Day":"0.32%",
+    "Year":"24.84%",
+    "MCap":"84.51B",
+    "Date":"Jun\/04"
+  },
+  "106":{
+    "Components":"Chipotle Mexican Grill",
+    "Price":3075.87,
+    "Unnamed: 2":null,
+    "Unnamed: 3":4.13,
+    "Day":"0.13%",
+    "Year":"48.28%",
+    "MCap":"84.22B",
+    "Date":"Jun\/04"
+  },
+  "107":{
+    "Components":"Altria",
+    "Price":46.85,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.33,
+    "Day":"0.71%",
+    "Year":"4.95%",
+    "MCap":"83.71B",
+    "Date":"Jun\/04"
+  },
+  "108":{
+    "Components":"General Dynamics",
+    "Price":297.48,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.9,
+    "Day":"-0.30%",
+    "Year":"42.16%",
+    "MCap":"81.73B",
+    "Date":"Jun\/04"
+  },
+  "109":{
+    "Components":"Waste Management",
+    "Price":203.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.33,
+    "Day":"1.16%",
+    "Year":"23.53%",
+    "MCap":"81.26B",
+    "Date":"Jun\/04"
+  },
+  "110":{
+    "Components":"Duke Energy",
+    "Price":104.89,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.38,
+    "Day":"1.34%",
+    "Year":"16.34%",
+    "MCap":"80.19B",
+    "Date":"Jun\/04"
+  },
+  "111":{
+    "Components":"Gilead Sciences",
+    "Price":64.15,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.73,
+    "Day":"1.15%",
+    "Year":"-17.46%",
+    "MCap":"79.83B",
+    "Date":"Jun\/04"
+  },
+  "112":{
+    "Components":"Zoetis",
+    "Price":171.99,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.43,
+    "Day":"-0.25%",
+    "Year":"0.51%",
+    "MCap":"78.68B",
+    "Date":"Jun\/04"
+  },
+  "113":{
+    "Components":"Amphenol",
+    "Price":129.95,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.89,
+    "Day":"-1.43%",
+    "Year":"69.43%",
+    "MCap":"78.03B",
+    "Date":"Jun\/04"
+  },
+  "114":{
+    "Components":"Cadence Design Systems",
+    "Price":287.31,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.38,
+    "Day":"0.48%",
+    "Year":"23.66%",
+    "MCap":"77.61B",
+    "Date":"Jun\/04"
+  },
+  "115":{
+    "Components":"Sherwin-Williams",
+    "Price":305.84,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.84,
+    "Day":"1.27%",
+    "Year":"27.58%",
+    "MCap":"77.36B",
+    "Date":"Jun\/04"
+  },
+  "116":{
+    "Components":"Intercontinental Exchange",
+    "Price":134.75,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.12,
+    "Day":"0.84%",
+    "Year":"24.40%",
+    "MCap":"76.98B",
+    "Date":"Jun\/04"
+  },
+  "117":{
+    "Components":"Colgate-Palmolive",
+    "Price":93.81,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.31,
+    "Day":"1.42%",
+    "Year":"23.03%",
+    "MCap":"76.9B",
+    "Date":"Jun\/04"
+  },
+  "118":{
+    "Components":"CVS Health",
+    "Price":59.58,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.13,
+    "Day":"0.22%",
+    "Year":"-15.78%",
+    "MCap":"75.08B",
+    "Date":"Jun\/04"
+  },
+  "119":{
+    "Components":"McKesson",
+    "Price":573.44,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.44,
+    "Day":"0.25%",
+    "Year":"45.06%",
+    "MCap":"74.86B",
+    "Date":"Jun\/04"
+  },
+  "120":{
+    "Components":"TransDigm",
+    "Price":1340.31,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.28,
+    "Day":"0.10%",
+    "Year":"70.06%",
+    "MCap":"74.3B",
+    "Date":"Jun\/04"
+  },
+  "121":{
+    "Components":"Moody's",
+    "Price":406.58,
+    "Unnamed: 2":null,
+    "Unnamed: 3":5.38,
+    "Day":"1.34%",
+    "Year":"23.66%",
+    "MCap":"73.8B",
+    "Date":"Jun\/04"
+  },
+  "122":{
+    "Components":"CME",
+    "Price":203.78,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.98,
+    "Day":"0.98%",
+    "Year":"9.40%",
+    "MCap":"73.23B",
+    "Date":"Jun\/04"
+  },
+  "123":{
+    "Components":"Trane Technologies",
+    "Price":319.49,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.43,
+    "Day":"-0.45%",
+    "Year":"85.31%",
+    "MCap":"72.26B",
+    "Date":"Jun\/04"
+  },
+  "124":{
+    "Components":"Equinix",
+    "Price":764.68,
+    "Unnamed: 2":null,
+    "Unnamed: 3":13.22,
+    "Day":"1.76%",
+    "Year":"1.54%",
+    "MCap":"72.08B",
+    "Date":"Jun\/04"
+  },
+  "125":{
+    "Components":"Illinois Tool Works",
+    "Price":240.67,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.77,
+    "Day":"0.32%",
+    "Year":"6.68%",
+    "MCap":"71.65B",
+    "Date":"Jun\/04"
+  },
+  "126":{
+    "Components":"Freeport-McMoran",
+    "Price":49.71,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.3,
+    "Day":"-4.42%",
+    "Year":"34.21%",
+    "MCap":"70.33B",
+    "Date":"Jun\/04"
+  },
+  "127":{
+    "Components":"Target",
+    "Price":150.75,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.22,
+    "Day":"-1.45%",
+    "Year":"15.43%",
+    "MCap":"70.2B",
+    "Date":"Jun\/04"
+  },
+  "128":{
+    "Components":"Becton, Dickinson and Co.",
+    "Price":238.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.2,
+    "Day":"-0.08%",
+    "Year":"-6.10%",
+    "MCap":"68.85B",
+    "Date":"Jun\/04"
+  },
+  "129":{
+    "Components":"Cintas",
+    "Price":682.43,
+    "Unnamed: 2":null,
+    "Unnamed: 3":8.46,
+    "Day":"1.26%",
+    "Year":"40.93%",
+    "MCap":"68.6B",
+    "Date":"Jun\/04"
+  },
+  "130":{
+    "Components":"NXP Semiconductors",
+    "Price":266.38,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.88,
+    "Day":"-1.07%",
+    "Year":"50.87%",
+    "MCap":"68.6B",
+    "Date":"Jun\/04"
+  },
+  "131":{
+    "Components":"EOG Resources",
+    "Price":119.67,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.04,
+    "Day":"-0.03%",
+    "Year":"7.18%",
+    "MCap":"68.33B",
+    "Date":"Jun\/04"
+  },
+  "132":{
+    "Components":"PayPal",
+    "Price":63.31,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.11,
+    "Day":"-0.17%",
+    "Year":"-1.86%",
+    "MCap":"67.78B",
+    "Date":"Jun\/04"
+  },
+  "133":{
+    "Components":"Northrop Grumman",
+    "Price":448.39,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.36,
+    "Day":"-0.30%",
+    "Year":"0.64%",
+    "MCap":"67.28B",
+    "Date":"Jun\/04"
+  },
+  "134":{
+    "Components":"Ecolab",
+    "Price":235.53,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.02,
+    "Day":"1.30%",
+    "Year":"35.83%",
+    "MCap":"66.61B",
+    "Date":"Jun\/04"
+  },
+  "135":{
+    "Components":"Marriott International",
+    "Price":230.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.27,
+    "Day":"0.99%",
+    "Year":"30.06%",
+    "MCap":"66.24B",
+    "Date":"Jun\/04"
+  },
+  "136":{
+    "Components":"Parker-Hannifin",
+    "Price":511.58,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.15,
+    "Day":"0.03%",
+    "Year":"51.63%",
+    "MCap":"65.54B",
+    "Date":"Jun\/04"
+  },
+  "137":{
+    "Components":"CSX",
+    "Price":32.76,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.36,
+    "Day":"-1.09%",
+    "Year":"1.96%",
+    "MCap":"64.5B",
+    "Date":"Jun\/04"
+  },
+  "138":{
+    "Components":"Constellation Energy",
+    "Price":203.21,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-4.77,
+    "Day":"-2.29%",
+    "Year":"132.21%",
+    "MCap":"63.21B",
+    "Date":"Jun\/04"
+  },
+  "139":{
+    "Components":"Marathon Petroleum",
+    "Price":175.22,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.42,
+    "Day":"1.99%",
+    "Year":"65.50%",
+    "MCap":"62.86B",
+    "Date":"Jun\/04"
+  },
+  "140":{
+    "Components":"Schlumberger",
+    "Price":43.41,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.65,
+    "Day":"-1.47%",
+    "Year":"-6.08%",
+    "MCap":"61.95B",
+    "Date":"Jun\/04"
+  },
+  "141":{
+    "Components":"Emerson Electric",
+    "Price":106.8,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.23,
+    "Day":"-2.04%",
+    "Year":"29.94%",
+    "MCap":"61.42B",
+    "Date":"Jun\/04"
+  },
+  "142":{
+    "Components":"US Bancorp",
+    "Price":38.9,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.82,
+    "Day":"-2.06%",
+    "Year":"24.60%",
+    "MCap":"61.37B",
+    "Date":"Jun\/04"
+  },
+  "143":{
+    "Components":"PNC",
+    "Price":154.16,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.11,
+    "Day":"-0.72%",
+    "Year":"25.05%",
+    "MCap":"61.21B",
+    "Date":"Jun\/04"
+  },
+  "144":{
+    "Components":"Motorola Solutions Msi",
+    "Price":369.08,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.1,
+    "Day":"0.85%",
+    "Year":"30.30%",
+    "MCap":"60.91B",
+    "Date":"Jun\/04"
+  },
+  "145":{
+    "Components":"FedEx",
+    "Price":245.9,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.4,
+    "Day":"-0.97%",
+    "Year":"11.23%",
+    "MCap":"60.52B",
+    "Date":"Jun\/04"
+  },
+  "146":{
+    "Components":"Air Products & Chemicals",
+    "Price":270.23,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.7,
+    "Day":"-0.26%",
+    "Year":"-3.41%",
+    "MCap":"60.03B",
+    "Date":"Jun\/04"
+  },
+  "147":{
+    "Components":"Welltower",
+    "Price":104.35,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.16,
+    "Day":"0.15%",
+    "Year":"37.14%",
+    "MCap":"59.36B",
+    "Date":"Jun\/04"
+  },
+  "148":{
+    "Components":"Phillips 66",
+    "Price":136.97,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.86,
+    "Day":"-1.34%",
+    "Year":"42.65%",
+    "MCap":"59.19B",
+    "Date":"Jun\/04"
+  },
+  "149":{
+    "Components":"Republic Services",
+    "Price":187.38,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.17,
+    "Day":"1.17%",
+    "Year":"30.36%",
+    "MCap":"58.59B",
+    "Date":"Jun\/04"
+  },
+  "150":{
+    "Components":"Roper Industries",
+    "Price":543.41,
+    "Unnamed: 2":null,
+    "Unnamed: 3":7.37,
+    "Day":"1.37%",
+    "Year":"19.46%",
+    "MCap":"57.95B",
+    "Date":"Jun\/04"
+  },
+  "151":{
+    "Components":"O'Reilly Automotive",
+    "Price":971.2,
+    "Unnamed: 2":null,
+    "Unnamed: 3":15.27,
+    "Day":"1.60%",
+    "Year":"7.66%",
+    "MCap":"57.2B",
+    "Date":"Jun\/04"
+  },
+  "152":{
+    "Components":"AON",
+    "Price":284.51,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.31,
+    "Day":"1.18%",
+    "Year":"-8.92%",
+    "MCap":"56.51B",
+    "Date":"Jun\/04"
+  },
+  "153":{
+    "Components":"PACCAR",
+    "Price":105.96,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.57,
+    "Day":"0.54%",
+    "Year":"44.49%",
+    "MCap":"55.65B",
+    "Date":"Jun\/04"
+  },
+  "154":{
+    "Components":"Carrier Global",
+    "Price":61.72,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.29,
+    "Day":"-0.46%",
+    "Year":"42.86%",
+    "MCap":"55.55B",
+    "Date":"Jun\/04"
+  },
+  "155":{
+    "Components":"Arthur J. Gallagher",
+    "Price":255.19,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.2,
+    "Day":"0.87%",
+    "Year":"23.71%",
+    "MCap":"55.3B",
+    "Date":"Jun\/04"
+  },
+  "156":{
+    "Components":"Moderna",
+    "Price":145.28,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.38,
+    "Day":"-1.61%",
+    "Year":"12.71%",
+    "MCap":"54.96B",
+    "Date":"Jun\/04"
+  },
+  "157":{
+    "Components":"3M",
+    "Price":98.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.23,
+    "Day":"-1.23%",
+    "Year":"0.53%",
+    "MCap":"54.19B",
+    "Date":"Jun\/04"
+  },
+  "158":{
+    "Components":"Monster Beverage",
+    "Price":52.2,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.32,
+    "Day":"0.62%",
+    "Year":"-11.91%",
+    "MCap":"53.94B",
+    "Date":"Jun\/04"
+  },
+  "159":{
+    "Components":"Occidental Petroleum",
+    "Price":59.9,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.73,
+    "Day":"-1.20%",
+    "Year":"0.84%",
+    "MCap":"52.74B",
+    "Date":"Jun\/04"
+  },
+  "160":{
+    "Components":"Edwards Lifesciences",
+    "Price":87.41,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.38,
+    "Day":"-0.43%",
+    "Year":"1.71%",
+    "MCap":"52.55B",
+    "Date":"Jun\/04"
+  },
+  "161":{
+    "Components":"AIG",
+    "Price":76.66,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.63,
+    "Day":"-2.08%",
+    "Year":"41.36%",
+    "MCap":"52.53B",
+    "Date":"Jun\/04"
+  },
+  "162":{
+    "Components":"General Motors",
+    "Price":45.26,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.47,
+    "Day":"-1.03%",
+    "Year":"32.60%",
+    "MCap":"52.47B",
+    "Date":"Jun\/04"
+  },
+  "163":{
+    "Components":"Capital One Financial",
+    "Price":134.49,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.55,
+    "Day":"-1.86%",
+    "Year":"23.39%",
+    "MCap":"51.73B",
+    "Date":"Jun\/04"
+  },
+  "164":{
+    "Components":"Microchip Technology",
+    "Price":94.07,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.37,
+    "Day":"-1.43%",
+    "Year":"24.98%",
+    "MCap":"51.49B",
+    "Date":"Jun\/04"
+  },
+  "165":{
+    "Components":"Valero Energy",
+    "Price":155.48,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.58,
+    "Day":"1.02%",
+    "Year":"44.78%",
+    "MCap":"51.08B",
+    "Date":"Jun\/04"
+  },
+  "166":{
+    "Components":"Copart",
+    "Price":53.0,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.41,
+    "Day":"0.78%",
+    "Year":"19.74%",
+    "MCap":"51.06B",
+    "Date":"Jun\/04"
+  },
+  "167":{
+    "Components":"Aflac",
+    "Price":88.08,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.66,
+    "Day":"-0.74%",
+    "Year":"31.21%",
+    "MCap":"50.98B",
+    "Date":"Jun\/04"
+  },
+  "168":{
+    "Components":"MetLife",
+    "Price":70.35,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.06,
+    "Day":"-1.48%",
+    "Year":"33.62%",
+    "MCap":"50.73B",
+    "Date":"Jun\/04"
+  },
+  "169":{
+    "Components":"Hilton Worldwide",
+    "Price":200.35,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.45,
+    "Day":"1.24%",
+    "Year":"40.53%",
+    "MCap":"50.51B",
+    "Date":"Jun\/04"
+  },
+  "170":{
+    "Components":"Norfolk Southern",
+    "Price":221.71,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.66,
+    "Day":"-0.74%",
+    "Year":"3.43%",
+    "MCap":"50.46B",
+    "Date":"Jun\/04"
+  },
+  "171":{
+    "Components":"Williams Companies",
+    "Price":41.37,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.36,
+    "Day":"0.88%",
+    "Year":"37.24%",
+    "MCap":"49.98B",
+    "Date":"Jun\/04"
+  },
+  "172":{
+    "Components":"Simon Property",
+    "Price":152.51,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.0,
+    "Day":"0.66%",
+    "Year":"43.13%",
+    "MCap":"49.6B",
+    "Date":"Jun\/04"
+  },
+  "173":{
+    "Components":"Truist Financial",
+    "Price":37.11,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.64,
+    "Day":"-1.70%",
+    "Year":"16.92%",
+    "MCap":"49.53B",
+    "Date":"Jun\/03"
+  },
+  "174":{
+    "Components":"Public Storage",
+    "Price":279.02,
+    "Unnamed: 2":null,
+    "Unnamed: 3":4.86,
+    "Day":"1.77%",
+    "Year":"-1.46%",
+    "MCap":"49.4B",
+    "Date":"Jun\/04"
+  },
+  "175":{
+    "Components":"Johnson Controls",
+    "Price":71.09,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.65,
+    "Day":"-0.91%",
+    "Year":"15.05%",
+    "MCap":"48.64B",
+    "Date":"Jun\/04"
+  },
+  "176":{
+    "Components":"Sempra Energy",
+    "Price":77.22,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.5,
+    "Day":"0.65%",
+    "Year":"-46.75%",
+    "MCap":"48.4B",
+    "Date":"Jun\/04"
+  },
+  "177":{
+    "Components":"Ford Motor",
+    "Price":12.02,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.14,
+    "Day":"-1.15%",
+    "Year":"-4.53%",
+    "MCap":"48.29B",
+    "Date":"Jun\/04"
+  },
+  "178":{
+    "Components":"AutoZone",
+    "Price":2794.94,
+    "Unnamed: 2":null,
+    "Unnamed: 3":33.92,
+    "Day":"1.23%",
+    "Year":"19.44%",
+    "MCap":"48B",
+    "Date":"Jun\/04"
+  },
+  "179":{
+    "Components":"DR Horton",
+    "Price":143.9,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.16,
+    "Day":"-2.15%",
+    "Year":"29.15%",
+    "MCap":"47.95B",
+    "Date":"Jun\/04"
+  },
+  "180":{
+    "Components":"Travelers Companies",
+    "Price":209.48,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.87,
+    "Day":"-0.41%",
+    "Year":"20.14%",
+    "MCap":"47.77B",
+    "Date":"Jun\/04"
+  },
+  "181":{
+    "Components":"Keurig Dr Pepper",
+    "Price":34.85,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.5,
+    "Day":"1.46%",
+    "Year":"11.31%",
+    "MCap":"47.76B",
+    "Date":"Jun\/04"
+  },
+  "182":{
+    "Components":"American Electric Power",
+    "Price":90.36,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.32,
+    "Day":"0.36%",
+    "Year":"7.57%",
+    "MCap":"47.57B",
+    "Date":"Jun\/04"
+  },
+  "183":{
+    "Components":"Ross Stores",
+    "Price":140.92,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.15,
+    "Day":"-0.11%",
+    "Year":"36.68%",
+    "MCap":"47.17B",
+    "Date":"Jun\/04"
+  },
+  "184":{
+    "Components":"Realty Income",
+    "Price":54.43,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.17,
+    "Day":"2.19%",
+    "Year":"-9.28%",
+    "MCap":"46.52B",
+    "Date":"Jun\/04"
+  },
+  "185":{
+    "Components":"Newmont Mining",
+    "Price":40.54,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.4,
+    "Day":"-3.34%",
+    "Year":"-3.29%",
+    "MCap":"46.28B",
+    "Date":"Jun\/04"
+  },
+  "186":{
+    "Components":"Kimberly Clark",
+    "Price":137.32,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.6,
+    "Day":"1.93%",
+    "Year":"0.51%",
+    "MCap":"46.28B",
+    "Date":"Jun\/04"
+  },
+  "187":{
+    "Components":"TE Connectivity",
+    "Price":148.2,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.83,
+    "Day":"-0.56%",
+    "Year":"19.32%",
+    "MCap":"45.78B",
+    "Date":"Jun\/04"
+  },
+  "188":{
+    "Components":"Cencora",
+    "Price":230.72,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.06,
+    "Day":"0.03%",
+    "Year":"32.07%",
+    "MCap":"45.74B",
+    "Date":"Jun\/04"
+  },
+  "189":{
+    "Components":"Constellation Brands",
+    "Price":250.21,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.05,
+    "Day":"0.02%",
+    "Year":"2.47%",
+    "MCap":"45.7B",
+    "Date":"Jun\/04"
+  },
+  "190":{
+    "Components":"ONEOK",
+    "Price":79.1,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.46,
+    "Day":"-0.57%",
+    "Year":"34.71%",
+    "MCap":"45.7B",
+    "Date":"Jun\/04"
+  },
+  "191":{
+    "Components":"Charter Communications",
+    "Price":280.6,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-5.36,
+    "Day":"-1.87%",
+    "Year":"-16.22%",
+    "MCap":"45.56B",
+    "Date":"Jun\/04"
+  },
+  "192":{
+    "Components":"Digital Realty",
+    "Price":145.07,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.15,
+    "Day":"1.50%",
+    "Year":"38.40%",
+    "MCap":"45.17B",
+    "Date":"Jun\/04"
+  },
+  "193":{
+    "Components":"Hess",
+    "Price":148.08,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.06,
+    "Day":"-0.71%",
+    "Year":"12.44%",
+    "MCap":"45.04B",
+    "Date":"Jun\/04"
+  },
+  "194":{
+    "Components":"Crown Castle International",
+    "Price":103.44,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.3,
+    "Day":"0.29%",
+    "Year":"-8.30%",
+    "MCap":"45.04B",
+    "Date":"Jun\/04"
+  },
+  "195":{
+    "Components":"Autodesk",
+    "Price":212.04,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.49,
+    "Day":"0.71%",
+    "Year":"1.73%",
+    "MCap":"45.03B",
+    "Date":"Jun\/04"
+  },
+  "196":{
+    "Components":"Fortinet",
+    "Price":58.67,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.04,
+    "Day":"-0.07%",
+    "Year":"-17.68%",
+    "MCap":"44.95B",
+    "Date":"Jun\/04"
+  },
+  "197":{
+    "Components":"Dexcom",
+    "Price":116.8,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.67,
+    "Day":"1.45%",
+    "Year":"-6.31%",
+    "MCap":"44.76B",
+    "Date":"Jun\/04"
+  },
+  "198":{
+    "Components":"Dominion Resources",
+    "Price":52.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.23,
+    "Day":"-0.43%",
+    "Year":"3.96%",
+    "MCap":"44.71B",
+    "Date":"Jun\/04"
+  },
+  "199":{
+    "Components":"Est\u00e9e Lauder",
+    "Price":123.54,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.88,
+    "Day":"-0.71%",
+    "Year":"-31.78%",
+    "MCap":"44.52B",
+    "Date":"Jun\/04"
+  },
+  "200":{
+    "Components":"Bank Of New York Mellon",
+    "Price":58.89,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.61,
+    "Day":"-1.02%",
+    "Year":"38.50%",
+    "MCap":"44.19B",
+    "Date":"Jun\/04"
+  },
+  "201":{
+    "Components":"Paychex",
+    "Price":121.59,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.52,
+    "Day":"1.27%",
+    "Year":"8.90%",
+    "MCap":"43.77B",
+    "Date":"Jun\/04"
+  },
+  "202":{
+    "Components":"Royal Caribbean Cruises",
+    "Price":155.44,
+    "Unnamed: 2":null,
+    "Unnamed: 3":4.38,
+    "Day":"2.90%",
+    "Year":"77.44%",
+    "MCap":"43.74B",
+    "Date":"Jun\/04"
+  },
+  "203":{
+    "Components":"Fidelity National Information Services",
+    "Price":76.06,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.01,
+    "Day":"0.01%",
+    "Year":"39.05%",
+    "MCap":"43.69B",
+    "Date":"Jun\/04"
+  },
+  "204":{
+    "Components":"Humana",
+    "Price":360.81,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.81,
+    "Day":"-1.04%",
+    "Year":"-31.14%",
+    "MCap":"43.63B",
+    "Date":"Jun\/04"
+  },
+  "205":{
+    "Components":"Grainger",
+    "Price":888.07,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.58,
+    "Day":"-0.07%",
+    "Year":"31.44%",
+    "MCap":"43.6B",
+    "Date":"Jun\/04"
+  },
+  "206":{
+    "Components":"L3Harris Technologies",
+    "Price":226.74,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.2,
+    "Day":"0.09%",
+    "Year":"24.22%",
+    "MCap":"43.1B",
+    "Date":"Jun\/04"
+  },
+  "207":{
+    "Components":"Kinder Morgan",
+    "Price":19.68,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.18,
+    "Day":"0.90%",
+    "Year":"17.39%",
+    "MCap":"43.07B",
+    "Date":"Jun\/04"
+  },
+  "208":{
+    "Components":"Allstate",
+    "Price":163.37,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.76,
+    "Day":"-0.46%",
+    "Year":"49.22%",
+    "MCap":"42.9B",
+    "Date":"Jun\/04"
+  },
+  "209":{
+    "Components":"Kraft Heinz",
+    "Price":35.66,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.55,
+    "Day":"1.55%",
+    "Year":"-6.32%",
+    "MCap":"42.79B",
+    "Date":"Jun\/04"
+  },
+  "210":{
+    "Components":"Ameriprise Financial",
+    "Price":424.58,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-6.92,
+    "Day":"-1.60%",
+    "Year":"36.20%",
+    "MCap":"42.77B",
+    "Date":"Jun\/04"
+  },
+  "211":{
+    "Components":"Prudential Financial",
+    "Price":117.95,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.59,
+    "Day":"-1.33%",
+    "Year":"42.01%",
+    "MCap":"42.64B",
+    "Date":"Jun\/04"
+  },
+  "212":{
+    "Components":"United Rentals",
+    "Price":630.55,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-7.59,
+    "Day":"-1.19%",
+    "Year":"76.31%",
+    "MCap":"41.87B",
+    "Date":"Jun\/04"
+  },
+  "213":{
+    "Components":"Idexx Laboratories",
+    "Price":491.71,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.86,
+    "Day":"-0.17%",
+    "Year":"5.68%",
+    "MCap":"40.65B",
+    "Date":"Jun\/04"
+  },
+  "214":{
+    "Components":"Hershey",
+    "Price":199.93,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.16,
+    "Day":"1.09%",
+    "Year":"-23.00%",
+    "MCap":"40.49B",
+    "Date":"Jun\/04"
+  },
+  "215":{
+    "Components":"Otis Worldwide",
+    "Price":99.19,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.36,
+    "Day":"0.36%",
+    "Year":"17.34%",
+    "MCap":"40.07B",
+    "Date":"Jun\/04"
+  },
+  "216":{
+    "Components":"Yum Brands",
+    "Price":141.51,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.49,
+    "Day":"1.79%",
+    "Year":"5.47%",
+    "MCap":"39.69B",
+    "Date":"Jun\/04"
+  },
+  "217":{
+    "Components":"IQVIA Holdings",
+    "Price":215.97,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.47,
+    "Day":"-0.21%",
+    "Year":"5.86%",
+    "MCap":"39.2B",
+    "Date":"Jun\/04"
+  },
+  "218":{
+    "Components":"Old Dominion Freight Line",
+    "Price":172.15,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.9,
+    "Day":"1.71%",
+    "Year":"9.79%",
+    "MCap":"39.11B",
+    "Date":"Jun\/04"
+  },
+  "219":{
+    "Components":"Quanta Services",
+    "Price":270.13,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.51,
+    "Day":"-0.56%",
+    "Year":"50.72%",
+    "MCap":"39.03B",
+    "Date":"Jun\/04"
+  },
+  "220":{
+    "Components":"PG&E",
+    "Price":18.31,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.08,
+    "Day":"0.44%",
+    "Year":"8.79%",
+    "MCap":"38.92B",
+    "Date":"Jun\/04"
+  },
+  "221":{
+    "Components":"Lennar",
+    "Price":157.82,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.81,
+    "Day":"-1.75%",
+    "Year":"40.99%",
+    "MCap":"38.91B",
+    "Date":"Jun\/04"
+  },
+  "222":{
+    "Components":"Msci",
+    "Price":493.21,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.93,
+    "Day":"0.39%",
+    "Year":"2.58%",
+    "MCap":"38.91B",
+    "Date":"Jun\/04"
+  },
+  "223":{
+    "Components":"Nucor",
+    "Price":161.18,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-5.43,
+    "Day":"-3.26%",
+    "Year":"14.36%",
+    "MCap":"38.9B",
+    "Date":"Jun\/04"
+  },
+  "224":{
+    "Components":"Dow",
+    "Price":55.2,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.88,
+    "Day":"-1.57%",
+    "Year":"7.17%",
+    "MCap":"38.86B",
+    "Date":"Jun\/04"
+  },
+  "225":{
+    "Components":"Corteva",
+    "Price":54.07,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.5,
+    "Day":"-2.70%",
+    "Year":"-3.79%",
+    "MCap":"38.72B",
+    "Date":"Jun\/04"
+  },
+  "226":{
+    "Components":"Agilent",
+    "Price":130.78,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.69,
+    "Day":"-0.52%",
+    "Year":"10.50%",
+    "MCap":"38.6B",
+    "Date":"Jun\/04"
+  },
+  "227":{
+    "Components":"General Mills",
+    "Price":68.18,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.38,
+    "Day":"0.56%",
+    "Year":"-20.01%",
+    "MCap":"38.25B",
+    "Date":"Jun\/04"
+  },
+  "228":{
+    "Components":"Ametek",
+    "Price":166.81,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.71,
+    "Day":"0.43%",
+    "Year":"12.11%",
+    "MCap":"38.23B",
+    "Date":"Jun\/04"
+  },
+  "229":{
+    "Components":"Arch Capital",
+    "Price":100.85,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.76,
+    "Day":"-0.75%",
+    "Year":"41.44%",
+    "MCap":"37.72B",
+    "Date":"Jun\/04"
+  },
+  "230":{
+    "Components":"Kroger",
+    "Price":52.04,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.23,
+    "Day":"0.43%",
+    "Year":"12.75%",
+    "MCap":"37.41B",
+    "Date":"Jun\/04"
+  },
+  "231":{
+    "Components":"Centene",
+    "Price":70.13,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.98,
+    "Day":"-1.38%",
+    "Year":"4.14%",
+    "MCap":"37.38B",
+    "Date":"Jun\/04"
+  },
+  "232":{
+    "Components":"Cummins",
+    "Price":272.87,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.43,
+    "Day":"-0.88%",
+    "Year":"25.02%",
+    "MCap":"37.37B",
+    "Date":"Jun\/04"
+  },
+  "233":{
+    "Components":"Public Service",
+    "Price":74.36,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.16,
+    "Day":"-0.21%",
+    "Year":"21.19%",
+    "MCap":"37.14B",
+    "Date":"Jun\/04"
+  },
+  "234":{
+    "Components":"Exelon",
+    "Price":37.36,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.2,
+    "Day":"0.54%",
+    "Year":"-6.57%",
+    "MCap":"37.05B",
+    "Date":"Jun\/04"
+  },
+  "235":{
+    "Components":"Fastenal",
+    "Price":64.34,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.03,
+    "Day":"0.05%",
+    "Year":"16.37%",
+    "MCap":"36.74B",
+    "Date":"Jun\/04"
+  },
+  "236":{
+    "Components":"Verisk Analytics",
+    "Price":258.2,
+    "Unnamed: 2":null,
+    "Unnamed: 3":4.66,
+    "Day":"1.84%",
+    "Year":"15.72%",
+    "MCap":"36.71B",
+    "Date":"Jun\/04"
+  },
+  "237":{
+    "Components":"Sysco",
+    "Price":72.75,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.49,
+    "Day":"-0.66%",
+    "Year":"0.29%",
+    "MCap":"36.22B",
+    "Date":"Jun\/04"
+  },
+  "238":{
+    "Components":"Cincinnati Financial",
+    "Price":114.91,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.35,
+    "Day":"-1.16%",
+    "Year":"14.26%",
+    "MCap":"36.01B",
+    "Date":"Jun\/04"
+  },
+  "239":{
+    "Components":"Electronic Arts EA",
+    "Price":136.53,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.59,
+    "Day":"2.70%",
+    "Year":"7.49%",
+    "MCap":"35.79B",
+    "Date":"Jun\/04"
+  },
+  "240":{
+    "Components":"Ingersoll Rand",
+    "Price":87.95,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.07,
+    "Day":"-2.30%",
+    "Year":"44.94%",
+    "MCap":"35.73B",
+    "Date":"Jun\/04"
+  },
+  "241":{
+    "Components":"Monolithic Power Systems",
+    "Price":725.65,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-4.56,
+    "Day":"-0.62%",
+    "Year":"48.96%",
+    "MCap":"35.29B",
+    "Date":"Jun\/04"
+  },
+  "242":{
+    "Components":"GE HealthCare Technologies",
+    "Price":77.57,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.5,
+    "Day":"0.65%",
+    "Year":"-3.63%",
+    "MCap":"35.07B",
+    "Date":"Jun\/04"
+  },
+  "243":{
+    "Components":"HP",
+    "Price":35.39,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.03,
+    "Day":"0.08%",
+    "Year":"20.83%",
+    "MCap":"35.06B",
+    "Date":"Jun\/04"
+  },
+  "244":{
+    "Components":"Howmet Aerospace",
+    "Price":82.56,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.07,
+    "Day":"-2.45%",
+    "Year":"84.29%",
+    "MCap":"34.72B",
+    "Date":"Jun\/04"
+  },
+  "245":{
+    "Components":"Martin Marietta Materials",
+    "Price":555.4,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-6.29,
+    "Day":"-1.12%",
+    "Year":"33.17%",
+    "MCap":"34.38B",
+    "Date":"Jun\/04"
+  },
+  "246":{
+    "Components":"NASDAQ",
+    "Price":59.41,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.42,
+    "Day":"0.70%",
+    "Year":"6.04%",
+    "MCap":"34.15B",
+    "Date":"Jun\/04"
+  },
+  "247":{
+    "Components":"Biogen",
+    "Price":233.71,
+    "Unnamed: 2":null,
+    "Unnamed: 3":4.18,
+    "Day":"1.82%",
+    "Year":"-22.65%",
+    "MCap":"33.74B",
+    "Date":"Jun\/04"
+  },
+  "248":{
+    "Components":"Dupont De Nemours",
+    "Price":80.55,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.14,
+    "Day":"-0.18%",
+    "Year":"12.54%",
+    "MCap":"33.63B",
+    "Date":"Jun\/04"
+  },
+  "249":{
+    "Components":"Gartner",
+    "Price":428.33,
+    "Unnamed: 2":null,
+    "Unnamed: 3":4.37,
+    "Day":"1.03%",
+    "Year":"24.69%",
+    "MCap":"33.55B",
+    "Date":"Jun\/04"
+  },
+  "250":{
+    "Components":"Diamondback Energy",
+    "Price":189.24,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.45,
+    "Day":"-0.76%",
+    "Year":"45.21%",
+    "MCap":"33.17B",
+    "Date":"Jun\/04"
+  },
+  "251":{
+    "Components":"Xylem",
+    "Price":137.06,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.68,
+    "Day":"-1.21%",
+    "Year":"29.11%",
+    "MCap":"33.14B",
+    "Date":"Jun\/04"
+  },
+  "252":{
+    "Components":"Vulcan Materials",
+    "Price":250.46,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.32,
+    "Day":"-0.52%",
+    "Year":"23.84%",
+    "MCap":"33.01B",
+    "Date":"Jun\/04"
+  },
+  "253":{
+    "Components":"Las Vegas Sands",
+    "Price":43.55,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.28,
+    "Day":"-2.86%",
+    "Year":"-24.60%",
+    "MCap":"32.79B",
+    "Date":"Jun\/04"
+  },
+  "254":{
+    "Components":"Cognizant Technology Solutions",
+    "Price":65.38,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.37,
+    "Day":"-0.56%",
+    "Year":"6.65%",
+    "MCap":"32.78B",
+    "Date":"Jun\/04"
+  },
+  "255":{
+    "Components":"Delta Air Lines",
+    "Price":49.84,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.42,
+    "Day":"-0.84%",
+    "Year":"37.38%",
+    "MCap":"32.63B",
+    "Date":"Jun\/04"
+  },
+  "256":{
+    "Components":"Fair Isaac",
+    "Price":1304.71,
+    "Unnamed: 2":null,
+    "Unnamed: 3":11.25,
+    "Day":"0.87%",
+    "Year":"64.82%",
+    "MCap":"32.45B",
+    "Date":"Jun\/04"
+  },
+  "257":{
+    "Components":"Consolidated Edison",
+    "Price":93.74,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.17,
+    "Day":"0.18%",
+    "Year":"0.84%",
+    "MCap":"32.36B",
+    "Date":"Jun\/04"
+  },
+  "258":{
+    "Components":"CoStar",
+    "Price":78.66,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.74,
+    "Day":"0.94%",
+    "Year":"-4.07%",
+    "MCap":"32.08B",
+    "Date":"Jun\/04"
+  },
+  "259":{
+    "Components":"Archer-Daniels Midland",
+    "Price":61.84,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.2,
+    "Day":"-0.31%",
+    "Year":"-13.23%",
+    "MCap":"31.71B",
+    "Date":"Jun\/04"
+  },
+  "260":{
+    "Components":"Corning",
+    "Price":37.0,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.31,
+    "Day":"-0.83%",
+    "Year":"19.16%",
+    "MCap":"31.67B",
+    "Date":"Jun\/04"
+  },
+  "261":{
+    "Components":"Baker Hughes",
+    "Price":31.55,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.61,
+    "Day":"-1.88%",
+    "Year":"6.32%",
+    "MCap":"31.57B",
+    "Date":"Jun\/04"
+  },
+  "262":{
+    "Components":"Extra Space Storage",
+    "Price":148.12,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.01,
+    "Day":"2.07%",
+    "Year":"2.55%",
+    "MCap":"31.38B",
+    "Date":"Jun\/04"
+  },
+  "263":{
+    "Components":"Garmin",
+    "Price":163.03,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.37,
+    "Day":"-0.22%",
+    "Year":"54.48%",
+    "MCap":"31.3B",
+    "Date":"Jun\/04"
+  },
+  "264":{
+    "Components":"ResMed",
+    "Price":211.11,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.55,
+    "Day":"1.71%",
+    "Year":"-4.96%",
+    "MCap":"31.19B",
+    "Date":"Jun\/04"
+  },
+  "265":{
+    "Components":"PPG Industries",
+    "Price":131.61,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.01,
+    "Day":"0%",
+    "Year":"-4.58%",
+    "MCap":"31B",
+    "Date":"Jun\/04"
+  },
+  "266":{
+    "Components":"Xcel Energy",
+    "Price":56.01,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.75,
+    "Day":"1.35%",
+    "Year":"-12.42%",
+    "MCap":"30.93B",
+    "Date":"Jun\/04"
+  },
+  "267":{
+    "Components":"Dollar General",
+    "Price":134.43,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-5.38,
+    "Day":"-3.85%",
+    "Year":"-15.38%",
+    "MCap":"30.73B",
+    "Date":"Jun\/04"
+  },
+  "268":{
+    "Components":"LyondellBasell Industries",
+    "Price":94.39,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.19,
+    "Day":"-1.24%",
+    "Year":"5.21%",
+    "MCap":"30.73B",
+    "Date":"Jun\/04"
+  },
+  "269":{
+    "Components":"On Semiconductor",
+    "Price":71.48,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.53,
+    "Day":"-2.10%",
+    "Year":"-16.52%",
+    "MCap":"30.73B",
+    "Date":"Jun\/04"
+  },
+  "270":{
+    "Components":"Discover Financial Services",
+    "Price":121.03,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.82,
+    "Day":"-1.48%",
+    "Year":"11.00%",
+    "MCap":"30.53B",
+    "Date":"Jun\/04"
+  },
+  "271":{
+    "Components":"Mettler Toledo International",
+    "Price":1408.61,
+    "Unnamed: 2":null,
+    "Unnamed: 3":8.31,
+    "Day":"0.59%",
+    "Year":"5.50%",
+    "MCap":"30.34B",
+    "Date":"Jun\/04"
+  },
+  "272":{
+    "Components":"Halliburton",
+    "Price":33.86,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.88,
+    "Day":"-2.53%",
+    "Year":"8.67%",
+    "MCap":"30.25B",
+    "Date":"Jun\/04"
+  },
+  "273":{
+    "Components":"Vici Properties",
+    "Price":28.7,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.02,
+    "Day":"-0.05%",
+    "Year":"-9.79%",
+    "MCap":"30.2B",
+    "Date":"Jun\/04"
+  },
+  "274":{
+    "Components":"CDW",
+    "Price":221.96,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.25,
+    "Day":"-0.56%",
+    "Year":"31.07%",
+    "MCap":"29.88B",
+    "Date":"Jun\/04"
+  },
+  "275":{
+    "Components":"Hartford Financial Services",
+    "Price":100.55,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.01,
+    "Day":"-0.99%",
+    "Year":"43.77%",
+    "MCap":"29.86B",
+    "Date":"Jun\/04"
+  },
+  "276":{
+    "Components":"Edison International",
+    "Price":76.53,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.19,
+    "Day":"0.25%",
+    "Year":"14.57%",
+    "MCap":"29.26B",
+    "Date":"Jun\/04"
+  },
+  "277":{
+    "Components":"Devon Energy",
+    "Price":46.66,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.44,
+    "Day":"-0.93%",
+    "Year":"-3.55%",
+    "MCap":"29.2B",
+    "Date":"Jun\/04"
+  },
+  "278":{
+    "Components":"Westinghouse Air Brake Technologies",
+    "Price":164.77,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.82,
+    "Day":"-0.50%",
+    "Year":"69.60%",
+    "MCap":"29.19B",
+    "Date":"Jun\/04"
+  },
+  "279":{
+    "Components":"Tractor Supply",
+    "Price":269.82,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.67,
+    "Day":"1.00%",
+    "Year":"30.00%",
+    "MCap":"29.14B",
+    "Date":"Jun\/04"
+  },
+  "280":{
+    "Components":"First Solar",
+    "Price":266.22,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-10.64,
+    "Day":"-3.84%",
+    "Year":"27.54%",
+    "MCap":"29.08B",
+    "Date":"Jun\/04"
+  },
+  "281":{
+    "Components":"Rockwell Automation",
+    "Price":254.93,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.05,
+    "Day":"-1.18%",
+    "Year":"-12.61%",
+    "MCap":"29.06B",
+    "Date":"Jun\/04"
+  },
+  "282":{
+    "Components":"Equifax",
+    "Price":234.58,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.67,
+    "Day":"1.59%",
+    "Year":"9.69%",
+    "MCap":"29.02B",
+    "Date":"Jun\/04"
+  },
+  "283":{
+    "Components":"Take Two Interactive Software",
+    "Price":165.94,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.39,
+    "Day":"1.46%",
+    "Year":"21.37%",
+    "MCap":"27.92B",
+    "Date":"Jun\/04"
+  },
+  "284":{
+    "Components":"AvalonBay Communities",
+    "Price":197.09,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.62,
+    "Day":"1.35%",
+    "Year":"8.58%",
+    "MCap":"27.89B",
+    "Date":"Jun\/04"
+  },
+  "285":{
+    "Components":"eBay",
+    "Price":53.73,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.19,
+    "Day":"0.35%",
+    "Year":"18.64%",
+    "MCap":"27.59B",
+    "Date":"Jun\/04"
+  },
+  "286":{
+    "Components":"Ansys",
+    "Price":317.22,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.2,
+    "Day":"0.70%",
+    "Year":"-2.70%",
+    "MCap":"27.53B",
+    "Date":"Jun\/04"
+  },
+  "287":{
+    "Components":"CBRE Group",
+    "Price":86.72,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.12,
+    "Day":"0.13%",
+    "Year":"14.02%",
+    "MCap":"26.51B",
+    "Date":"Jun\/04"
+  },
+  "288":{
+    "Components":"Dollar Tree",
+    "Price":120.31,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.7,
+    "Day":"-0.57%",
+    "Year":"-7.63%",
+    "MCap":"26.35B",
+    "Date":"Jun\/04"
+  },
+  "289":{
+    "Components":"Church & Dwight",
+    "Price":108.07,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.81,
+    "Day":"0.76%",
+    "Year":"14.18%",
+    "MCap":"26.28B",
+    "Date":"Jun\/04"
+  },
+  "290":{
+    "Components":"T. Rowe Price",
+    "Price":116.54,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.26,
+    "Day":"-0.22%",
+    "Year":"5.66%",
+    "MCap":"26.16B",
+    "Date":"Jun\/04"
+  },
+  "291":{
+    "Components":"Willis Towers Watson",
+    "Price":255.04,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.25,
+    "Day":"-0.10%",
+    "Year":"15.81%",
+    "MCap":"26.14B",
+    "Date":"Jun\/03"
+  },
+  "292":{
+    "Components":"WEC Energy",
+    "Price":82.11,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.9,
+    "Day":"1.10%",
+    "Year":"-6.43%",
+    "MCap":"25.83B",
+    "Date":"Jun\/04"
+  },
+  "293":{
+    "Components":"Fortive",
+    "Price":73.26,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.35,
+    "Day":"0.48%",
+    "Year":"9.52%",
+    "MCap":"25.74B",
+    "Date":"Jun\/04"
+  },
+  "294":{
+    "Components":"American Water Works",
+    "Price":132.86,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.08,
+    "Day":"1.59%",
+    "Year":"-8.95%",
+    "MCap":"25.62B",
+    "Date":"Jun\/04"
+  },
+  "295":{
+    "Components":"Targa Resources",
+    "Price":116.79,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.3,
+    "Day":"0.26%",
+    "Year":"64.73%",
+    "MCap":"25.54B",
+    "Date":"Jun\/04"
+  },
+  "296":{
+    "Components":"Brown & Brown",
+    "Price":89.93,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.14,
+    "Day":"1.28%",
+    "Year":"41.22%",
+    "MCap":"25.41B",
+    "Date":"Jun\/04"
+  },
+  "297":{
+    "Components":"Global Payments",
+    "Price":97.54,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.54,
+    "Day":"-1.55%",
+    "Year":"-0.57%",
+    "MCap":"25.11B",
+    "Date":"Jun\/04"
+  },
+  "298":{
+    "Components":"Raymond James Financial",
+    "Price":118.94,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.85,
+    "Day":"-1.53%",
+    "Year":"26.67%",
+    "MCap":"24.97B",
+    "Date":"Jun\/04"
+  },
+  "299":{
+    "Components":"Fifth Third Bancorp",
+    "Price":36.15,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.71,
+    "Day":"-1.91%",
+    "Year":"41.82%",
+    "MCap":"24.89B",
+    "Date":"Jun\/04"
+  },
+  "300":{
+    "Components":"Equity Residential",
+    "Price":65.66,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.34,
+    "Day":"0.51%",
+    "Year":"3.54%",
+    "MCap":"24.88B",
+    "Date":"Jun\/04"
+  },
+  "301":{
+    "Components":"Dover",
+    "Price":179.41,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.86,
+    "Day":"-1.03%",
+    "Year":"30.12%",
+    "MCap":"24.77B",
+    "Date":"Jun\/04"
+  },
+  "302":{
+    "Components":"NetApp",
+    "Price":119.08,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.11,
+    "Day":"0.09%",
+    "Year":"69.43%",
+    "MCap":"24.63B",
+    "Date":"Jun\/04"
+  },
+  "303":{
+    "Components":"M&T Bank",
+    "Price":146.61,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.74,
+    "Day":"-1.17%",
+    "Year":"20.08%",
+    "MCap":"24.55B",
+    "Date":"Jun\/04"
+  },
+  "304":{
+    "Components":"International Flavors Fragrances",
+    "Price":96.26,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.27,
+    "Day":"0.28%",
+    "Year":"20.88%",
+    "MCap":"24.39B",
+    "Date":"Jun\/04"
+  },
+  "305":{
+    "Components":"NVR",
+    "Price":7534.73,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-94.29,
+    "Day":"-1.24%",
+    "Year":"33.09%",
+    "MCap":"24.2B",
+    "Date":"Jun\/04"
+  },
+  "306":{
+    "Components":"Western Digital",
+    "Price":73.96,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.87,
+    "Day":"-1.16%",
+    "Year":"89.63%",
+    "MCap":"24.03B",
+    "Date":"Jun\/04"
+  },
+  "307":{
+    "Components":"PulteGroup",
+    "Price":112.98,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.58,
+    "Day":"-2.23%",
+    "Year":"62.75%",
+    "MCap":"24B",
+    "Date":"Jun\/04"
+  },
+  "308":{
+    "Components":"DTE Energy",
+    "Price":116.54,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.11,
+    "Day":"0.09%",
+    "Year":"6.56%",
+    "MCap":"23.9B",
+    "Date":"Jun\/04"
+  },
+  "309":{
+    "Components":"Cardinal Health",
+    "Price":98.26,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.34,
+    "Day":"-1.35%",
+    "Year":"15.93%",
+    "MCap":"23.81B",
+    "Date":"Jun\/04"
+  },
+  "310":{
+    "Components":"West Pharmaceutical Services",
+    "Price":318.53,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-9.6,
+    "Day":"-2.93%",
+    "Year":"-7.24%",
+    "MCap":"23.78B",
+    "Date":"Jun\/04"
+  },
+  "311":{
+    "Components":"Keysight Technologies",
+    "Price":135.83,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.1,
+    "Day":"-0.80%",
+    "Year":"-15.87%",
+    "MCap":"23.73B",
+    "Date":"Jun\/04"
+  },
+  "312":{
+    "Components":"Entergy",
+    "Price":111.61,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.15,
+    "Day":"-0.13%",
+    "Year":"11.88%",
+    "MCap":"23.69B",
+    "Date":"Jun\/04"
+  },
+  "313":{
+    "Components":"Iron Mountain",
+    "Price":81.17,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.67,
+    "Day":"2.10%",
+    "Year":"52.00%",
+    "MCap":"23.62B",
+    "Date":"Jun\/04"
+  },
+  "314":{
+    "Components":"Broadridge Financial Solutions",
+    "Price":200.06,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.73,
+    "Day":"0.36%",
+    "Year":"30.30%",
+    "MCap":"23.42B",
+    "Date":"Jun\/04"
+  },
+  "315":{
+    "Components":"Zimmer Biomet Holdings",
+    "Price":113.52,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.39,
+    "Day":"0.34%",
+    "Year":"-12.99%",
+    "MCap":"23.32B",
+    "Date":"Jun\/04"
+  },
+  "316":{
+    "Components":"Hewlett Packard",
+    "Price":17.61,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.31,
+    "Day":"-1.73%",
+    "Year":"17.24%",
+    "MCap":"23.24B",
+    "Date":"Jun\/04"
+  },
+  "317":{
+    "Components":"Aptiv",
+    "Price":84.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.16,
+    "Day":"-0.19%",
+    "Year":"-8.42%",
+    "MCap":"23.04B",
+    "Date":"Jun\/04"
+  },
+  "318":{
+    "Components":"FirstEnergy",
+    "Price":40.17,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.01,
+    "Day":"0.01%",
+    "Year":"5.32%",
+    "MCap":"22.93B",
+    "Date":"Jun\/04"
+  },
+  "319":{
+    "Components":"Steris",
+    "Price":228.72,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.06,
+    "Day":"0.03%",
+    "Year":"11.00%",
+    "MCap":"22.62B",
+    "Date":"Jun\/04"
+  },
+  "320":{
+    "Components":"Rollins",
+    "Price":47.31,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.22,
+    "Day":"2.64%",
+    "Year":"14.90%",
+    "MCap":"22.5B",
+    "Date":"Jun\/04"
+  },
+  "321":{
+    "Components":"State Street",
+    "Price":74.65,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.79,
+    "Day":"-1.04%",
+    "Year":"3.94%",
+    "MCap":"22.5B",
+    "Date":"Jun\/04"
+  },
+  "322":{
+    "Components":"Weyerhaeuser",
+    "Price":29.51,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.2,
+    "Day":"-0.67%",
+    "Year":"4.04%",
+    "MCap":"21.71B",
+    "Date":"Jun\/04"
+  },
+  "323":{
+    "Components":"Live Nation Entertainment",
+    "Price":93.62,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.72,
+    "Day":"-0.76%",
+    "Year":"13.48%",
+    "MCap":"21.68B",
+    "Date":"Jun\/04"
+  },
+  "324":{
+    "Components":"PPL",
+    "Price":29.37,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.1,
+    "Day":"0.32%",
+    "Year":"10.27%",
+    "MCap":"21.59B",
+    "Date":"Jun\/04"
+  },
+  "325":{
+    "Components":"Ball",
+    "Price":69.09,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.52,
+    "Day":"-0.74%",
+    "Year":"27.63%",
+    "MCap":"21.57B",
+    "Date":"Jun\/04"
+  },
+  "326":{
+    "Components":"SBA Communications",
+    "Price":198.46,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.7,
+    "Day":"0.86%",
+    "Year":"-11.51%",
+    "MCap":"21.44B",
+    "Date":"Jun\/04"
+  },
+  "327":{
+    "Components":"Teradyne",
+    "Price":139.7,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.95,
+    "Day":"-0.67%",
+    "Year":"37.61%",
+    "MCap":"21.42B",
+    "Date":"Jun\/04"
+  },
+  "328":{
+    "Components":"Invitation Homes",
+    "Price":34.85,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.13,
+    "Day":"0.37%",
+    "Year":"1.10%",
+    "MCap":"21.37B",
+    "Date":"Jun\/04"
+  },
+  "329":{
+    "Components":"Eversource Energy",
+    "Price":60.76,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.93,
+    "Day":"6.91%",
+    "Year":"-10.55%",
+    "MCap":"21.07B",
+    "Date":"Jun\/04"
+  },
+  "330":{
+    "Components":"Axon Enterprise",
+    "Price":276.22,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.31,
+    "Day":"-0.83%",
+    "Year":"43.97%",
+    "MCap":"21.02B",
+    "Date":"Jun\/04"
+  },
+  "331":{
+    "Components":"Alexandria Real Estate Equities",
+    "Price":117.49,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.28,
+    "Day":"-0.23%",
+    "Year":"1.78%",
+    "MCap":"20.74B",
+    "Date":"Jun\/04"
+  },
+  "332":{
+    "Components":"Kellogg",
+    "Price":60.49,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.52,
+    "Day":"0.87%",
+    "Year":"-10.39%",
+    "MCap":"20.6B",
+    "Date":"Jun\/04"
+  },
+  "333":{
+    "Components":"W.R. Berkley",
+    "Price":80.36,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.32,
+    "Day":"0.40%",
+    "Year":"39.95%",
+    "MCap":"20.53B",
+    "Date":"Jun\/04"
+  },
+  "334":{
+    "Components":"PTC",
+    "Price":171.54,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.49,
+    "Day":"-1.43%",
+    "Year":"23.16%",
+    "MCap":"20.4B",
+    "Date":"Jun\/04"
+  },
+  "335":{
+    "Components":"Coterra Energy",
+    "Price":27.48,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.26,
+    "Day":"-0.92%",
+    "Year":"15.78%",
+    "MCap":"20.38B",
+    "Date":"Jun\/04"
+  },
+  "336":{
+    "Components":"Tyson Foods",
+    "Price":56.72,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.34,
+    "Day":"-0.59%",
+    "Year":"12.29%",
+    "MCap":"20.22B",
+    "Date":"Jun\/04"
+  },
+  "337":{
+    "Components":"Tyler Technologies",
+    "Price":478.8,
+    "Unnamed: 2":null,
+    "Unnamed: 3":5.52,
+    "Day":"1.17%",
+    "Year":"20.24%",
+    "MCap":"20.21B",
+    "Date":"Jun\/04"
+  },
+  "338":{
+    "Components":"Steel Dynamics",
+    "Price":127.14,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-5.38,
+    "Day":"-4.06%",
+    "Year":"30.16%",
+    "MCap":"20.17B",
+    "Date":"Jun\/04"
+  },
+  "339":{
+    "Components":"Genuine Parts",
+    "Price":144.72,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.75,
+    "Day":"0.52%",
+    "Year":"-4.79%",
+    "MCap":"20.13B",
+    "Date":"Jun\/04"
+  },
+  "340":{
+    "Components":"Ventas",
+    "Price":49.99,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.35,
+    "Day":"-0.69%",
+    "Year":"11.92%",
+    "MCap":"20.12B",
+    "Date":"Jun\/04"
+  },
+  "341":{
+    "Components":"Warner Bros Discovery",
+    "Price":8.25,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.08,
+    "Day":"-0.96%",
+    "Year":"-29.06%",
+    "MCap":"20.01B",
+    "Date":"Jun\/04"
+  },
+  "342":{
+    "Components":"Huntington Bancshares",
+    "Price":13.48,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.2,
+    "Day":"-1.46%",
+    "Year":"25.12%",
+    "MCap":"19.68B",
+    "Date":"Jun\/04"
+  },
+  "343":{
+    "Components":"Ameren",
+    "Price":73.67,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.1,
+    "Day":"-0.13%",
+    "Year":"-10.09%",
+    "MCap":"19.59B",
+    "Date":"Jun\/04"
+  },
+  "344":{
+    "Components":"Leidos",
+    "Price":144.51,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.81,
+    "Day":"-0.56%",
+    "Year":"79.16%",
+    "MCap":"19.47B",
+    "Date":"Jun\/04"
+  },
+  "345":{
+    "Components":"CenterPoint Energy",
+    "Price":30.82,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.07,
+    "Day":"0.21%",
+    "Year":"7.18%",
+    "MCap":"19.45B",
+    "Date":"Jun\/04"
+  },
+  "346":{
+    "Components":"Ulta Salon Cosmetics Fragrance",
+    "Price":389.54,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.35,
+    "Day":"-0.09%",
+    "Year":"-7.47%",
+    "MCap":"19.01B",
+    "Date":"Jun\/04"
+  },
+  "347":{
+    "Components":"Seagate Technology",
+    "Price":91.86,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.57,
+    "Day":"0.62%",
+    "Year":"50.94%",
+    "MCap":"19B",
+    "Date":"Jun\/04"
+  },
+  "348":{
+    "Components":"Cooper Companies",
+    "Price":94.57,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.15,
+    "Day":"-0.16%",
+    "Year":"6.99%",
+    "MCap":"18.92B",
+    "Date":"Jun\/04"
+  },
+  "349":{
+    "Components":"Best Buy",
+    "Price":87.87,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.86,
+    "Day":"0.99%",
+    "Year":"20.65%",
+    "MCap":"18.9B",
+    "Date":"Jun\/04"
+  },
+  "350":{
+    "Components":"Principal Financial",
+    "Price":79.75,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.95,
+    "Day":"-1.18%",
+    "Year":"16.61%",
+    "MCap":"18.8B",
+    "Date":"Jun\/04"
+  },
+  "351":{
+    "Components":"Teledyne Technologies",
+    "Price":395.59,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.4,
+    "Day":"0.61%",
+    "Year":"1.13%",
+    "MCap":"18.77B",
+    "Date":"Jun\/04"
+  },
+  "352":{
+    "Components":"CMS Energy Corporation",
+    "Price":62.85,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.22,
+    "Day":"0.35%",
+    "Year":"6.54%",
+    "MCap":"18.68B",
+    "Date":"Jun\/04"
+  },
+  "353":{
+    "Components":"Carnival",
+    "Price":16.96,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.96,
+    "Day":"5.97%",
+    "Year":"37.85%",
+    "MCap":"18.67B",
+    "Date":"Jun\/04"
+  },
+  "354":{
+    "Components":"Align Technology",
+    "Price":248.71,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-5.76,
+    "Day":"-2.26%",
+    "Year":"-18.50%",
+    "MCap":"18.66B",
+    "Date":"Jun\/04"
+  },
+  "355":{
+    "Components":"Corpay",
+    "Price":257.12,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.23,
+    "Day":"-0.48%",
+    "Year":"10.51%",
+    "MCap":"18.56B",
+    "Date":"Jun\/04"
+  },
+  "356":{
+    "Components":"CBOE",
+    "Price":175.72,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.46,
+    "Day":"0.26%",
+    "Year":"30.11%",
+    "MCap":"18.49B",
+    "Date":"Jun\/04"
+  },
+  "357":{
+    "Components":"Waters",
+    "Price":307.19,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.36,
+    "Day":"-0.76%",
+    "Year":"18.36%",
+    "MCap":"18.31B",
+    "Date":"Jun\/04"
+  },
+  "358":{
+    "Components":"Avery Dennison",
+    "Price":227.34,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.52,
+    "Day":"0.23%",
+    "Year":"36.94%",
+    "MCap":"18.21B",
+    "Date":"Jun\/04"
+  },
+  "359":{
+    "Components":"Dominos Pizza",
+    "Price":521.23,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.95,
+    "Day":"-0.56%",
+    "Year":"75.01%",
+    "MCap":"18.05B",
+    "Date":"Jun\/04"
+  },
+  "360":{
+    "Components":"Omnicom",
+    "Price":91.22,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.9,
+    "Day":"1.00%",
+    "Year":"0.19%",
+    "MCap":"18.01B",
+    "Date":"Jun\/04"
+  },
+  "361":{
+    "Components":"Molina Healthcare",
+    "Price":307.65,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.88,
+    "Day":"-0.93%",
+    "Year":"4.95%",
+    "MCap":"17.98B",
+    "Date":"Jun\/04"
+  },
+  "362":{
+    "Components":"Darden Restaurants",
+    "Price":149.76,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.22,
+    "Day":"-0.81%",
+    "Year":"-7.00%",
+    "MCap":"17.97B",
+    "Date":"Jun\/04"
+  },
+  "363":{
+    "Components":"Verisign",
+    "Price":178.95,
+    "Unnamed: 2":null,
+    "Unnamed: 3":4.08,
+    "Day":"2.33%",
+    "Year":"-20.45%",
+    "MCap":"17.91B",
+    "Date":"Jun\/04"
+  },
+  "364":{
+    "Components":"McCormick",
+    "Price":68.84,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.02,
+    "Day":"-4.20%",
+    "Year":"-22.44%",
+    "MCap":"17.83B",
+    "Date":"Jun\/04"
+  },
+  "365":{
+    "Components":"EQT",
+    "Price":40.61,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.43,
+    "Day":"-1.04%",
+    "Year":"12.67%",
+    "MCap":"17.79B",
+    "Date":"Jun\/04"
+  },
+  "366":{
+    "Components":"Expeditors International Of Washington",
+    "Price":122.28,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.94,
+    "Day":"0.77%",
+    "Year":"7.01%",
+    "MCap":"17.57B",
+    "Date":"Jun\/04"
+  },
+  "367":{
+    "Components":"Synchrony Financial",
+    "Price":42.54,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.99,
+    "Day":"-2.27%",
+    "Year":"30.04%",
+    "MCap":"17.53B",
+    "Date":"Jun\/04"
+  },
+  "368":{
+    "Components":"Hologic",
+    "Price":74.63,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.12,
+    "Day":"0.15%",
+    "Year":"-5.58%",
+    "MCap":"17.49B",
+    "Date":"Jun\/04"
+  },
+  "369":{
+    "Components":"United Airlines Holdings",
+    "Price":52.33,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.36,
+    "Day":"-0.68%",
+    "Year":"8.43%",
+    "MCap":"17.41B",
+    "Date":"Jun\/04"
+  },
+  "370":{
+    "Components":"Atmos Energy",
+    "Price":115.84,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.37,
+    "Day":"0.32%",
+    "Year":"1.08%",
+    "MCap":"17.33B",
+    "Date":"Jun\/04"
+  },
+  "371":{
+    "Components":"Baxter International",
+    "Price":33.29,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.73,
+    "Day":"-2.15%",
+    "Year":"-20.08%",
+    "MCap":"17.28B",
+    "Date":"Jun\/04"
+  },
+  "372":{
+    "Components":"Enphase Energy",
+    "Price":129.82,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.4,
+    "Day":"1.88%",
+    "Year":"-28.96%",
+    "MCap":"17.26B",
+    "Date":"Jun\/04"
+  },
+  "373":{
+    "Components":"Regions Financial",
+    "Price":18.7,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.21,
+    "Day":"-1.11%",
+    "Year":"5.06%",
+    "MCap":"17.19B",
+    "Date":"Jun\/04"
+  },
+  "374":{
+    "Components":"Jacobs Engineering",
+    "Price":138.45,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.49,
+    "Day":"0.35%",
+    "Year":"21.12%",
+    "MCap":"17.16B",
+    "Date":"Jun\/04"
+  },
+  "375":{
+    "Components":"Hormel Foods",
+    "Price":30.8,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.11,
+    "Day":"-0.34%",
+    "Year":"-24.08%",
+    "MCap":"17.03B",
+    "Date":"Jun\/04"
+  },
+  "376":{
+    "Components":"Northern",
+    "Price":83.46,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.11,
+    "Day":"-0.13%",
+    "Year":"12.25%",
+    "MCap":"16.88B",
+    "Date":"Jun\/04"
+  },
+  "377":{
+    "Components":"Essex Property",
+    "Price":264.05,
+    "Unnamed: 2":null,
+    "Unnamed: 3":3.6,
+    "Day":"1.38%",
+    "Year":"17.24%",
+    "MCap":"16.84B",
+    "Date":"Jun\/04"
+  },
+  "378":{
+    "Components":"Everest Re",
+    "Price":384.42,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.72,
+    "Day":"-0.70%",
+    "Year":"12.23%",
+    "MCap":"16.73B",
+    "Date":"Jun\/04"
+  },
+  "379":{
+    "Components":"Loews",
+    "Price":75.57,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.25,
+    "Day":"0.33%",
+    "Year":"34.00%",
+    "MCap":"16.73B",
+    "Date":"Jun\/04"
+  },
+  "380":{
+    "Components":"Textron",
+    "Price":86.99,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.42,
+    "Day":"-0.48%",
+    "Year":"37.45%",
+    "MCap":"16.68B",
+    "Date":"Jun\/04"
+  },
+  "381":{
+    "Components":"Southwest Airlines",
+    "Price":27.77,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.1,
+    "Day":"0.34%",
+    "Year":"-7.43%",
+    "MCap":"16.59B",
+    "Date":"Jun\/04"
+  },
+  "382":{
+    "Components":"J. B. Hunt",
+    "Price":158.55,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.02,
+    "Day":"-1.26%",
+    "Year":"-6.46%",
+    "MCap":"16.53B",
+    "Date":"Jun\/04"
+  },
+  "383":{
+    "Components":"NRG Energy",
+    "Price":77.76,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.94,
+    "Day":"-3.64%",
+    "Year":"134.78%",
+    "MCap":"16.43B",
+    "Date":"Jun\/04"
+  },
+  "384":{
+    "Components":"Clorox",
+    "Price":132.43,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.44,
+    "Day":"1.10%",
+    "Year":"-18.40%",
+    "MCap":"16.4B",
+    "Date":"Jun\/04"
+  },
+  "385":{
+    "Components":"Illumina",
+    "Price":102.12,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.13,
+    "Day":"-1.09%",
+    "Year":"-51.50%",
+    "MCap":"16.37B",
+    "Date":"Jun\/04"
+  },
+  "386":{
+    "Components":"Packaging Of America",
+    "Price":182.21,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.71,
+    "Day":"-0.39%",
+    "Year":"43.30%",
+    "MCap":"16.35B",
+    "Date":"Jun\/04"
+  },
+  "387":{
+    "Components":"Celanese",
+    "Price":145.15,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.92,
+    "Day":"-1.97%",
+    "Year":"27.46%",
+    "MCap":"16.29B",
+    "Date":"Jun\/04"
+  },
+  "388":{
+    "Components":"Laboratory Of America",
+    "Price":197.31,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.29,
+    "Day":"1.17%",
+    "Year":"-9.40%",
+    "MCap":"16.28B",
+    "Date":"Jun\/04"
+  },
+  "389":{
+    "Components":"Marathon Oil",
+    "Price":27.92,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.48,
+    "Day":"-1.70%",
+    "Year":"21.71%",
+    "MCap":"16.11B",
+    "Date":"Jun\/04"
+  },
+  "390":{
+    "Components":"Gen Digital",
+    "Price":24.83,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.01,
+    "Day":"0.04%",
+    "Year":"38.15%",
+    "MCap":"15.84B",
+    "Date":"Jun\/04"
+  },
+  "391":{
+    "Components":"Mid-America Apartment Communities",
+    "Price":136.52,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.78,
+    "Day":"2.07%",
+    "Year":"-9.20%",
+    "MCap":"15.81B",
+    "Date":"Jun\/04"
+  },
+  "392":{
+    "Components":"Citizens Financial",
+    "Price":34.14,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.59,
+    "Day":"-1.70%",
+    "Year":"24.17%",
+    "MCap":"15.78B",
+    "Date":"Jun\/04"
+  },
+  "393":{
+    "Components":"Zebra Technologies",
+    "Price":302.67,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.93,
+    "Day":"-1.28%",
+    "Year":"12.47%",
+    "MCap":"15.64B",
+    "Date":"Jun\/04"
+  },
+  "394":{
+    "Components":"IDEX",
+    "Price":205.89,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.24,
+    "Day":"-0.12%",
+    "Year":"0.24%",
+    "MCap":"15.63B",
+    "Date":"Jun\/04"
+  },
+  "395":{
+    "Components":"Quest Diagnostics",
+    "Price":141.52,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.35,
+    "Day":"0.25%",
+    "Year":"5.44%",
+    "MCap":"15.61B",
+    "Date":"Jun\/04"
+  },
+  "396":{
+    "Components":"Expedia",
+    "Price":114.47,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.51,
+    "Day":"0.45%",
+    "Year":"7.08%",
+    "MCap":"15.57B",
+    "Date":"Jun\/04"
+  },
+  "397":{
+    "Components":"Bunge",
+    "Price":106.8,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.58,
+    "Day":"-1.45%",
+    "Year":"16.41%",
+    "MCap":"15.39B",
+    "Date":"Jun\/04"
+  },
+  "398":{
+    "Components":"International Paper",
+    "Price":44.26,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.39,
+    "Day":"-3.04%",
+    "Year":"46.17%",
+    "MCap":"15.36B",
+    "Date":"Jun\/04"
+  },
+  "399":{
+    "Components":"FactSet Research Systems",
+    "Price":396.14,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.26,
+    "Day":"0.32%",
+    "Year":"-0.51%",
+    "MCap":"15.14B",
+    "Date":"Jun\/04"
+  },
+  "400":{
+    "Components":"CF Industries",
+    "Price":80.51,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.13,
+    "Day":"-0.16%",
+    "Year":"26.07%",
+    "MCap":"15.06B",
+    "Date":"Jun\/04"
+  },
+  "401":{
+    "Components":"Masco",
+    "Price":67.12,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.51,
+    "Day":"-2.20%",
+    "Year":"31.89%",
+    "MCap":"14.94B",
+    "Date":"Jun\/04"
+  },
+  "402":{
+    "Components":"Amcor",
+    "Price":10.25,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.03,
+    "Day":"0.29%",
+    "Year":"2.50%",
+    "MCap":"14.81B",
+    "Date":"Jun\/04"
+  },
+  "403":{
+    "Components":"AES",
+    "Price":20.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.26,
+    "Day":"-1.23%",
+    "Year":"2.07%",
+    "MCap":"14.53B",
+    "Date":"Jun\/04"
+  },
+  "404":{
+    "Components":"Skyworks Solutions",
+    "Price":90.71,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.04,
+    "Day":"0.04%",
+    "Year":"-14.34%",
+    "MCap":"14.51B",
+    "Date":"Jun\/04"
+  },
+  "405":{
+    "Components":"Conagra Foods",
+    "Price":30.0,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.24,
+    "Day":"0.79%",
+    "Year":"-14.33%",
+    "MCap":"14.25B",
+    "Date":"Jun\/04"
+  },
+  "406":{
+    "Components":"Snap-On",
+    "Price":266.82,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.89,
+    "Day":"-0.70%",
+    "Year":"2.87%",
+    "MCap":"14.09B",
+    "Date":"Jun\/04"
+  },
+  "407":{
+    "Components":"Albemarle",
+    "Price":118.37,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.57,
+    "Day":"-2.13%",
+    "Year":"-42.59%",
+    "MCap":"14.08B",
+    "Date":"Jun\/04"
+  },
+  "408":{
+    "Components":"Healthpeak Properties",
+    "Price":19.91,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.14,
+    "Day":"0.68%",
+    "Year":"-3.23%",
+    "MCap":"14.03B",
+    "Date":"Jun\/04"
+  },
+  "409":{
+    "Components":"Brown-Forman",
+    "Price":45.87,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.23,
+    "Day":"-0.50%",
+    "Year":"-27.28%",
+    "MCap":"13.92B",
+    "Date":"Jun\/04"
+  },
+  "410":{
+    "Components":"WestRock",
+    "Price":54.02,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.78,
+    "Day":"-1.42%",
+    "Year":"88.86%",
+    "MCap":"13.91B",
+    "Date":"Jun\/04"
+  },
+  "411":{
+    "Components":"Walgreens Boots Alliance",
+    "Price":16.11,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.23,
+    "Day":"1.45%",
+    "Year":"-48.46%",
+    "MCap":"13.76B",
+    "Date":"Jun\/04"
+  },
+  "412":{
+    "Components":"Pool",
+    "Price":353.7,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-7.23,
+    "Day":"-2.00%",
+    "Year":"8.04%",
+    "MCap":"13.72B",
+    "Date":"Jun\/04"
+  },
+  "413":{
+    "Components":"Akamai",
+    "Price":91.02,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.25,
+    "Day":"0.27%",
+    "Year":"-3.01%",
+    "MCap":"13.71B",
+    "Date":"Jun\/04"
+  },
+  "414":{
+    "Components":"Revvity",
+    "Price":108.52,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.25,
+    "Day":"-0.23%",
+    "Year":"-5.19%",
+    "MCap":"13.43B",
+    "Date":"Jun\/04"
+  },
+  "415":{
+    "Components":"Trimble Navigation",
+    "Price":54.02,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.63,
+    "Day":"-1.14%",
+    "Year":"11.34%",
+    "MCap":"13.28B",
+    "Date":"Jun\/04"
+  },
+  "416":{
+    "Components":"Incyte",
+    "Price":58.57,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.25,
+    "Day":"-0.43%",
+    "Year":"-6.09%",
+    "MCap":"13.2B",
+    "Date":"Jun\/04"
+  },
+  "417":{
+    "Components":"Alliant Energy",
+    "Price":51.76,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.68,
+    "Day":"1.33%",
+    "Year":"-1.00%",
+    "MCap":"13.11B",
+    "Date":"Jun\/04"
+  },
+  "418":{
+    "Components":"Campbell Soup",
+    "Price":44.17,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.05,
+    "Day":"-0.11%",
+    "Year":"-14.33%",
+    "MCap":"13.11B",
+    "Date":"Jun\/04"
+  },
+  "419":{
+    "Components":"Pentair",
+    "Price":78.95,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.89,
+    "Day":"-1.11%",
+    "Year":"36.12%",
+    "MCap":"13.05B",
+    "Date":"Jun\/04"
+  },
+  "420":{
+    "Components":"Kimco Realty",
+    "Price":19.27,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.26,
+    "Day":"-1.33%",
+    "Year":"3.05%",
+    "MCap":"13.02B",
+    "Date":"Jun\/04"
+  },
+  "421":{
+    "Components":"Nordson",
+    "Price":227.94,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.35,
+    "Day":"-0.59%",
+    "Year":"1.51%",
+    "MCap":"13.02B",
+    "Date":"Jun\/04"
+  },
+  "422":{
+    "Components":"Stanley Black & Decker",
+    "Price":83.04,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.82,
+    "Day":"-4.40%",
+    "Year":"4.72%",
+    "MCap":"12.97B",
+    "Date":"Jun\/04"
+  },
+  "423":{
+    "Components":"UDR",
+    "Price":39.61,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.78,
+    "Day":"2.00%",
+    "Year":"-3.84%",
+    "MCap":"12.9B",
+    "Date":"Jun\/04"
+  },
+  "424":{
+    "Components":"NiSource",
+    "Price":29.08,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.49,
+    "Day":"1.70%",
+    "Year":"8.63%",
+    "MCap":"12.89B",
+    "Date":"Jun\/04"
+  },
+  "425":{
+    "Components":"Insulet",
+    "Price":181.97,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.51,
+    "Day":"0.28%",
+    "Year":"-35.94%",
+    "MCap":"12.83B",
+    "Date":"Jun\/04"
+  },
+  "426":{
+    "Components":"KeyCorp",
+    "Price":13.86,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.27,
+    "Day":"-1.88%",
+    "Year":"36.82%",
+    "MCap":"12.81B",
+    "Date":"Jun\/04"
+  },
+  "427":{
+    "Components":"Host Hotels & Resorts",
+    "Price":18.01,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.14,
+    "Day":"-0.77%",
+    "Year":"3.45%",
+    "MCap":"12.81B",
+    "Date":"Jun\/04"
+  },
+  "428":{
+    "Components":"MGM Resorts International",
+    "Price":39.42,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.78,
+    "Day":"-1.94%",
+    "Year":"-3.30%",
+    "MCap":"12.58B",
+    "Date":"Jun\/04"
+  },
+  "429":{
+    "Components":"Viatris",
+    "Price":10.53,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.06,
+    "Day":"-0.52%",
+    "Year":"12.81%",
+    "MCap":"12.57B",
+    "Date":"Jun\/04"
+  },
+  "430":{
+    "Components":"DaVita Healthcare Partners",
+    "Price":143.3,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.68,
+    "Day":"-2.50%",
+    "Year":"51.30%",
+    "MCap":"12.54B",
+    "Date":"Jun\/04"
+  },
+  "431":{
+    "Components":"Evergy",
+    "Price":54.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.25,
+    "Day":"0.46%",
+    "Year":"-6.37%",
+    "MCap":"12.52B",
+    "Date":"Jun\/04"
+  },
+  "432":{
+    "Components":"Lamb Weston Holdings",
+    "Price":86.49,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.81,
+    "Day":"-0.93%",
+    "Year":"-24.44%",
+    "MCap":"12.49B",
+    "Date":"Jun\/04"
+  },
+  "433":{
+    "Components":"Franklin Resources",
+    "Price":23.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.09,
+    "Day":"0.36%",
+    "Year":"-6.17%",
+    "MCap":"12.42B",
+    "Date":"Jun\/04"
+  },
+  "434":{
+    "Components":"Universal Health Services",
+    "Price":184.57,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.85,
+    "Day":"-0.99%",
+    "Year":"37.01%",
+    "MCap":"12.37B",
+    "Date":"Jun\/04"
+  },
+  "435":{
+    "Components":"Bio Techne",
+    "Price":76.89,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.87,
+    "Day":"-1.12%",
+    "Year":"-6.99%",
+    "MCap":"12.31B",
+    "Date":"Jun\/04"
+  },
+  "436":{
+    "Components":"A.O. Smith",
+    "Price":81.15,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.95,
+    "Day":"-1.16%",
+    "Year":"18.55%",
+    "MCap":"12.05B",
+    "Date":"Jun\/04"
+  },
+  "437":{
+    "Components":"Jack Henry Associates",
+    "Price":161.67,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.39,
+    "Day":"-0.85%",
+    "Year":"4.15%",
+    "MCap":"11.84B",
+    "Date":"Jun\/04"
+  },
+  "438":{
+    "Components":"J.M. Smucker",
+    "Price":111.7,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.23,
+    "Day":"0.21%",
+    "Year":"-25.01%",
+    "MCap":"11.75B",
+    "Date":"Jun\/04"
+  },
+  "439":{
+    "Components":"Ralph Lauren",
+    "Price":181.04,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-4.42,
+    "Day":"-2.38%",
+    "Year":"59.96%",
+    "MCap":"11.65B",
+    "Date":"Jun\/04"
+  },
+  "440":{
+    "Components":"Interpublic Of Companies",
+    "Price":31.04,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.07,
+    "Day":"0.23%",
+    "Year":"-18.24%",
+    "MCap":"11.65B",
+    "Date":"Jun\/04"
+  },
+  "441":{
+    "Components":"Eastman Chemical",
+    "Price":97.52,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.02,
+    "Day":"-1.04%",
+    "Year":"18.61%",
+    "MCap":"11.46B",
+    "Date":"Jun\/04"
+  },
+  "442":{
+    "Components":"Juniper Networks",
+    "Price":35.23,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.26,
+    "Day":"-0.72%",
+    "Year":"17.26%",
+    "MCap":"11.43B",
+    "Date":"Jun\/04"
+  },
+  "443":{
+    "Components":"Regency Centers",
+    "Price":61.53,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.38,
+    "Day":"-0.61%",
+    "Year":"6.10%",
+    "MCap":"11.42B",
+    "Date":"Jun\/04"
+  },
+  "444":{
+    "Components":"Camden Property",
+    "Price":106.46,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.95,
+    "Day":"2.85%",
+    "Year":"-2.03%",
+    "MCap":"11.42B",
+    "Date":"Jun\/04"
+  },
+  "445":{
+    "Components":"LKQ",
+    "Price":42.09,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.0,
+    "Day":"-2.32%",
+    "Year":"-21.32%",
+    "MCap":"11.29B",
+    "Date":"Jun\/04"
+  },
+  "446":{
+    "Components":"CarMax",
+    "Price":70.9,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.38,
+    "Day":"0.54%",
+    "Year":"-5.79%",
+    "MCap":"11.16B",
+    "Date":"Jun\/04"
+  },
+  "447":{
+    "Components":"Charles River Laboratories",
+    "Price":210.01,
+    "Unnamed: 2":null,
+    "Unnamed: 3":2.42,
+    "Day":"1.16%",
+    "Year":"5.47%",
+    "MCap":"10.7B",
+    "Date":"Jun\/04"
+  },
+  "448":{
+    "Components":"Molson Coors Brewing",
+    "Price":52.93,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.54,
+    "Day":"-1.01%",
+    "Year":"-17.05%",
+    "MCap":"10.52B",
+    "Date":"Jun\/04"
+  },
+  "449":{
+    "Components":"Wynn Resorts",
+    "Price":92.94,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.88,
+    "Day":"-1.98%",
+    "Year":"-7.59%",
+    "MCap":"10.45B",
+    "Date":"Jun\/04"
+  },
+  "450":{
+    "Components":"Allegion",
+    "Price":117.58,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.93,
+    "Day":"-2.43%",
+    "Year":"8.40%",
+    "MCap":"10.37B",
+    "Date":"Jun\/04"
+  },
+  "451":{
+    "Components":"Bath And Body Works",
+    "Price":45.18,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-6.61,
+    "Day":"-12.76%",
+    "Year":"13.51%",
+    "MCap":"10.25B",
+    "Date":"Jun\/04"
+  },
+  "452":{
+    "Components":"EPAM Systems",
+    "Price":174.38,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.7,
+    "Day":"-0.97%",
+    "Year":"-14.20%",
+    "MCap":"10.25B",
+    "Date":"Jun\/04"
+  },
+  "453":{
+    "Components":"C.H. Robinson Worldwide",
+    "Price":86.03,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.07,
+    "Day":"-1.23%",
+    "Year":"-5.88%",
+    "MCap":"10.13B",
+    "Date":"Jun\/04"
+  },
+  "454":{
+    "Components":"Teleflex",
+    "Price":214.95,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.3,
+    "Day":"-0.14%",
+    "Year":"-10.69%",
+    "MCap":"10.12B",
+    "Date":"Jun\/04"
+  },
+  "455":{
+    "Components":"Tapestry",
+    "Price":43.92,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.33,
+    "Day":"-0.75%",
+    "Year":"5.96%",
+    "MCap":"10.07B",
+    "Date":"Jun\/04"
+  },
+  "456":{
+    "Components":"Huntington Ingalls Industries",
+    "Price":250.65,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.29,
+    "Day":"0.12%",
+    "Year":"20.67%",
+    "MCap":"9.89B",
+    "Date":"Jun\/04"
+  },
+  "457":{
+    "Components":"Catalent",
+    "Price":54.97,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.82,
+    "Day":"1.50%",
+    "Year":"45.42%",
+    "MCap":"9.83B",
+    "Date":"Jun\/04"
+  },
+  "458":{
+    "Components":"Mosaic",
+    "Price":29.79,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.83,
+    "Day":"-2.69%",
+    "Year":"-10.38%",
+    "MCap":"9.62B",
+    "Date":"Jun\/04"
+  },
+  "459":{
+    "Components":"Pinnacle West Capital",
+    "Price":77.97,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.06,
+    "Day":"1.38%",
+    "Year":"0.27%",
+    "MCap":"9.61B",
+    "Date":"Jun\/04"
+  },
+  "460":{
+    "Components":"Boston Properties",
+    "Price":59.93,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.01,
+    "Day":"-0.02%",
+    "Year":"20.61%",
+    "MCap":"9.49B",
+    "Date":"Jun\/04"
+  },
+  "461":{
+    "Components":"Qorvo",
+    "Price":97.73,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.26,
+    "Day":"-0.26%",
+    "Year":"1.91%",
+    "MCap":"9.39B",
+    "Date":"Jun\/04"
+  },
+  "462":{
+    "Components":"F5 Networks",
+    "Price":167.82,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.94,
+    "Day":"0.56%",
+    "Year":"15.77%",
+    "MCap":"9.1B",
+    "Date":"Jun\/04"
+  },
+  "463":{
+    "Components":"Henry Schein",
+    "Price":69.65,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.06,
+    "Day":"0.09%",
+    "Year":"-7.45%",
+    "MCap":"8.98B",
+    "Date":"Jun\/04"
+  },
+  "464":{
+    "Components":"Assurant",
+    "Price":171.98,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.53,
+    "Day":"-0.31%",
+    "Year":"39.68%",
+    "MCap":"8.89B",
+    "Date":"Jun\/04"
+  },
+  "465":{
+    "Components":"APA",
+    "Price":28.97,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.49,
+    "Day":"-1.65%",
+    "Year":"-12.40%",
+    "MCap":"8.71B",
+    "Date":"Jun\/04"
+  },
+  "466":{
+    "Components":"Paycom Software",
+    "Price":146.65,
+    "Unnamed: 2":null,
+    "Unnamed: 3":1.37,
+    "Day":"0.94%",
+    "Year":"-52.06%",
+    "MCap":"8.62B",
+    "Date":"Jun\/04"
+  },
+  "467":{
+    "Components":"Federal Realty Investment",
+    "Price":101.68,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.39,
+    "Day":"0.39%",
+    "Year":"12.35%",
+    "MCap":"8.43B",
+    "Date":"Jun\/04"
+  },
+  "468":{
+    "Components":"Generac",
+    "Price":139.31,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.88,
+    "Day":"-1.33%",
+    "Year":"23.61%",
+    "MCap":"8.39B",
+    "Date":"Jun\/04"
+  },
+  "469":{
+    "Components":"Match",
+    "Price":31.09,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.06,
+    "Day":"0.19%",
+    "Year":"-19.74%",
+    "MCap":"8.24B",
+    "Date":"Jun\/04"
+  },
+  "470":{
+    "Components":"Bio-Rad Laboratories",
+    "Price":288.27,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.05,
+    "Day":"-0.02%",
+    "Year":"-21.79%",
+    "MCap":"8.16B",
+    "Date":"Jun\/04"
+  },
+  "471":{
+    "Components":"Borgwarner",
+    "Price":34.7,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.22,
+    "Day":"-3.38%",
+    "Year":"-26.09%",
+    "MCap":"8.15B",
+    "Date":"Jun\/04"
+  },
+  "472":{
+    "Components":"Hasbro",
+    "Price":57.5,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.04,
+    "Day":"-1.78%",
+    "Year":"-4.00%",
+    "MCap":"8.05B",
+    "Date":"Jun\/04"
+  },
+  "473":{
+    "Components":"Globe Life",
+    "Price":82.11,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.38,
+    "Day":"-0.45%",
+    "Year":"-22.52%",
+    "MCap":"7.81B",
+    "Date":"Jun\/04"
+  },
+  "474":{
+    "Components":"Dayforce",
+    "Price":49.73,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.02,
+    "Day":"0.04%",
+    "Year":"-24.91%",
+    "MCap":"7.73B",
+    "Date":"Jun\/04"
+  },
+  "475":{
+    "Components":"Mohawk Industries",
+    "Price":115.84,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-5.41,
+    "Day":"-4.46%",
+    "Year":"20.96%",
+    "MCap":"7.64B",
+    "Date":"Jun\/04"
+  },
+  "476":{
+    "Components":"American Airlines",
+    "Price":11.51,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.02,
+    "Day":"-0.17%",
+    "Year":"-22.28%",
+    "MCap":"7.6B",
+    "Date":"Jun\/04"
+  },
+  "477":{
+    "Components":"ETSY",
+    "Price":64.87,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.32,
+    "Day":"-0.48%",
+    "Year":"-23.91%",
+    "MCap":"7.59B",
+    "Date":"Jun\/04"
+  },
+  "478":{
+    "Components":"Caesars Entertainment",
+    "Price":35.52,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.11,
+    "Day":"-0.29%",
+    "Year":"-23.20%",
+    "MCap":"7.59B",
+    "Date":"Jun\/04"
+  },
+  "479":{
+    "Components":"Fox",
+    "Price":32.17,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.09,
+    "Day":"-0.28%",
+    "Year":"6.95%",
+    "MCap":"7.59B",
+    "Date":"Jun\/04"
+  },
+  "480":{
+    "Components":"MarketAxess",
+    "Price":199.48,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.42,
+    "Day":"0.21%",
+    "Year":"-27.17%",
+    "MCap":"7.58B",
+    "Date":"Jun\/04"
+  },
+  "481":{
+    "Components":"Paramount Global",
+    "Price":12.23,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.58,
+    "Day":"-4.49%",
+    "Year":"-19.20%",
+    "MCap":"7.56B",
+    "Date":"Jun\/04"
+  },
+  "482":{
+    "Components":"Norwegian Cruise Line",
+    "Price":17.88,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.67,
+    "Day":"3.86%",
+    "Year":"10.51%",
+    "MCap":"7.5B",
+    "Date":"Jun\/04"
+  },
+  "483":{
+    "Components":"FMC",
+    "Price":56.81,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.92,
+    "Day":"-3.27%",
+    "Year":"-47.12%",
+    "MCap":"7.1B",
+    "Date":"Jun\/04"
+  },
+  "484":{
+    "Components":"Invesco",
+    "Price":15.47,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.04,
+    "Day":"0.23%",
+    "Year":"4.39%",
+    "MCap":"7.02B",
+    "Date":"Jun\/04"
+  },
+  "485":{
+    "Components":"Robert Half International",
+    "Price":63.77,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.05,
+    "Day":"0.08%",
+    "Year":"-8.39%",
+    "MCap":"6.71B",
+    "Date":"Jun\/04"
+  },
+  "486":{
+    "Components":"Comerica",
+    "Price":48.39,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-1.25,
+    "Day":"-2.51%",
+    "Year":"19.94%",
+    "MCap":"6.47B",
+    "Date":"Jun\/04"
+  },
+  "487":{
+    "Components":"Zions Bancorporation",
+    "Price":41.15,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.91,
+    "Day":"-2.16%",
+    "Year":"43.28%",
+    "MCap":"6.09B",
+    "Date":"Jun\/04"
+  },
+  "488":{
+    "Components":"Dentsply International",
+    "Price":27.75,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.32,
+    "Day":"-1.14%",
+    "Year":"-28.71%",
+    "MCap":"5.82B",
+    "Date":"Jun\/04"
+  },
+  "489":{
+    "Components":"Sealed Air",
+    "Price":40.12,
+    "Unnamed: 2":null,
+    "Unnamed: 3":0.54,
+    "Day":"1.36%",
+    "Year":"1.61%",
+    "MCap":"5.74B",
+    "Date":"Jun\/04"
+  },
+  "490":{
+    "Components":"Organon & Co",
+    "Price":20.89,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.43,
+    "Day":"-2.04%",
+    "Year":"3.44%",
+    "MCap":"5.4B",
+    "Date":"Jun\/04"
+  },
+  "491":{
+    "Components":"News",
+    "Price":27.75,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.3,
+    "Day":"-1.05%",
+    "Year":"47.45%",
+    "MCap":"5.35B",
+    "Date":"Jun\/04"
+  },
+  "492":{
+    "Components":"Alaska Air",
+    "Price":41.72,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.18,
+    "Day":"-0.42%",
+    "Year":"-9.85%",
+    "MCap":"5.27B",
+    "Date":"Jun\/04"
+  },
+  "493":{
+    "Components":"VF",
+    "Price":13.12,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.7,
+    "Day":"-5.03%",
+    "Year":"-26.79%",
+    "MCap":"5.23B",
+    "Date":"Jun\/04"
+  },
+  "494":{
+    "Components":"Whirlpool",
+    "Price":89.23,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-3.0,
+    "Day":"-3.25%",
+    "Year":"-33.15%",
+    "MCap":"4.94B",
+    "Date":"Jun\/04"
+  },
+  "495":{
+    "Components":"Advance Auto Parts",
+    "Price":65.21,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-2.29,
+    "Day":"-3.39%",
+    "Year":"-0.58%",
+    "MCap":"3.87B",
+    "Date":"Jun\/04"
+  },
+  "496":{
+    "Components":"DXC Technology",
+    "Price":15.59,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.13,
+    "Day":"-0.80%",
+    "Year":"-37.86%",
+    "MCap":"2.85B",
+    "Date":"Jun\/04"
+  },
+  "497":{
+    "Components":"Solaredge Technologies",
+    "Price":47.37,
+    "Unnamed: 2":null,
+    "Unnamed: 3":-0.48,
+    "Day":"-1.00%",
+    "Year":"-83.89%",
+    "MCap":"2.77B",
+    "Date":"Jun\/04"
+  }
+}
